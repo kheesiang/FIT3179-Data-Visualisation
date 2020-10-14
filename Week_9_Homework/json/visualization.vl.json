@@ -4,7 +4,7 @@
   "width": 800,
   "height": 600,
   "data": {
-    "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/Week%209%20Homework/json/ne_110m_admin_0_countries.topojson",
+    "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/Week_9_Homework/json/ne_110m_admin_0_countries.topojson",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
   "transform": [
@@ -12,7 +12,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/Week%209%20Homework/data%20source/covid_10_10_2020.csv"
+          "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/Week_9_Homework/data_source/covid_10_10_2020.csv"
         },
         "key": "Country",
         "fields": ["Active"]
