@@ -13,9 +13,21 @@
 </head>
 <body>
   
+<h1>Week 10 Homework</h1>
+  
+<h2>First Visualisation from Week 9</h2>
+<div id="choropleth_map"></div>
+
+<h2>Second Visualisation from Week 10</h2>
 <div id="scatter_plot"></div>
 
 <script type="text/javascript">
+  
+  var spec1 = "json/visualisation.vl.json";
+  
+  vegaEmbed('#choropleth_map', spec1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
 
   var spec2 = "json/Scatterplot.vl.json";
   vegaEmbed('#scatter_plot', spec2).then(function(result) {
