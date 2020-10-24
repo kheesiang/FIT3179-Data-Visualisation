@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Goals Scored",
+  "title": "Player Statistics For Liverpool (BPL 19-20)",
   "width": 800,
   "height": 600,
   "data": {
@@ -19,33 +19,29 @@
       }
     },
     {
-      "name": "position_selection",
+      "name": "team_selection",
       "bind": {
         "input": "select",
-        "options": [
-          null,
-          "Defender",
-          "Forward",
-          "Goalkeeper",
-          "Midfielder"
-        ],
-        "labels":[
+        "options": [null, "Liverpool", "Man City", "Man Utd", "Chelsea", "Leicester"],
+        "labels": [
           "Show All",
-          "Defender",
-          "Forward",
-          "Goalkeeper",
-          "Midfielder"
+          "Liverpool",
+          "Man City",
+          "Man Utd",
+          "Chelsea",
+          "Leicester"
         ],
         "name": "Position: "
       }
     }
   ],
   "transform": [
-    {"filter": {"field": "teamId", "equal": "Liverpool"}},
-    {"filter": "position_selection == null || datum.position == position_selection"},
+    {"filter": {"field": "teamId", "oneOf": ["Liverpool", "Man City", "Man Utd", "Chelsea", "Leicester"]}},
+    {
+      "filter": "team_selection == null || datum.teamId == team_selection"
+    },
     {"filter": "datum.goals_scored >= goals_selection"}
   ],
-  "mark": "circle",
   "encoding": {
     "x": {
       "field": "goals_scored",
@@ -53,28 +49,86 @@
       "title": "Total Goals Scored"
     },
     "y": {
-      "field": "assists",
-      "type": "quantitative",
+      "field": "assists", 
+      "type": "quantitative", 
       "title": "Total Assists"
+      }
+  },
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "minutes",
+          "type": "quantitative",
+          "title": "Minutes Played"
+        },
+        "color": {
+          "field": "teamId",
+          "type": "nominal",
+          "title": "Team",
+          "scale": {
+            "domain": [
+              "Liverpool",
+              "Man City",
+              "Man Utd",
+              "Chelsea",
+              "Leicester"
+            ],
+            "range": [
+              "#c0392b",
+              "#f4d03f",
+              "#dc7633",
+              "#5dade2",
+              "#283747"
+            ]
+          }
+        },
+        "opacity": {
+          "value": 0.7
+        },
+        "tooltip": [
+          {"field": "teamId", "type": "nominal", "title": "Team"},
+          {"field": "name", "type": "nominal", "title": "Name"},
+          {"field": "position", "type": "nominal", "title": "Position"},
+          {"field": "goals_scored", "type": "quantitative", "title": "Total Goals Scored"},
+          {"field": "assists", "type": "quantitative", "title": "Total Assists"},
+          {"field": "minutes", "type": "quantitative", "title": "Minutes Played"},
+          {"field": "yellow_cards", "type": "quantitative", "title": "Total Yellow Cards"},
+          {"field": "red_cards", "type": "quantitative", "title": "Total Red Cards"}
+        ]
+      }
     },
-    "color": {
-      "field": "position",
-      "type": "nominal",
-      "title": "Position"
-    },
-    "size": {
-      "field": "minutes",
-      "type": "quantitative",
-      "title": "Minutes Played"
-    },
-    "tooltip": [
-      {"field": "name", "type": "nominal", "title": "Name"},
-      {"field": "position", "type": "nominal", "title": "Position"},
-      {"field": "goals_scored", "type": "quantitative", "title": "Total Goals Scored"},
-      {"field": "assists", "type": "quantitative", "title": "Total Assists"},
-      {"field": "minutes", "type": "quantitative", "title": "Minutes Played"},
-      {"field": "yellow_cards", "type": "quantitative", "title": "Total Yellow Cards"},
-      {"field": "red_cards", "type": "quantitative", "title": "Total Red Cards"}
-    ]
-  }
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "line-top",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "name", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['name'] == 'Jamie Vardy' || datum['name'] == 'Raheem Sterling' || datum['name'] == 'Mohamed Salah' || datum['name'] == 'Anthony Martial' || datum['name'] == 'Sergio Agüero'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "teamId", "type": "nominal", "title": "Team"},
+          {"field": "name", "type": "nominal", "title": "Name"},
+          {"field": "position", "type": "nominal", "title": "Position"},
+          {"field": "goals_scored", "type": "quantitative", "title": "Total Goals Scored"},
+          {"field": "assists", "type": "quantitative", "title": "Total Assists"},
+          {"field": "minutes", "type": "quantitative", "title": "Minutes Played"},
+          {"field": "yellow_cards", "type": "quantitative", "title": "Total Yellow Cards"},
+          {"field": "red_cards", "type": "quantitative", "title": "Total Red Cards"}
+        ]
+      }
+    }
+  ]
 }
