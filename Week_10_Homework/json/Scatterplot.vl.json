@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Player Statistics For Liverpool (BPL 19-20)",
+  "title": "Player Statistics For The Top 5 Teams (BPL 19-20)",
   "width": 800,
   "height": 600,
   "data": {
