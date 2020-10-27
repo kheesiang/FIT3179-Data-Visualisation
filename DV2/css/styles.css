@@ -22,6 +22,8 @@
 }
 
 #choropleth_map {
+	margin-left: auto;
+	margin-right: auto;
 	left: 100px;
 	right: 100px;
 	/*height: 1000px;
@@ -36,12 +38,12 @@ body {
 
 h1 {
 	text-align: center;
-	font-size: 150%;
+	font-size: 45px;
 	font-weight: bold;
 }
 
 h2 {
 	text-align: center;
-	font-size: 150%;
+	font-size: 32px;
 }
 
