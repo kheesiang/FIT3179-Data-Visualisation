@@ -14,21 +14,17 @@
 
 
 #heatmap {
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
-	padding: 10px;
-	top: 100px;
-	bottom: 100px
+	top:100px;
+	bottom: 100px; 
+	left: 200px;
+	right: 200px;
 	/*height: 1000px;
 	width: 800px;*/
 }
 
 #choropleth_map {
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
-	padding: 10px;
+	left: 200px;
+	right: 200px;
 	/*height: 1000px;
 	width: 800px;*/
 }
