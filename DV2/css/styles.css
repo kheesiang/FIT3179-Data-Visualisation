@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'DenseFont';
+  src: url('https://github.com/beeee-ks/FIT3179/blob/main/DV2/css/Dense-Regular.otf');
+}
+
 #scatter_plot {
 	top:100px;
 	bottom: 100px; 
@@ -15,6 +20,6 @@
 }
 
 body {
-	font-family: 'Dense', sans-serif;
+	font-family: 'DenseFont', sans-serif;
 	background-color: #E1E8ED;
 }
