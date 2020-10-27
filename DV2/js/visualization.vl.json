@@ -14,7 +14,7 @@
         "input": "select",
         "options": ["1", "2"],
         "labels": ["Total Number of Tweets", "Total Number of Unique Users"],
-        "name": "Variable Type: "
+        "name": "Attribute: "
       }
     }
   ],
