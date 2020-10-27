@@ -1,8 +1,15 @@
 @font-face {
-	font-family: 'myFont';
-	src: url("../DV2/Dense-Regular.otf") format('truetype');
+	font-family: 'DenseFont';
+	src: url("../DV2/css/Dense-Regular.otf") format('truetype');
 	font-style: normal;
 }
+
+@font-face {
+	font-family: 'SimplificaFont';
+	src: url("../DV2/css/SIMPLIFICA Typeface.ttf") format('truetype');
+	font-style: normal;
+}
+
 
 #scatter_plot {
 	top:100px;
@@ -21,6 +28,6 @@
 }
 
 body {
-	font-family: 'myFont', sans-serif;
+	font-family: 'DenseFont', sans-serif;
 	background-color: #E1E8ED;
 }
