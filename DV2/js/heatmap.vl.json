@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_stats_by_date.csv"
+  },
+  "transform": [
+    {"calculate": "datum.total_tweets/10", "as": "Number of Tweets"}
+  ],
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "bin": {"maxbins":30},
+      "field": "created_at",
+      "type": "quantitative",
+      "title": "Day of the Month",
+      "axis": {"format": ""}
+      
+    },
+    "y": {
+      "field": "country",
+      "type": "nominal"
+    },
+    "color": {
+      "aggregate": "count",
+      "type": "quantitative"
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}
