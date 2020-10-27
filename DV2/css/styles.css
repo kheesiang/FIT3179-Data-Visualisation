@@ -14,7 +14,9 @@
 
 
 #heatmap {
-	justify-content: center;
+	margin: auto;
+	width: 50%;
+	padding: 10px;
 	top:100px;
 	bottom: 100px; 
 	/*height: 1000px;
@@ -22,7 +24,9 @@
 }
 
 #choropleth_map {
-	justify-content: center;
+	margin: auto;
+	width: 50%;
+	padding: 10px;
 	/*height: 1000px;
 	width: 800px;*/
 }
@@ -43,7 +47,7 @@ h2 {
 	text-align: center;
 }
 
-#title {
-	background-colour: #1DA1F2;
+h3 {
+	text-align: center;
 }
 
