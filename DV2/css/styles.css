@@ -18,15 +18,15 @@
 	bottom: 100px; 
 	left: 200px;
 	right: 200px;
-	/*height: 1000px;
-	width: 800px;*/
+	height: 1000px;
+	width: 800px;
 }
 
 #choropleth_map {
 	left: 200px;
 	right: 200px;
-	/*height: 1000px;
-	width: 800px;*/
+	height: 1000px;
+	width: 800px;
 }
 
 
