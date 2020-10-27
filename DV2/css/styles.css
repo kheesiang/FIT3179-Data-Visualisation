@@ -45,3 +45,7 @@ body {
 	font-family: 'Dense', sans-serif;
 	background-color: #E1E8ED;
 }
+
+h1 {
+	text-align: center;
+}
