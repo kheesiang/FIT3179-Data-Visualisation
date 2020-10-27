@@ -1,11 +1,27 @@
 @font-face {
-	font-family: 'DenseFont';
-	src: url("../DV2/css/Dense-Regular.otf") format('opentype');
+    font-family: 'Dense';
+    src: url('../DV2/css/fonts/Dense/Dense-Regular.eot');
+    src: url('../DV2/css/fonts/Dense/Dense-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../DV2/css/fonts/Dense/Dense-Regular.woff2') format('woff2'),
+        url('../DV2/css/fonts/Dense/Dense-Regular.woff') format('woff'),
+        url('../DV2/css/fonts/Dense/Dense-Regular.ttf') format('truetype'),
+        url('../DV2/css/fonts/Dense/Dense-Regular.svg#Dense-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-	font-family: 'SimplificaFont';
-	src: url("../DV2/css/SIMPLIFICA Typeface.ttf") format('truetype');
+    font-family: 'Simplifica';
+    src: url('../DV2/css/fonts/Simplifica/Simplifica.eot');
+    src: url('../DV2/css/fonts/Simplifica/Simplifica.eot?#iefix') format('embedded-opentype'),
+        url('../DV2/css/fonts/Simplifica/Simplifica.woff2') format('woff2'),
+        url('../DV2/css/fonts/Simplifica/Simplifica.woff') format('woff'),
+        url('../DV2/css/fonts/Simplifica/Simplifica.ttf') format('truetype'),
+        url('../DV2/css/fonts/Simplifica/Simplifica.svg#Simplifica') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 
@@ -26,11 +42,6 @@
 }
 
 body {
-	font-family: 'SimplificaFont', sans-serif;
-	background-color: #E1E8ED;
-}
-
-h1 {
-	font-family: 'SimplificaFont', sans-serif;
+	font-family: 'Simplifica', sans-serif;
 	background-color: #E1E8ED;
 }
