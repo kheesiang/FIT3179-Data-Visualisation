@@ -14,15 +14,19 @@
 
 
 #heatmap {
-	margin: auto;
-	height: 1000px;
-	width: 800px;
+/* 	height: 1000px;
+	width: 800px; */
+	top: 100px;
+	bottom: 100px;
+	left: 150px;
+	right: 150px;
 }
 
 #choropleth_map {
-	margin: auto;
-	height: 1000px;
-	width: 800px;
+/* 	height: 1000px;
+	width: 800px; */
+	left: 150px;
+	right: 150px;
 }
 
 
