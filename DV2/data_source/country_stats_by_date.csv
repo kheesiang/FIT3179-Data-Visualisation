@@ -22,31 +22,61 @@ United States of America,29,4373,2995
 United States of America,18,4339,3050
 United States of America,19,4176,2927
 United States of America,11,4153,2985
+India,5,4067,2120
 United States of America,28,4013,2781
 United States of America,27,3833,2638
 United States of America,25,3753,2676
 United States of America,30,3657,2557
 United States of America,26,3277,2330
 United States of America,12,2849,2016
+India,16,2814,1416
 United Kingdom,6,2776,2013
+India,6,2555,1352
+India,7,2531,1360
+India,17,2525,1298
 United Kingdom,16,2494,1752
+India,18,2471,1302
 United States of America,13,2406,1688
+India,4,2370,1243
 United Kingdom,1,2363,1739
 United Kingdom,5,2344,1639
+India,9,2249,1246
 United Kingdom,8,2240,1649
+India,14,2230,1203
+India,26,2202,1085
+India,10,2177,1177
 United Kingdom,2,2174,1594
+India,19,2168,1127
+India,24,2140,1117
+India,3,2096,1161
+India,25,2085,1048
 United Kingdom,17,2046,1521
+India,15,2035,1114
+India,27,2034,1001
+India,1,2022,1102
+India,8,2017,1104
+India,2,1954,1096
 United Kingdom,4,1940,1444
 United Kingdom,3,1920,1421
 United Kingdom,9,1878,1424
+India,22,1851,988
+India,11,1829,985
+India,23,1748,932
+India,28,1730,920
 United Kingdom,24,1703,1284
 United Kingdom,18,1699,1230
 United Kingdom,10,1691,1242
 United Kingdom,14,1688,1254
+India,20,1680,883
+India,21,1672,915
 United Kingdom,11,1601,1135
 United Kingdom,15,1598,1174
 United Kingdom,7,1585,1198
+India,29,1585,789
 United Kingdom,19,1559,1170
+India,13,1558,859
+India,12,1527,854
+India,30,1523,811
 United Kingdom,23,1506,1144
 United Kingdom,22,1480,1087
 United Kingdom,29,1466,1129
@@ -57,131 +87,87 @@ United Kingdom,30,1383,1031
 United Kingdom,28,1345,1066
 United Kingdom,20,1322,991
 United Kingdom,26,1291,1008
-United Kingdom,12,1108,857
-United Kingdom,13,731,543
-India,5,4067,2120
-India,16,2814,1416
-India,6,2555,1352
-India,7,2531,1360
-India,17,2525,1298
-India,18,2471,1302
-India,4,2370,1243
-India,9,2249,1246
-India,14,2230,1203
-India,26,2202,1085
-India,10,2177,1177
-India,19,2168,1127
-India,24,2140,1117
-India,3,2096,1161
-India,25,2085,1048
-India,15,2035,1114
-India,27,2034,1001
-India,1,2022,1102
-India,8,2017,1104
-India,2,1954,1096
-India,22,1851,988
-India,11,1829,985
-India,23,1748,932
-India,28,1730,920
-India,20,1680,883
-India,21,1672,915
-India,29,1585,789
-India,13,1558,859
-India,12,1527,854
-India,30,1523,811
 Spain,26,1240,907
 Spain,6,1236,914
 Spain,2,1202,824
 Spain,16,1144,844
 Spain,8,1140,818
+United Kingdom,12,1108,857
 Spain,17,1108,790
+Canada,3,1099,741
 Spain,4,1073,808
+Canada,1,1058,744
 Spain,1,1052,777
 Spain,15,1032,739
 Spain,3,1017,744
+Canada,4,1015,749
 Spain,18,1003,749
+Canada,2,1000,729
 Spain,19,967,717
 Spain,9,961,725
 Spain,7,953,654
+Canada,6,938,692
 Spain,24,927,689
 Spain,14,910,694
+Brazil,16,898,560
+Canada,8,889,654
 Spain,5,881,688
 Spain,25,874,625
+Canada,5,873,626
+Brazil,3,871,507
 Spain,27,863,645
+Turkey,10,854,548
 Spain,21,846,633
 Spain,23,826,627
+Canada,16,826,578
 Spain,10,817,609
+France,6,814,554
+Canada,17,801,603
+Brazil,6,798,505
 Spain,22,774,573
 Spain,30,769,589
 Spain,20,763,566
-Spain,28,741,568
-Spain,29,711,561
-Spain,11,706,529
-Spain,12,694,490
-Spain,13,540,370
-Canada,3,1099,741
-Canada,1,1058,744
-Canada,4,1015,749
-Canada,2,1000,729
-Canada,6,938,692
-Canada,8,889,654
-Canada,5,873,626
-Canada,16,826,578
-Canada,17,801,603
 Canada,9,762,553
-Canada,15,752,546
-Canada,10,681,492
-Canada,18,677,484
-Canada,14,673,509
-Canada,24,660,498
-Canada,22,645,480
-Canada,23,641,475
-Canada,19,639,457
-Canada,7,596,465
-Canada,21,587,440
-Canada,29,576,451
-Canada,11,574,417
-Canada,25,570,416
-Canada,20,567,408
-Canada,27,540,406
-Canada,30,491,395
-Canada,28,471,368
-Canada,26,447,347
-Canada,12,324,255
-Canada,13,200,133
-Brazil,16,898,560
-Brazil,3,871,507
-Turkey,10,854,548
-France,6,814,554
-Brazil,6,798,505
 Mexico,16,762,528
+Canada,15,752,546
 Mexico,6,748,504
+Spain,28,741,568
+United Kingdom,13,731,543
 France,2,731,501
 Brazil,2,728,478
 Nigeria,18,726,465
 Brazil,15,713,463
+Spain,29,711,561
+Spain,11,706,529
 Brazil,29,706,491
 Brazil,8,702,422
 France,16,701,456
 France,17,697,483
 Nigeria,27,696,428
+Spain,12,694,490
 France,1,694,485
 Brazil,1,689,482
 Brazil,4,688,444
 Mexico,1,685,481
+Canada,10,681,492
 Turkey,3,681,442
 France,8,678,455
+Canada,18,677,484
+Canada,14,673,509
 Nigeria,16,668,426
+Canada,24,660,498
 Mexico,2,660,433
 Mexico,3,658,466
 Mexico,17,656,462
+Canada,22,645,480
 Brazil,17,645,434
-Italy,6,644,469
 Mexico,7,644,458
 Mexico,24,644,437
 Brazil,9,643,407
 Turkey,11,642,395
+Canada,23,641,475
 France,4,640,420
+Canada,19,639,457
 Nigeria,1,639,383
 France,3,633,431
 Brazil,5,625,383
@@ -190,412 +176,126 @@ Brazil,7,610,404
 Turkey,6,609,383
 France,9,604,413
 Brazil,10,598,368
+Canada,7,596,465
 France,7,589,386
+Canada,21,587,440
 Turkey,5,587,358
-Italy,1,585,406
 Turkey,2,584,403
 Nigeria,17,582,372
 Nigeria,6,578,348
+Canada,29,576,451
 Turkey,1,576,410
+Canada,11,574,417
 Mexico,15,574,426
 Mexico,21,572,374
 Mexico,8,571,404
-Italy,16,569,387
+Canada,25,570,416
+Canada,20,567,408
 Brazil,14,552,366
 Mexico,9,550,362
-Italy,5,549,390
 France,15,547,405
 Turkey,12,546,364
 Nigeria,5,544,324
+Spain,13,540,370
+Canada,27,540,406
 France,19,540,363
 Brazil,19,537,360
 Mexico,23,531,371
 Brazil,22,530,360
 Brazil,30,529,385
 France,29,529,369
-Italy,3,529,390
-Argentina,1,522,321
 Nigeria,4,522,323
 France,23,520,361
 France,18,518,371
-Italy,8,518,375
 Brazil,11,516,328
 France,10,516,364
-Italy,17,514,354
 France,28,512,354
-Italy,10,512,371
 Nigeria,25,512,328
 Brazil,18,511,370
 Mexico,4,511,366
-Italy,2,510,379
 Mexico,5,509,356
 Nigeria,20,505,340
 Mexico,22,503,362
-Italy,26,502,360
 France,14,501,363
-Argentina,3,499,337
 Brazil,24,497,361
 Nigeria,26,495,305
 France,25,492,360
 France,30,492,360
+Canada,30,491,395
 Brazil,28,488,365
 Mexico,28,486,331
 Mexico,25,485,358
 Brazil,21,483,343
 Brazil,23,482,332
 France,24,481,370
-Italy,7,480,350
 Mexico,18,478,355
 Nigeria,23,473,310
+Canada,28,471,368
 Brazil,20,463,321
-Italy,15,462,326
-Italy,18,462,339
-Italy,29,460,330
 Mexico,26,459,303
 France,26,457,303
 Mexico,14,457,334
-Argentina,16,454,294
 Nigeria,2,453,316
 Nigeria,15,451,304
 Mexico,27,450,307
-Italy,20,449,328
 Mexico,20,449,314
 Nigeria,8,449,289
 Nigeria,22,449,304
-Italy,4,447,313
+Canada,26,447,347
 France,27,443,315
 Turkey,4,443,300
 Turkey,14,443,324
-Italy,19,440,328
 France,20,439,334
 France,21,439,313
-Italy,24,435,310
 Mexico,30,433,302
 Nigeria,24,429,299
-Chile,17,428,288
-Italy,27,428,325
 Nigeria,14,426,285
-Chile,16,424,284
-Colombia,6,424,320
 France,22,424,329
 Brazil,27,422,315
 Turkey,16,422,290
 Turkey,25,422,276
-Chile,6,421,300
-Colombia,1,421,300
-Italy,14,421,315
 Mexico,29,421,295
 Nigeria,29,416,280
 Nigeria,21,415,281
 Turkey,17,414,252
 Nigeria,19,413,295
 Brazil,25,409,299
-Italy,9,408,300
 Nigeria,9,407,255
 Nigeria,30,407,275
-Argentina,7,404,295
 Mexico,10,401,285
-South Africa,16,395,255
-Italy,28,394,291
 France,13,392,247
-South Africa,23,392,270
 France,11,391,276
 Brazil,26,390,278
-Italy,11,387,298
 Turkey,8,383,246
-Argentina,15,382,282
-Italy,30,380,280
-Argentina,11,378,246
-Colombia,2,377,280
-South Africa,9,377,257
 Mexico,11,376,243
-Italy,12,374,275
-Italy,21,372,290
-Argentina,14,370,273
 Turkey,9,369,269
 Mexico,19,368,277
 Nigeria,7,368,262
-Argentina,6,366,269
 Brazil,12,366,234
-Italy,22,364,285
 Mexico,13,364,253
 Nigeria,3,364,266
-Chile,7,361,265
 Turkey,26,361,257
-Colombia,15,360,245
 France,12,359,233
-Germany,6,353,239
-South Africa,29,350,217
-Italy,25,349,266
 Nigeria,28,349,260
-Colombia,17,346,260
-Pakistan,6,342,215
-Argentina,8,341,259
-Chile,1,341,243
-Germany,4,341,227
-Italy,23,341,265
-Colombia,3,339,251
-Argentina,2,338,251
-Colombia,24,338,231
-Colombia,16,337,245
-South Africa,17,335,239
-Argentina,17,334,240
 Nigeria,12,332,237
-Ireland,11,331,286
-Pakistan,3,330,209
-Chile,24,327,231
-Colombia,12,326,248
-South Africa,6,324,230
-Chile,14,323,228
-Germany,5,322,227
+Canada,12,324,255
 Brazil,13,320,220
 Turkey,13,320,214
-Chile,8,319,248
-Argentina,26,318,220
 Nigeria,10,318,220
-Australia,4,316,238
-Colombia,7,316,243
-South Africa,5,316,225
 Mexico,12,315,224
 Turkey,7,313,225
-South Africa,25,310,202
 Turkey,15,310,224
-Argentina,24,309,238
-Colombia,5,309,230
-South Africa,2,309,200
-South Africa,3,309,207
-South Africa,21,309,214
-Ecuador,3,307,190
 Turkey,18,307,216
-Argentina,10,306,215
-South Africa,4,306,230
-Australia,1,305,234
-Germany,16,305,215
-Argentina,9,304,226
 Nigeria,11,303,213
 Turkey,20,303,188
-Chile,10,302,220
-Chile,3,301,231
-Germany,1,301,211
-Australia,3,300,224
-Italy,13,299,210
-Chile,25,298,205
-South Africa,14,295,162
-Colombia,8,294,222
-Pakistan,17,294,186
-Argentina,13,291,211
-Colombia,14,291,222
-Ecuador,6,290,165
-Chile,15,288,218
-Germany,8,288,204
-Germany,15,288,219
-Argentina,21,287,213
-Australia,6,287,210
-South Africa,15,287,193
-South Africa,18,287,209
-Ireland,17,286,209
-Germany,2,285,203
-Argentina,20,284,202
-Colombia,4,284,216
-Pakistan,7,284,191
-Ireland,10,283,213
-Australia,8,282,234
-Chile,18,280,187
-Colombia,18,279,217
-Germany,3,279,197
-Pakistan,2,278,161
-South Africa,1,277,164
-Argentina,18,276,207
-Australia,2,276,216
-Chile,20,276,193
-Pakistan,16,276,179
-Chile,13,275,195
-Germany,17,275,204
-Chile,2,273,207
-Pakistan,4,273,184
-Ireland,5,270,225
-Argentina,22,269,209
-Chile,5,269,185
-Argentina,4,265,213
-Chile,9,264,207
-Ireland,8,264,219
-South Africa,26,264,186
-Ireland,6,262,220
-Australia,5,259,205
-Colombia,23,259,188
-Ireland,1,258,209
-Pakistan,1,258,160
 Turkey,27,258,189
-Chile,19,257,175
-Pakistan,5,257,171
-South Africa,10,257,170
-Ecuador,1,255,156
-Ecuador,2,255,160
-Germany,18,252,196
-South Africa,12,252,151
-Argentina,29,251,187
-Colombia,26,251,184
-South Africa,8,249,164
-Argentina,25,248,178
-Ireland,16,248,197
-South Africa,27,248,190
-Chile,4,247,197
-Chile,21,246,185
-Chile,26,246,164
-Ireland,4,244,196
 Turkey,19,244,180
-Chile,12,242,183
-Argentina,5,241,194
 Turkey,24,241,169
-Chile,11,240,164
-Ecuador,17,240,163
 Turkey,21,240,174
-Argentina,23,239,181
-Colombia,11,237,179
-Colombia,25,236,181
-Pakistan,24,236,165
-Australia,26,235,187
-Colombia,9,235,188
-Germany,27,235,181
-Chile,23,234,170
-Colombia,13,234,190
-Pakistan,9,234,162
-Ecuador,4,233,149
-Pakistan,10,233,154
-Pakistan,18,232,147
-Argentina,12,230,153
-Australia,7,230,176
-Ecuador,16,230,152
-Pakistan,11,230,148
-Ireland,14,229,184
-Ecuador,15,228,141
-Australia,16,227,172
-Ireland,2,227,179
-Argentina,19,226,173
-Australia,9,226,179
-South Africa,24,226,172
-Germany,24,225,174
-Ireland,19,225,175
-South Africa,7,225,155
 Turkey,30,225,169
-Chile,29,224,155
-Germany,29,224,156
-Ireland,24,224,194
-Australia,18,222,156
-Colombia,27,222,168
-Argentina,27,221,166
-Argentina,28,221,175
-Ireland,25,221,181
-Pakistan,26,221,150
-Australia,17,220,172
-Australia,29,220,163
-Ireland,9,220,179
-Germany,19,219,175
-Colombia,19,217,161
-Germany,20,217,158
-Germany,22,217,167
-South Africa,22,216,160
-Ecuador,8,214,128
-Germany,11,213,158
-Colombia,30,211,158
-Germany,9,211,144
-Germany,21,211,171
-Australia,15,210,173
-Germany,26,210,172
-Ireland,7,210,169
-Ecuador,9,209,134
-Germany,7,208,158
-Pakistan,25,208,138
-Colombia,20,207,160
-Colombia,21,206,162
-Ecuador,7,205,139
-South Africa,30,205,137
-Argentina,30,204,163
 Turkey,28,204,150
-Chile,30,203,137
-Ecuador,25,203,142
-Germany,10,203,149
-Pakistan,15,203,146
-Chile,22,202,158
-Colombia,22,202,160
-South Africa,13,202,142
 Turkey,22,202,144
-Ecuador,14,201,120
-Australia,10,200,158
-Ireland,3,200,171
-Pakistan,14,199,140
-South Africa,11,199,132
-Germany,25,198,161
-Ireland,27,198,151
+Canada,13,200,133
 Nigeria,13,198,151
-Pakistan,8,196,135
-Ireland,15,195,164
-Australia,20,194,153
-Colombia,10,194,143
-Ireland,23,194,167
 Turkey,29,194,145
-Ireland,22,193,165
-Ecuador,10,192,117
-Germany,30,190,139
-Australia,28,189,140
-Colombia,28,189,148
-Chile,27,188,131
-Pakistan,23,188,128
-Australia,24,186,142
-Australia,27,186,145
-South Africa,19,185,137
-South Africa,28,184,141
-Australia,21,182,146
-Pakistan,22,182,112
-Chile,28,181,137
-Australia,11,180,141
-Australia,22,180,156
-Germany,23,180,148
-Ecuador,11,179,122
-Ireland,18,179,141
-Pakistan,19,178,128
-Ecuador,19,177,100
-Ecuador,12,176,127
-Germany,28,176,146
-Ireland,21,176,149
-Germany,12,175,111
-Pakistan,20,175,124
-Ecuador,24,173,123
-Ecuador,18,172,116
-Ecuador,29,172,105
-Germany,14,170,127
-South Africa,20,170,131
-Pakistan,30,169,94
 Turkey,23,169,129
-Ecuador,28,167,112
-Ireland,20,166,130
-Ecuador,5,165,112
-Ecuador,13,165,104
-Pakistan,13,165,111
-Colombia,29,162,126
-Pakistan,12,162,113
-Australia,19,161,129
-Ecuador,20,161,106
-Australia,12,160,129
-Ecuador,21,160,105
-Australia,30,159,131
-Ecuador,22,159,119
-Ecuador,23,159,112
-Ecuador,27,159,114
-Ecuador,26,156,115
-Ireland,29,154,135
-Pakistan,27,152,113
-Australia,14,147,116
-Pakistan,21,146,111
-Ireland,26,143,119
-Ecuador,30,140,101
-Ireland,28,139,119
-Australia,23,136,111
-Ireland,12,133,107
-Australia,25,131,111
-Ireland,30,125,114
-Pakistan,28,120,91
-Germany,13,115,87
-Australia,13,101,73
-Pakistan,29,101,80
-Ireland,13,77,56
