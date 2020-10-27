@@ -41,8 +41,14 @@
 	width: 800px;*/
 }
 
-body {
+header {
 	font-family: 'Dense', sans-serif;
+	background-color: #E1E8ED;
+	text-align: center;
+}
+
+body {
+	font-family: 'Simplifica', sans-serif;
 	background-color: #E1E8ED;
 }
 
@@ -50,6 +56,4 @@ h1 {
 	text-align: center;
 }
 
-h2 {
-	text-align: center;
-}
+
