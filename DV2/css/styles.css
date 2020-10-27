@@ -11,9 +11,7 @@
     font-display: swap;
 }
 
-#title {
-	background-colour: #1DA1F2;
-}
+
 
 #scatter_plot {
 	justify-content: center;
@@ -43,5 +41,9 @@ h1 {
 
 h2 {
 	text-align: center;
+}
+
+#title {
+	background-colour: #1DA1F2;
 }
 
