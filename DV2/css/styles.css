@@ -1,13 +1,11 @@
 @font-face {
 	font-family: 'DenseFont';
-	src: url("../DV2/css/Dense-Regular.otf") format('truetype');
-	font-style: normal;
+	src: url("../DV2/css/Dense-Regular.otf") format('opentype');
 }
 
 @font-face {
 	font-family: 'SimplificaFont';
 	src: url("../DV2/css/SIMPLIFICA Typeface.ttf") format('truetype');
-	font-style: normal;
 }
 
 
@@ -28,6 +26,11 @@
 }
 
 body {
+	font-family: 'SimplificaFont', sans-serif;
+	background-color: #E1E8ED;
+}
+
+h1 {
 	font-family: 'SimplificaFont', sans-serif;
 	background-color: #E1E8ED;
 }
