@@ -1,27 +1,19 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Total Number of Tweets about COVID-19 in April 2020",
   "width": 800,
-  "height": 600,
+  "height": 450,
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/js/ne_110m_admin_0_countries.topojson",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
-
   "params": [
     {
       "name": "variable_selection",
       "bind": {
         "input": "select",
-        "options": [
-          "1",
-          "2"
-        ],
-        "labels": [
-          "Total Number of Tweets",
-          "Total Number of Unique Users"
-        ],
+        "options": ["1", "2"],
+        "labels": ["Total Number of Tweets", "Total Number of Unique Users"],
         "name": "Variable Type: "
       }
     }
@@ -38,13 +30,13 @@
       }
     }
   ],
-  "layer":[ 
+  "layer": [
     {
       "mark": {"type": "geoshape"},
       "encoding": {
         "color": {
           "field": "total_tweets",
-          "title":"Total Number of Tweets",
+          "title": "Total Number of Tweets",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -52,14 +44,30 @@
             "range": ["#fcbba1", "#fc9272", "#fb6a4a", "#de2d26", "a50f15"]
           }
         },
-        "opacity": {"condition": {"test": "variable_selection == 2", "value": 0}, "value": 1},
-        "fillOpacity": {"condition": {"test": "variable_selection == 2", "value": 0}, "value": 1},
-        "strokeOpacity": {"condition": {"test": "variable_selection == 2", "value": 0}, "value": 1},
+        "opacity": {
+          "condition": {"test": "variable_selection == 2", "value": 0},
+          "value": 1
+        },
+        "fillOpacity": {
+          "condition": {"test": "variable_selection == 2", "value": 0},
+          "value": 1
+        },
+        "strokeOpacity": {
+          "condition": {"test": "variable_selection == 2", "value": 0},
+          "value": 1
+        },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-          {"field": "total_tweets", "type": "quantitative", "title": "Total Tweets"},
-          {"field": "total_unique_user_ids", "type": "quantitative", "title": "Total Unique Users"}
-          
+          {
+            "field": "total_tweets",
+            "type": "quantitative",
+            "title": "Total Tweets"
+          },
+          {
+            "field": "total_unique_user_ids",
+            "type": "quantitative",
+            "title": "Total Unique Users"
+          }
         ]
       }
     },
@@ -68,25 +76,42 @@
       "encoding": {
         "color": {
           "field": "total_unique_user_ids",
-          "title":"Total Number of Unique Users",
+          "title": "Total Number of Unique Users",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
             "domain": [100, 5000, 10000, 50000, 100000],
             "range": ["#fcbba1", "#fc9272", "#fb6a4a", "#de2d26", "a50f15"]
-
           }
         },
-        "opacity": {"condition": {"test": "variable_selection == 1", "value": 0}, "value": 1},
-        "fillOpacity": {"condition": {"test": "variable_selection == 1", "value": 0}, "value": 1},
-        "strokeOpacity": {"condition": {"test": "variable_selection == 1", "value": 0}, "value": 1},
+        "opacity": {
+          "condition": {"test": "variable_selection == 1", "value": 0},
+          "value": 1
+        },
+        "fillOpacity": {
+          "condition": {"test": "variable_selection == 1", "value": 0},
+          "value": 1
+        },
+        "strokeOpacity": {
+          "condition": {"test": "variable_selection == 1", "value": 0},
+          "value": 1
+        },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-          {"field": "total_tweets", "type": "quantitative", "title": "Total Tweets"},
-          {"field": "total_unique_user_ids", "type": "quantitative", "title": "Total Unique Users"}
+          {
+            "field": "total_tweets",
+            "type": "quantitative",
+            "title": "Total Tweets"
+          },
+          {
+            "field": "total_unique_user_ids",
+            "type": "quantitative",
+            "title": "Total Unique Users"
+          }
         ]
       }
     }
   ],
-  "config": {}
+  "config": {
+  }
 }
