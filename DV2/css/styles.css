@@ -6,12 +6,12 @@
         url('../css/fonts/Dense/Dense-Regular.woff') format('woff'),
         url('../css/fonts/Dense/Dense-Regular.ttf') format('truetype'),
         url('../css/fonts/Dense/Dense-Regular.svg#Dense-Regular') format('svg');
-    font-weight: bold;
+    font-weight: bolder;
     font-style: normal;
     font-display: swap;
 }
 
-/* @font-face {
+@font-face {
     font-family: 'Simplifica';
     src: url('../css/fonts/Simplifica/Simplifica.eot');
     src: url('../css/fonts/Simplifica/Simplifica.eot?#iefix') format('embedded-opentype'),
@@ -22,7 +22,7 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-} */
+}
 
 
 #scatter_plot {
