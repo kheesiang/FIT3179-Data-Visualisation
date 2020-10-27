@@ -21,7 +21,7 @@
 
 
 <br><h1>V2</h1>
-<div id="scatter_plot"></div>
+<div id="heatmap"></div>
 
 <script type="text/javascript">
   
@@ -31,8 +31,8 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  var spec2 = "js/Scatterplot.vl.json";
-  vegaEmbed('#scatter_plot', spec2).then(function(result) {
+  var spec2 = "js/heatmap.vl.json";
+  vegaEmbed('#heatmap', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
