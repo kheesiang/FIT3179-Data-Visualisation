@@ -1,17 +1,4 @@
 @font-face {
-    font-family: 'Dense';
-    src: url('../css/fonts/Dense/Dense-Regular.eot');
-    src: url('../css/fonts/Dense/Dense-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../css/fonts/Dense/Dense-Regular.woff2') format('woff2'),
-        url('../css/fonts/Dense/Dense-Regular.woff') format('woff'),
-        url('../css/fonts/Dense/Dense-Regular.ttf') format('truetype'),
-        url('../css/fonts/Dense/Dense-Regular.svg#Dense-Regular') format('svg');
-    font-weight: bolder;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
     font-family: 'Simplifica';
     src: url('../css/fonts/Simplifica/Simplifica.eot');
     src: url('../css/fonts/Simplifica/Simplifica.eot?#iefix') format('embedded-opentype'),
@@ -43,12 +30,18 @@
 
 
 body {
-	font-family: 'Dense', sans-serif;
+	font-family: 'Simplifica', sans-serif;
 	background-color: #E1E8ED;
 }
 
 h1 {
 	text-align: center;
+	font-size: 150%;
+	font-weight: bold;
 }
 
+h2 {
+	text-align: center;
+	font-size: 150%;
+}
 
