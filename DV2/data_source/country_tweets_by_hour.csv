@@ -1,4032 +1,4032 @@
-country,time,status_id,reply_to_status_id
-Afghanistan,00,9,0
-Afghanistan,01,9,0
-Afghanistan,02,15,0
-Afghanistan,03,18,1
-Afghanistan,04,16,0
-Afghanistan,05,13,1
-Afghanistan,06,5,1
-Afghanistan,07,3,0
-Afghanistan,08,10,1
-Afghanistan,09,6,0
-Afghanistan,10,10,1
-Afghanistan,11,12,0
-Afghanistan,12,14,1
-Afghanistan,13,10,3
-Afghanistan,14,11,0
-Afghanistan,15,12,1
-Afghanistan,16,2,2
-Afghanistan,17,1,0
-Afghanistan,18,2,0
-Afghanistan,19,1,0
-Afghanistan,21,1,1
-Afghanistan,22,2,0
-Afghanistan,23,7,0
-Aland Islands,09,1,1
-Albania,02,1,0
-Albania,03,1,0
-Albania,04,1,0
-Albania,05,2,0
-Albania,06,5,0
-Albania,07,6,0
-Albania,08,3,1
-Albania,09,10,1
-Albania,10,2,0
-Albania,11,3,0
-Albania,12,8,0
-Albania,13,4,0
-Albania,14,11,0
-Albania,15,10,1
-Albania,16,2,0
-Albania,17,17,0
-Albania,18,7,0
-Albania,19,10,0
-Albania,20,4,1
-Albania,21,2,0
-Algeria,00,1,0
-Algeria,01,2,0
-Algeria,02,1,0
-Algeria,03,6,1
-Algeria,04,4,0
-Algeria,06,12,1
-Algeria,07,11,0
-Algeria,08,11,0
-Algeria,09,11,0
-Algeria,10,11,0
-Algeria,11,12,1
-Algeria,12,20,0
-Algeria,13,14,1
-Algeria,14,19,1
-Algeria,15,32,1
-Algeria,16,18,0
-Algeria,17,15,2
-Algeria,18,12,1
-Algeria,19,14,0
-Algeria,20,12,0
-Algeria,21,20,0
-Algeria,22,20,0
-Algeria,23,2,0
-American Samoa,04,1,0
-American Samoa,10,1,0
-American Samoa,19,1,0
-Andorra,00,1,0
-Andorra,01,5,0
-Andorra,02,10,2
-Andorra,03,7,0
-Andorra,04,4,0
-Andorra,05,8,1
-Andorra,06,17,7
-Andorra,07,9,2
-Andorra,08,9,0
-Andorra,09,18,0
-Andorra,10,8,0
-Andorra,11,10,0
-Andorra,12,10,2
-Andorra,13,17,1
-Andorra,14,13,0
-Andorra,15,11,1
-Andorra,16,11,0
-Andorra,17,14,0
-Andorra,18,5,0
-Andorra,19,3,1
-Andorra,20,3,2
-Andorra,21,4,0
-Angola,01,2,0
-Angola,05,1,0
-Angola,06,2,0
-Angola,07,3,0
-Angola,08,4,0
-Angola,09,5,0
-Angola,10,4,0
-Angola,11,2,0
-Angola,12,3,0
-Angola,13,1,0
-Angola,14,4,0
-Angola,15,6,0
-Angola,16,4,1
-Angola,17,3,0
-Angola,18,3,1
-Angola,19,2,0
-Angola,20,2,0
-Angola,21,4,0
-Angola,22,1,0
-Angola,23,1,0
-Antarctica,19,2,0
-Antigua and Barbuda,05,1,0
-Antigua and Barbuda,07,1,0
-Antigua and Barbuda,08,1,0
-Antigua and Barbuda,09,1,0
-Antigua and Barbuda,12,1,1
-Antigua and Barbuda,16,1,0
-Antigua and Barbuda,17,1,0
-Antigua and Barbuda,19,1,0
-Antigua and Barbuda,20,1,0
-Antigua and Barbuda,22,1,0
-Argentina,00,298,27
-Argentina,01,210,18
-Argentina,02,115,6
-Argentina,03,91,7
-Argentina,04,62,3
-Argentina,05,65,3
-Argentina,06,70,4
-Argentina,07,126,5
-Argentina,08,284,18
-Argentina,09,419,28
-Argentina,10,501,35
-Argentina,11,551,50
-Argentina,12,567,46
-Argentina,13,594,59
-Argentina,14,504,47
-Argentina,15,448,47
-Argentina,16,448,25
-Argentina,17,438,32
-Argentina,18,482,24
-Argentina,19,575,43
-Argentina,20,665,35
-Argentina,21,829,60
-Argentina,22,616,67
-Argentina,23,420,31
-Armenia,00,2,1
-Armenia,01,2,0
-Armenia,02,1,0
-Armenia,03,6,0
-Armenia,04,3,0
-Armenia,05,1,0
-Armenia,06,2,0
-Armenia,07,1,0
-Armenia,08,1,0
-Armenia,09,3,0
-Armenia,10,4,0
-Armenia,11,1,0
-Armenia,12,1,0
-Armenia,13,2,0
-Armenia,14,1,0
-Armenia,15,2,0
-Armenia,16,4,0
-Armenia,17,1,0
-Armenia,18,1,0
-Armenia,19,1,0
-Aruba,07,1,0
-Aruba,09,2,0
-Aruba,10,2,0
-Aruba,11,1,0
-Aruba,13,1,0
-Aruba,14,2,1
-Aruba,16,3,0
-Aruba,17,1,0
-Aruba,18,1,0
-Aruba,19,1,0
-Aruba,20,1,0
-Aruba,21,1,0
-Aruba,22,1,0
-Australia,00,297,41
-Australia,01,262,37
-Australia,02,191,30
-Australia,03,127,17
-Australia,04,84,12
-Australia,05,65,13
-Australia,06,37,9
-Australia,07,50,9
-Australia,08,74,17
-Australia,09,166,32
-Australia,10,267,42
-Australia,11,370,49
-Australia,12,376,42
-Australia,13,391,37
-Australia,14,407,58
-Australia,15,369,55
-Australia,16,378,54
-Australia,17,334,41
-Australia,18,337,67
-Australia,19,349,50
-Australia,20,346,47
-Australia,21,398,48
-Australia,22,334,51
-Australia,23,298,31
-Austria,00,4,0
-Austria,01,3,0
-Austria,02,17,3
-Austria,03,31,6
-Austria,04,41,5
-Austria,05,47,11
-Austria,06,59,6
-Austria,07,47,9
-Austria,08,58,3
-Austria,09,81,5
-Austria,10,65,5
-Austria,11,77,6
-Austria,12,58,7
-Austria,13,37,5
-Austria,14,54,7
-Austria,15,46,12
-Austria,16,48,7
-Austria,17,46,17
-Austria,18,42,6
-Austria,19,29,3
-Austria,20,19,1
-Austria,21,9,0
-Austria,22,7,0
-Austria,23,2,0
-Azerbaijan,01,1,0
-Azerbaijan,02,3,0
-Azerbaijan,03,3,0
-Azerbaijan,04,1,0
-Azerbaijan,05,3,0
-Azerbaijan,06,6,1
-Azerbaijan,07,7,0
-Azerbaijan,08,9,2
-Azerbaijan,09,3,0
-Azerbaijan,10,7,1
-Azerbaijan,11,7,0
-Azerbaijan,12,5,0
-Azerbaijan,13,9,0
-Azerbaijan,14,7,0
-Azerbaijan,15,10,0
-Azerbaijan,16,2,0
-Azerbaijan,17,1,0
-Azerbaijan,18,1,0
-Azerbaijan,20,2,0
-Azerbaijan,23,2,0
-Bahamas,00,2,0
-Bahamas,03,1,0
-Bahamas,04,2,0
-Bahamas,05,1,0
-Bahamas,07,2,0
-Bahamas,08,3,0
-Bahamas,09,1,0
-Bahamas,10,2,0
-Bahamas,11,3,0
-Bahamas,12,3,0
-Bahamas,13,3,0
-Bahamas,14,1,0
-Bahamas,15,4,0
-Bahamas,16,2,0
-Bahamas,17,2,0
-Bahamas,18,3,0
-Bahamas,19,4,0
-Bahamas,20,3,0
-Bahamas,21,2,0
-Bahamas,22,1,0
-Bahamas,23,2,0
-Bahrain,00,3,0
-Bahrain,01,6,1
-Bahrain,02,9,0
-Bahrain,03,17,2
-Bahrain,04,17,0
-Bahrain,05,12,1
-Bahrain,06,7,0
-Bahrain,07,18,1
-Bahrain,08,12,1
-Bahrain,09,12,1
-Bahrain,10,7,0
-Bahrain,11,13,0
-Bahrain,12,18,4
-Bahrain,13,12,0
-Bahrain,14,12,0
-Bahrain,15,17,2
-Bahrain,16,15,0
-Bahrain,17,19,0
-Bahrain,18,8,0
-Bahrain,19,10,0
-Bahrain,20,6,0
-Bahrain,21,3,1
-Bahrain,22,1,0
-Bahrain,23,1,0
-Bangladesh,00,42,2
-Bangladesh,01,28,3
-Bangladesh,02,47,4
-Bangladesh,03,34,0
-Bangladesh,04,58,11
-Bangladesh,05,48,6
-Bangladesh,06,40,2
-Bangladesh,07,65,2
-Bangladesh,08,40,2
-Bangladesh,09,45,2
-Bangladesh,10,66,1
-Bangladesh,11,50,6
-Bangladesh,12,60,0
-Bangladesh,13,40,4
-Bangladesh,14,29,0
-Bangladesh,15,20,0
-Bangladesh,16,18,1
-Bangladesh,17,18,1
-Bangladesh,18,24,1
-Bangladesh,19,15,1
-Bangladesh,20,30,1
-Bangladesh,21,28,2
-Bangladesh,22,37,1
-Bangladesh,23,26,0
-Barbados,04,1,0
-Barbados,05,3,0
-Barbados,07,2,0
-Barbados,08,1,0
-Barbados,09,4,0
-Barbados,10,3,0
-Barbados,11,4,0
-Barbados,12,2,0
-Barbados,13,2,0
-Barbados,14,1,0
-Barbados,15,3,0
-Barbados,16,1,0
-Barbados,17,6,0
-Barbados,18,3,1
-Barbados,19,4,0
-Barbados,20,2,0
-Barbados,21,4,1
-Barbados,22,2,0
-Belgium,00,10,1
-Belgium,01,15,3
-Belgium,02,21,3
-Belgium,03,112,13
-Belgium,04,214,20
-Belgium,05,243,24
-Belgium,06,207,28
-Belgium,07,294,53
-Belgium,08,209,18
-Belgium,09,198,31
-Belgium,10,190,23
-Belgium,11,189,24
-Belgium,12,213,32
-Belgium,13,219,25
-Belgium,14,204,22
-Belgium,15,216,19
-Belgium,16,228,19
-Belgium,17,195,16
-Belgium,18,169,15
-Belgium,19,165,34
-Belgium,20,93,7
-Belgium,21,42,10
-Belgium,22,25,5
-Belgium,23,10,3
-Belize,02,1,0
-Belize,06,1,0
-Belize,09,1,0
-Belize,10,2,0
-Belize,11,2,0
-Belize,14,2,0
-Belize,15,4,0
-Belize,18,1,0
-Belize,19,1,0
-Belize,20,1,0
-Benin,05,2,1
-Benin,06,5,0
-Benin,07,8,0
-Benin,08,17,0
-Benin,09,15,1
-Benin,10,5,0
-Benin,11,8,0
-Benin,12,2,1
-Benin,13,4,0
-Benin,14,2,0
-Benin,15,6,0
-Benin,16,9,0
-Benin,17,13,0
-Benin,18,4,0
-Benin,19,7,0
-Benin,20,8,0
-Benin,21,4,2
-Benin,23,1,0
-Bermuda,05,1,0
-Bermuda,06,1,0
-Bermuda,07,2,0
-Bermuda,08,2,0
-Bermuda,09,2,0
-Bermuda,10,1,0
-Bermuda,11,5,0
-Bermuda,12,5,1
-Bermuda,13,3,0
-Bermuda,14,6,0
-Bermuda,15,5,0
-Bermuda,16,1,0
-Bermuda,17,14,0
-Bermuda,18,7,1
-Bermuda,19,1,0
-Bermuda,20,6,0
-Bermuda,21,1,0
-Bermuda,22,1,0
-Bhutan,00,2,0
-Bhutan,01,1,0
-Bhutan,03,1,0
-Bhutan,04,1,0
-Bhutan,05,2,0
-Bhutan,06,1,0
-Bhutan,07,3,0
-Bhutan,08,2,0
-Bhutan,09,2,0
-Bhutan,10,3,0
-Bhutan,11,1,0
-Bhutan,12,1,0
-Bhutan,13,1,0
-Bhutan,16,1,0
-Bhutan,18,1,0
-Bhutan,19,1,0
-Bhutan,21,2,0
-Bhutan,22,1,0
-Bhutan,23,2,0
-Bolivia,00,11,0
-Bolivia,01,7,0
-Bolivia,02,4,0
-Bolivia,03,3,0
-Bolivia,04,4,0
-Bolivia,05,4,1
-Bolivia,06,7,3
-Bolivia,07,18,3
-Bolivia,08,21,0
-Bolivia,09,39,1
-Bolivia,10,24,0
-Bolivia,11,25,2
-Bolivia,12,38,3
-Bolivia,13,32,3
-Bolivia,14,33,2
-Bolivia,15,21,1
-Bolivia,16,21,0
-Bolivia,17,14,1
-Bolivia,18,26,1
-Bolivia,19,38,1
-Bolivia,20,44,3
-Bolivia,21,51,2
-Bolivia,22,40,4
-Bolivia,23,32,2
-"Bonaire, Sint Eustatius and Saba",06,2,1
-"Bonaire, Sint Eustatius and Saba",10,1,0
-"Bonaire, Sint Eustatius and Saba",12,1,0
-"Bonaire, Sint Eustatius and Saba",20,1,0
-Bosnia and Herzegovina,00,1,0
-Bosnia and Herzegovina,02,1,0
-Bosnia and Herzegovina,03,1,0
-Bosnia and Herzegovina,04,5,0
-Bosnia and Herzegovina,05,11,0
-Bosnia and Herzegovina,06,3,0
-Bosnia and Herzegovina,07,7,0
-Bosnia and Herzegovina,08,11,0
-Bosnia and Herzegovina,09,4,0
-Bosnia and Herzegovina,10,6,0
-Bosnia and Herzegovina,11,4,0
-Bosnia and Herzegovina,12,7,0
-Bosnia and Herzegovina,13,9,0
-Bosnia and Herzegovina,14,5,0
-Bosnia and Herzegovina,15,9,0
-Bosnia and Herzegovina,16,9,0
-Bosnia and Herzegovina,17,9,0
-Bosnia and Herzegovina,18,6,0
-Bosnia and Herzegovina,19,4,0
-Bosnia and Herzegovina,20,2,0
-Bosnia and Herzegovina,21,1,0
-Bosnia and Herzegovina,22,1,0
-Botswana,00,2,0
-Botswana,01,2,1
-Botswana,02,4,0
-Botswana,03,9,2
-Botswana,04,8,0
-Botswana,05,18,1
-Botswana,06,17,4
-Botswana,07,19,5
-Botswana,08,12,1
-Botswana,09,12,0
-Botswana,10,22,5
-Botswana,11,13,2
-Botswana,12,13,1
-Botswana,13,8,1
-Botswana,14,10,1
-Botswana,15,32,3
-Botswana,16,14,1
-Botswana,17,16,1
-Botswana,18,12,1
-Botswana,19,8,0
-Botswana,20,7,0
-Botswana,22,3,0
-Botswana,23,1,0
-Brazil,00,311,40
-Brazil,01,123,25
-Brazil,02,109,7
-Brazil,03,133,19
-Brazil,04,187,10
-Brazil,05,346,27
-Brazil,06,590,49
-Brazil,07,846,63
-Brazil,08,836,65
-Brazil,09,952,63
-Brazil,10,1108,82
-Brazil,11,1030,60
-Brazil,12,945,85
-Brazil,13,877,70
-Brazil,14,948,81
-Brazil,15,1088,78
-Brazil,16,1102,98
-Brazil,17,1037,87
-Brazil,18,1072,89
-Brazil,19,1198,90
-Brazil,20,862,49
-Brazil,21,709,46
-Brazil,22,603,71
-Brazil,23,397,52
-British Virgin Islands,08,1,0
-British Virgin Islands,11,1,0
-British Virgin Islands,12,1,1
-British Virgin Islands,14,1,0
-British Virgin Islands,17,1,0
-British Virgin Islands,19,1,0
-British Virgin Islands,21,3,1
-Brunei,00,2,0
-Brunei,01,13,1
-Brunei,02,2,0
-Brunei,03,1,0
-Brunei,04,2,0
-Brunei,05,1,0
-Brunei,06,1,0
-Brunei,07,1,0
-Brunei,08,1,0
-Brunei,09,1,0
-Brunei,15,2,0
-Brunei,16,2,1
-Brunei,17,2,1
-Brunei,18,2,0
-Brunei,19,3,0
-Brunei,20,1,0
-Brunei,22,2,0
-Brunei,23,1,0
-Bulgaria,01,1,1
-Bulgaria,02,3,0
-Bulgaria,03,3,1
-Bulgaria,04,6,1
-Bulgaria,05,7,1
-Bulgaria,06,3,1
-Bulgaria,07,3,0
-Bulgaria,08,3,0
-Bulgaria,09,2,0
-Bulgaria,10,4,0
-Bulgaria,11,4,0
-Bulgaria,12,5,1
-Bulgaria,13,2,0
-Bulgaria,14,7,1
-Bulgaria,15,6,0
-Bulgaria,16,2,0
-Bulgaria,17,2,0
-Bulgaria,18,1,0
-Bulgaria,19,1,1
-Burkina Faso,01,1,0
-Burkina Faso,05,1,0
-Burkina Faso,06,1,0
-Burkina Faso,07,1,1
-Burkina Faso,08,5,0
-Burkina Faso,09,4,0
-Burkina Faso,10,4,0
-Burkina Faso,11,6,0
-Burkina Faso,12,7,0
-Burkina Faso,13,1,0
-Burkina Faso,14,3,0
-Burkina Faso,15,9,0
-Burkina Faso,16,10,0
-Burkina Faso,17,3,0
-Burkina Faso,18,12,0
-Burkina Faso,19,10,0
-Burkina Faso,20,5,0
-Burkina Faso,21,2,0
-Burkina Faso,22,2,0
-Burkina Faso,23,1,0
-Burundi,03,2,1
-Burundi,04,1,1
-Burundi,05,2,1
-Burundi,06,2,0
-Burundi,07,1,0
-Burundi,08,4,2
-Burundi,09,1,0
-Burundi,10,2,0
-Burundi,12,3,2
-Burundi,14,4,0
-Burundi,15,1,0
-Burundi,16,4,3
-Burundi,17,2,0
-Burundi,18,1,0
-Burundi,19,2,0
-Burundi,20,2,0
-Cambodia,00,4,0
-Cambodia,01,2,0
-Cambodia,02,2,0
-Cambodia,03,1,0
-Cambodia,04,3,0
-Cambodia,05,3,0
-Cambodia,06,1,0
-Cambodia,07,1,0
-Cambodia,08,5,1
-Cambodia,09,2,0
-Cambodia,10,2,0
-Cambodia,11,1,0
-Cambodia,15,1,0
-Cambodia,16,1,0
-Cambodia,17,4,0
-Cambodia,18,1,0
-Cambodia,19,4,0
-Cambodia,21,1,0
-Cambodia,22,4,1
-Cambodia,23,4,2
-Cameroon,00,3,1
-Cameroon,01,3,0
-Cameroon,02,2,0
-Cameroon,03,3,0
-Cameroon,04,10,2
-Cameroon,05,16,1
-Cameroon,06,17,2
-Cameroon,07,21,1
-Cameroon,08,24,0
-Cameroon,09,23,0
-Cameroon,10,29,4
-Cameroon,11,17,0
-Cameroon,12,24,2
-Cameroon,13,23,1
-Cameroon,14,26,3
-Cameroon,15,25,3
-Cameroon,16,29,3
-Cameroon,17,34,4
-Cameroon,18,30,9
-Cameroon,19,31,6
-Cameroon,20,16,2
-Cameroon,21,10,0
-Cameroon,22,10,1
-Cameroon,23,8,0
-Canada,00,130,16
-Canada,01,102,18
-Canada,02,106,9
-Canada,03,252,30
-Canada,04,522,54
-Canada,05,765,78
-Canada,06,1058,100
-Canada,07,1221,119
-Canada,08,1377,161
-Canada,09,1448,131
-Canada,10,1484,160
-Canada,11,1267,115
-Canada,12,1139,129
-Canada,13,1158,96
-Canada,14,1213,116
-Canada,15,1183,131
-Canada,16,1104,106
-Canada,17,1162,117
-Canada,18,1108,99
-Canada,19,999,111
-Canada,20,697,74
-Canada,21,510,62
-Canada,22,344,55
-Canada,23,223,38
-Cape Verde,01,2,0
-Cape Verde,11,1,0
-Cape Verde,12,1,0
-Cape Verde,15,1,0
-Cape Verde,16,1,0
-Cape Verde,17,1,0
-Cape Verde,18,1,0
-Cape Verde,19,2,0
-Cape Verde,20,1,0
-Cayman Islands,06,2,1
-Cayman Islands,08,3,0
-Cayman Islands,09,1,0
-Cayman Islands,11,1,1
-Cayman Islands,12,3,0
-Cayman Islands,15,2,0
-Cayman Islands,16,9,0
-Cayman Islands,17,8,0
-Cayman Islands,19,1,0
-Cayman Islands,20,2,0
-Cayman Islands,22,1,0
-Central African Republic,00,1,0
-Central African Republic,07,1,0
-Central African Republic,12,1,0
-Chad,05,3,1
-Chad,06,3,0
-Chad,07,3,0
-Chad,08,3,0
-Chad,09,2,0
-Chad,10,7,0
-Chad,11,4,0
-Chad,12,8,2
-Chad,13,5,1
-Chad,14,3,0
-Chad,15,5,0
-Chad,16,9,0
-Chad,17,7,0
-Chad,18,10,1
-Chad,19,8,1
-Chad,20,7,1
-Chad,21,2,0
-Chile,00,64,9
-Chile,01,37,4
-Chile,02,23,3
-Chile,03,18,2
-Chile,04,49,7
-Chile,05,163,16
-Chile,06,291,28
-Chile,07,456,41
-Chile,08,737,70
-Chile,09,924,53
-Chile,10,729,57
-Chile,11,571,59
-Chile,12,448,27
-Chile,13,420,38
-Chile,14,370,28
-Chile,15,408,34
-Chile,16,384,34
-Chile,17,409,36
-Chile,18,428,34
-Chile,19,545,53
-Chile,20,388,49
-Chile,21,303,30
-Chile,22,207,18
-Chile,23,108,12
-Colombia,00,134,9
-Colombia,01,79,9
-Colombia,02,44,4
-Colombia,03,35,5
-Colombia,04,35,5
-Colombia,05,74,9
-Colombia,06,192,10
-Colombia,07,322,35
-Colombia,08,447,31
-Colombia,09,464,45
-Colombia,10,477,37
-Colombia,11,496,39
-Colombia,12,500,47
-Colombia,13,479,39
-Colombia,14,424,50
-Colombia,15,464,45
-Colombia,16,516,38
-Colombia,17,499,47
-Colombia,18,525,48
-Colombia,19,578,70
-Colombia,20,469,52
-Colombia,21,431,47
-Colombia,22,335,39
-Colombia,23,284,41
-Congo Brazzaville,00,2,2
-Congo Brazzaville,01,1,0
-Congo Brazzaville,04,2,0
-Congo Brazzaville,05,2,1
-Congo Brazzaville,06,3,0
-Congo Brazzaville,07,4,0
-Congo Brazzaville,08,6,0
-Congo Brazzaville,09,4,0
-Congo Brazzaville,10,10,1
-Congo Brazzaville,11,5,0
-Congo Brazzaville,12,5,1
-Congo Brazzaville,13,6,0
-Congo Brazzaville,14,6,1
-Congo Brazzaville,15,5,0
-Congo Brazzaville,16,3,0
-Congo Brazzaville,17,7,0
-Congo Brazzaville,18,16,0
-Congo Brazzaville,19,12,0
-Congo Brazzaville,20,5,0
-Congo Brazzaville,21,3,0
-Congo Brazzaville,23,3,0
-Costa Rica,00,7,0
-Costa Rica,02,4,0
-Costa Rica,03,1,0
-Costa Rica,04,2,0
-Costa Rica,05,1,0
-Costa Rica,06,7,0
-Costa Rica,07,14,0
-Costa Rica,08,8,1
-Costa Rica,09,25,3
-Costa Rica,10,22,0
-Costa Rica,11,25,0
-Costa Rica,12,43,0
-Costa Rica,13,46,0
-Costa Rica,14,25,4
-Costa Rica,15,15,0
-Costa Rica,16,14,1
-Costa Rica,17,23,2
-Costa Rica,18,20,1
-Costa Rica,19,26,1
-Costa Rica,20,19,1
-Costa Rica,21,14,1
-Costa Rica,22,14,2
-Costa Rica,23,12,1
-Cuba,00,17,0
-Cuba,01,16,2
-Cuba,02,5,2
-Cuba,03,2,1
-Cuba,04,2,1
-Cuba,05,2,0
-Cuba,06,3,0
-Cuba,07,8,0
-Cuba,08,12,1
-Cuba,09,34,4
-Cuba,10,24,2
-Cuba,11,75,3
-Cuba,12,51,9
-Cuba,13,38,6
-Cuba,14,27,2
-Cuba,15,24,4
-Cuba,16,25,2
-Cuba,17,13,3
-Cuba,18,31,8
-Cuba,19,38,2
-Cuba,20,33,4
-Cuba,21,50,19
-Cuba,22,27,1
-Cuba,23,19,2
-Curaçao,09,1,0
-Curaçao,10,1,0
-Curaçao,13,2,0
-Curaçao,14,1,0
-Curaçao,15,4,0
-Curaçao,16,1,0
-Curaçao,17,2,0
-Curaçao,19,2,0
-Curaçao,22,1,0
-Curaçao,23,1,0
-Cyprus,00,1,1
-Cyprus,01,1,0
-Cyprus,02,7,0
-Cyprus,03,12,1
-Cyprus,04,16,1
-Cyprus,05,17,3
-Cyprus,06,20,1
-Cyprus,07,21,1
-Cyprus,08,13,0
-Cyprus,09,20,0
-Cyprus,10,11,0
-Cyprus,11,19,0
-Cyprus,12,16,1
-Cyprus,13,17,1
-Cyprus,14,24,1
-Cyprus,15,22,2
-Cyprus,16,22,2
-Cyprus,17,16,2
-Cyprus,18,15,0
-Cyprus,19,2,0
-Cyprus,20,6,0
-Cyprus,21,4,0
-Cyprus,22,1,0
-Czech Republic,02,4,1
-Czech Republic,03,20,11
-Czech Republic,04,25,0
-Czech Republic,05,21,3
-Czech Republic,06,35,4
-Czech Republic,07,18,2
-Czech Republic,08,13,2
-Czech Republic,09,13,1
-Czech Republic,10,11,2
-Czech Republic,11,17,1
-Czech Republic,12,11,1
-Czech Republic,13,19,0
-Czech Republic,14,28,4
-Czech Republic,15,17,1
-Czech Republic,16,22,2
-Czech Republic,17,19,2
-Czech Republic,18,18,2
-Czech Republic,19,9,2
-Czech Republic,20,8,3
-Czech Republic,21,3,0
-Czech Republic,22,3,0
-Democratic Republic of Congo,00,8,1
-Democratic Republic of Congo,01,6,0
-Democratic Republic of Congo,02,13,1
-Democratic Republic of Congo,03,26,1
-Democratic Republic of Congo,04,36,4
-Democratic Republic of Congo,05,49,1
-Democratic Republic of Congo,06,52,4
-Democratic Republic of Congo,07,46,5
-Democratic Republic of Congo,08,37,1
-Democratic Republic of Congo,09,42,2
-Democratic Republic of Congo,10,43,5
-Democratic Republic of Congo,11,47,4
-Democratic Republic of Congo,12,34,2
-Democratic Republic of Congo,13,38,2
-Democratic Republic of Congo,14,33,1
-Democratic Republic of Congo,15,52,5
-Democratic Republic of Congo,16,49,4
-Democratic Republic of Congo,17,50,5
-Democratic Republic of Congo,18,35,4
-Democratic Republic of Congo,19,57,9
-Democratic Republic of Congo,20,67,6
-Democratic Republic of Congo,21,49,3
-Democratic Republic of Congo,22,15,6
-Democratic Republic of Congo,23,10,1
-Denmark,00,1,0
-Denmark,01,1,0
-Denmark,02,11,2
-Denmark,03,20,0
-Denmark,04,26,0
-Denmark,05,37,3
-Denmark,06,28,5
-Denmark,07,39,7
-Denmark,08,25,0
-Denmark,09,26,2
-Denmark,10,32,4
-Denmark,11,24,2
-Denmark,12,37,6
-Denmark,13,36,5
-Denmark,14,37,4
-Denmark,15,35,2
-Denmark,16,38,4
-Denmark,17,42,6
-Denmark,18,37,5
-Denmark,19,42,22
-Denmark,20,10,1
-Denmark,21,6,0
-Denmark,22,6,0
-Denmark,23,2,0
-Djibouti,00,1,0
-Djibouti,01,1,0
-Djibouti,02,1,0
-Djibouti,03,2,0
-Djibouti,04,1,0
-Djibouti,05,4,1
-Djibouti,06,3,0
-Djibouti,07,4,0
-Djibouti,08,4,0
-Djibouti,09,4,0
-Djibouti,10,15,0
-Djibouti,11,17,2
-Djibouti,12,6,0
-Djibouti,13,8,0
-Djibouti,14,15,1
-Djibouti,15,32,9
-Djibouti,16,11,3
-Djibouti,17,6,1
-Djibouti,18,9,0
-Djibouti,19,3,0
-Djibouti,20,6,0
-Djibouti,21,1,0
-Djibouti,22,4,0
-Djibouti,23,1,0
-Dominica,09,1,0
-Dominica,10,1,1
-Dominica,12,1,0
-Dominica,13,1,0
-Dominica,15,1,0
-Dominica,17,1,0
-Dominica,18,1,1
-Dominica,19,1,1
-Dominican Republic,00,34,6
-Dominican Republic,01,20,1
-Dominican Republic,02,10,2
-Dominican Republic,03,5,0
-Dominican Republic,06,11,0
-Dominican Republic,07,36,6
-Dominican Republic,08,66,9
-Dominican Republic,09,96,12
-Dominican Republic,10,191,36
-Dominican Republic,11,172,27
-Dominican Republic,12,120,18
-Dominican Republic,13,90,12
-Dominican Republic,14,103,21
-Dominican Republic,15,94,10
-Dominican Republic,16,122,21
-Dominican Republic,17,132,13
-Dominican Republic,18,108,13
-Dominican Republic,19,93,17
-Dominican Republic,20,90,11
-Dominican Republic,21,85,18
-Dominican Republic,22,88,16
-Dominican Republic,23,57,7
-East Timor,01,1,0
-East Timor,02,2,0
-East Timor,13,1,0
-East Timor,14,2,0
-East Timor,17,2,0
-East Timor,18,1,0
-East Timor,20,2,0
-Ecuador,00,77,6
-Ecuador,01,58,7
-Ecuador,02,35,6
-Ecuador,03,22,2
-Ecuador,04,23,2
-Ecuador,05,72,5
-Ecuador,06,129,6
-Ecuador,07,229,24
-Ecuador,08,273,29
-Ecuador,09,372,31
-Ecuador,10,547,39
-Ecuador,11,416,34
-Ecuador,12,306,22
-Ecuador,13,382,26
-Ecuador,14,322,23
-Ecuador,15,299,26
-Ecuador,16,371,29
-Ecuador,17,315,24
-Ecuador,18,352,30
-Ecuador,19,339,24
-Ecuador,20,360,30
-Ecuador,21,295,34
-Ecuador,22,197,30
-Ecuador,23,111,17
-Egypt,00,3,0
-Egypt,01,4,0
-Egypt,02,6,0
-Egypt,03,4,0
-Egypt,04,11,0
-Egypt,05,11,1
-Egypt,06,7,0
-Egypt,07,19,0
-Egypt,08,15,0
-Egypt,09,13,0
-Egypt,10,22,0
-Egypt,11,25,1
-Egypt,12,18,1
-Egypt,13,23,2
-Egypt,14,29,0
-Egypt,15,30,1
-Egypt,16,32,1
-Egypt,17,24,0
-Egypt,18,22,1
-Egypt,19,15,0
-Egypt,20,13,2
-Egypt,21,12,1
-Egypt,22,14,1
-Egypt,23,6,1
-El Salvador,00,45,1
-El Salvador,01,19,2
-El Salvador,02,6,1
-El Salvador,03,5,1
-El Salvador,04,6,1
-El Salvador,05,7,0
-El Salvador,06,26,3
-El Salvador,07,27,1
-El Salvador,08,41,4
-El Salvador,09,31,4
-El Salvador,10,37,6
-El Salvador,11,35,2
-El Salvador,12,17,0
-El Salvador,13,37,4
-El Salvador,14,37,4
-El Salvador,15,40,7
-El Salvador,16,32,10
-El Salvador,17,38,3
-El Salvador,18,46,6
-El Salvador,19,34,3
-El Salvador,20,38,4
-El Salvador,21,56,8
-El Salvador,22,49,7
-El Salvador,23,69,8
-Equatorial Guinea,05,1,0
-Equatorial Guinea,06,2,2
-Equatorial Guinea,08,1,0
-Equatorial Guinea,09,1,1
-Equatorial Guinea,10,1,0
-Equatorial Guinea,14,2,1
-Equatorial Guinea,17,1,0
-Equatorial Guinea,19,1,0
-Equatorial Guinea,21,3,0
-Estonia,02,1,0
-Estonia,03,3,0
-Estonia,04,3,1
-Estonia,05,4,0
-Estonia,06,4,0
-Estonia,07,1,0
-Estonia,09,1,0
-Estonia,10,1,0
-Estonia,11,1,0
-Estonia,12,1,0
-Estonia,13,3,1
-Estonia,14,3,0
-Estonia,15,1,0
-Estonia,16,1,0
-Estonia,17,4,1
-Ethiopia,00,2,1
-Ethiopia,01,7,2
-Ethiopia,02,9,1
-Ethiopia,03,25,4
-Ethiopia,04,13,2
-Ethiopia,05,16,3
-Ethiopia,06,30,1
-Ethiopia,07,20,1
-Ethiopia,08,17,2
-Ethiopia,09,17,8
-Ethiopia,10,18,2
-Ethiopia,11,16,2
-Ethiopia,12,17,3
-Ethiopia,13,22,0
-Ethiopia,14,15,0
-Ethiopia,15,16,2
-Ethiopia,16,13,1
-Ethiopia,17,12,3
-Ethiopia,18,5,0
-Ethiopia,19,4,1
-Ethiopia,20,8,0
-Ethiopia,21,1,0
-Ethiopia,22,1,0
-Falkland Islands (Malvinas),03,1,0
-Falkland Islands (Malvinas),07,1,0
-Falkland Islands (Malvinas),14,1,0
-Faroe Islands,01,2,1
-Faroe Islands,08,1,0
-Faroe Islands,09,1,0
-Faroe Islands,14,1,0
-Faroe Islands,15,1,0
-Faroe Islands,16,2,1
-Faroe Islands,19,1,1
-Faroe Islands,20,1,0
-Faroe Islands,21,1,1
-Fiji,00,6,0
-Fiji,01,2,0
-Fiji,02,3,0
-Fiji,03,2,0
-Fiji,04,1,0
-Fiji,05,1,1
-Fiji,06,4,0
-Fiji,07,4,0
-Fiji,08,18,3
-Fiji,09,10,2
-Fiji,10,28,3
-Fiji,11,18,2
-Fiji,12,24,3
-Fiji,13,24,1
-Fiji,14,22,2
-Fiji,15,26,1
-Fiji,16,45,9
-Fiji,17,21,2
-Fiji,18,24,2
-Fiji,19,13,3
-Fiji,20,13,1
-Fiji,21,10,1
-Fiji,22,7,1
-Fiji,23,13,2
-Finland,00,5,0
-Finland,01,16,1
-Finland,02,31,2
-Finland,03,27,1
-Finland,04,34,5
-Finland,05,23,4
-Finland,06,44,11
-Finland,07,36,7
-Finland,08,31,7
-Finland,09,16,3
-Finland,10,40,3
-Finland,11,17,3
-Finland,12,31,7
-Finland,13,36,4
-Finland,14,36,5
-Finland,15,41,14
-Finland,16,28,2
-Finland,17,23,2
-Finland,18,14,3
-Finland,19,6,2
-Finland,20,3,1
-Finland,21,6,2
-Finland,23,4,1
-Former Yugoslav Republic of Macedonia,04,4,0
-Former Yugoslav Republic of Macedonia,05,3,0
-Former Yugoslav Republic of Macedonia,06,2,0
-Former Yugoslav Republic of Macedonia,08,1,1
-Former Yugoslav Republic of Macedonia,09,3,1
-Former Yugoslav Republic of Macedonia,10,4,2
-Former Yugoslav Republic of Macedonia,11,3,1
-Former Yugoslav Republic of Macedonia,12,4,0
-Former Yugoslav Republic of Macedonia,13,3,2
-Former Yugoslav Republic of Macedonia,14,2,0
-Former Yugoslav Republic of Macedonia,15,6,2
-Former Yugoslav Republic of Macedonia,16,1,1
-Former Yugoslav Republic of Macedonia,17,1,0
-Former Yugoslav Republic of Macedonia,18,5,1
-Former Yugoslav Republic of Macedonia,19,4,1
-Former Yugoslav Republic of Macedonia,20,1,0
-France,00,66,7
-France,01,109,14
-France,02,210,17
-France,03,473,38
-France,04,888,81
-France,05,1006,97
-France,06,1052,100
-France,07,877,87
-France,08,922,93
-France,09,1018,104
-France,10,846,102
-France,11,834,112
-France,12,818,80
-France,13,1008,98
-France,14,1014,101
-France,15,1117,134
-France,16,1157,121
-France,17,879,91
-France,18,741,88
-France,19,611,81
-France,20,355,38
-France,21,217,26
-France,22,98,8
-France,23,77,9
-French Guiana,00,1,0
-French Guiana,02,1,0
-French Guiana,03,2,0
-French Guiana,06,1,0
-French Guiana,07,1,1
-French Guiana,08,3,0
-French Guiana,09,3,0
-French Guiana,10,1,0
-French Guiana,12,8,0
-French Guiana,13,1,0
-French Guiana,14,3,0
-French Guiana,15,3,1
-French Guiana,16,1,0
-French Guiana,17,1,1
-French Guiana,18,7,2
-French Guiana,19,6,0
-French Guiana,20,4,1
-French Guiana,21,1,0
-French Guiana,22,1,0
-French Guiana,23,2,0
-French Polynesia,04,1,0
-French Polynesia,05,1,0
-French Polynesia,09,1,1
-French Polynesia,14,1,0
-French Polynesia,15,1,0
-French Polynesia,17,1,0
-French Polynesia,19,1,0
-French Polynesia,21,1,0
-Gabon,00,3,0
-Gabon,01,5,0
-Gabon,04,1,0
-Gabon,06,4,0
-Gabon,07,1,0
-Gabon,08,4,0
-Gabon,09,3,0
-Gabon,10,3,0
-Gabon,11,7,0
-Gabon,12,4,0
-Gabon,13,9,0
-Gabon,14,10,0
-Gabon,15,3,0
-Gabon,16,3,0
-Gabon,17,11,1
-Gabon,18,7,0
-Gabon,19,7,0
-Gabon,20,5,0
-Gabon,21,3,0
-Gabon,22,3,0
-Gabon,23,3,0
-Gambia,00,7,0
-Gambia,05,1,1
-Gambia,07,2,0
-Gambia,08,4,1
-Gambia,09,2,0
-Gambia,10,8,0
-Gambia,11,6,0
-Gambia,12,5,0
-Gambia,13,9,1
-Gambia,14,8,0
-Gambia,15,7,3
-Gambia,16,6,0
-Gambia,17,4,1
-Gambia,18,5,0
-Gambia,19,10,0
-Gambia,20,12,1
-Gambia,21,6,0
-Gambia,22,7,1
-Gambia,23,2,0
-Georgia,00,4,0
-Georgia,01,4,1
-Georgia,02,8,0
-Georgia,03,4,0
-Georgia,04,7,0
-Georgia,05,19,3
-Georgia,06,14,2
-Georgia,07,7,2
-Georgia,08,8,0
-Georgia,09,10,1
-Georgia,10,14,2
-Georgia,11,14,0
-Georgia,12,9,0
-Georgia,13,7,1
-Georgia,14,9,0
-Georgia,15,13,1
-Georgia,16,16,3
-Georgia,17,9,1
-Georgia,18,6,1
-Georgia,19,5,1
-Georgia,20,6,1
-Georgia,21,2,1
-Georgia,23,1,0
-Germany,00,37,7
-Germany,01,57,7
-Germany,02,110,10
-Germany,03,359,35
-Germany,04,407,44
-Germany,05,418,39
-Germany,06,383,37
-Germany,07,352,34
-Germany,08,368,31
-Germany,09,390,39
-Germany,10,341,23
-Germany,11,336,31
-Germany,12,369,28
-Germany,13,430,51
-Germany,14,436,47
-Germany,15,420,28
-Germany,16,432,53
-Germany,17,377,43
-Germany,18,371,43
-Germany,19,269,25
-Germany,20,199,23
-Germany,21,107,14
-Germany,22,80,12
-Germany,23,38,2
-Ghana,00,62,7
-Ghana,01,40,1
-Ghana,02,21,1
-Ghana,03,13,0
-Ghana,04,21,2
-Ghana,05,34,4
-Ghana,06,73,8
-Ghana,07,133,47
-Ghana,08,137,10
-Ghana,09,124,9
-Ghana,10,115,6
-Ghana,11,117,10
-Ghana,12,80,2
-Ghana,13,127,6
-Ghana,14,103,8
-Ghana,15,128,6
-Ghana,16,115,9
-Ghana,17,107,4
-Ghana,18,88,16
-Ghana,19,89,5
-Ghana,20,107,9
-Ghana,21,157,22
-Ghana,22,99,11
-Ghana,23,63,8
-Gibraltar,04,2,0
-Gibraltar,05,3,0
-Gibraltar,06,5,0
-Gibraltar,07,12,5
-Gibraltar,08,7,1
-Gibraltar,09,5,1
-Gibraltar,10,5,2
-Gibraltar,11,11,0
-Gibraltar,12,8,1
-Gibraltar,13,7,0
-Gibraltar,14,5,0
-Gibraltar,15,5,0
-Gibraltar,16,7,1
-Gibraltar,17,6,0
-Gibraltar,18,6,1
-Gibraltar,19,2,0
-Gibraltar,20,2,0
-Gibraltar,21,2,0
-Greece,00,8,0
-Greece,01,16,1
-Greece,02,20,0
-Greece,03,31,2
-Greece,04,34,0
-Greece,05,54,7
-Greece,06,38,3
-Greece,07,37,0
-Greece,08,52,1
-Greece,09,36,3
-Greece,10,46,4
-Greece,11,24,2
-Greece,12,52,2
-Greece,13,35,4
-Greece,14,30,4
-Greece,15,34,2
-Greece,16,37,6
-Greece,17,26,2
-Greece,18,29,1
-Greece,19,14,0
-Greece,20,9,0
-Greece,21,10,0
-Greece,22,3,0
-Greece,23,2,0
-Greenland,06,1,1
-Greenland,10,1,0
-Greenland,12,2,1
-Greenland,13,2,0
-Greenland,14,2,0
-Greenland,17,2,0
-Greenland,19,1,0
-Grenada,06,1,0
-Grenada,12,1,0
-Guadeloupe,00,1,0
-Guadeloupe,01,6,0
-Guadeloupe,02,5,0
-Guadeloupe,03,8,0
-Guadeloupe,04,4,0
-Guadeloupe,06,2,0
-Guadeloupe,07,1,0
-Guadeloupe,08,8,0
-Guadeloupe,09,7,0
-Guadeloupe,10,3,0
-Guadeloupe,11,8,0
-Guadeloupe,12,9,0
-Guadeloupe,13,10,1
-Guadeloupe,14,9,0
-Guadeloupe,15,5,1
-Guadeloupe,16,3,0
-Guadeloupe,17,4,1
-Guadeloupe,18,9,1
-Guadeloupe,19,8,1
-Guadeloupe,20,5,0
-Guadeloupe,21,1,0
-Guadeloupe,23,1,0
-Guam,01,1,0
-Guam,07,1,0
-Guam,14,2,1
-Guam,15,2,0
-Guam,16,1,0
-Guam,18,1,0
-Guam,21,1,0
-Guam,22,1,0
-Guam,23,2,0
-Guatemala,00,11,0
-Guatemala,01,4,0
-Guatemala,02,1,0
-Guatemala,03,1,0
-Guatemala,05,6,1
-Guatemala,06,7,1
-Guatemala,07,13,1
-Guatemala,08,37,4
-Guatemala,09,62,11
-Guatemala,10,44,3
-Guatemala,11,41,4
-Guatemala,12,33,2
-Guatemala,13,41,6
-Guatemala,14,37,5
-Guatemala,15,35,4
-Guatemala,16,25,4
-Guatemala,17,52,6
-Guatemala,18,58,2
-Guatemala,19,87,5
-Guatemala,20,64,2
-Guatemala,21,46,3
-Guatemala,22,37,1
-Guatemala,23,31,1
-Guernsey,06,1,0
-Guernsey,12,1,0
-Guernsey,13,1,0
-Guernsey,14,1,0
-Guernsey,15,2,0
-Guernsey,17,1,0
-Guernsey,19,2,1
-Guernsey,20,1,0
-Guernsey,22,1,0
-Guinea,00,8,0
-Guinea,01,4,0
-Guinea,02,4,0
-Guinea,03,2,0
-Guinea,04,1,0
-Guinea,05,5,1
-Guinea,06,5,0
-Guinea,07,3,0
-Guinea,08,5,0
-Guinea,09,16,2
-Guinea,10,12,1
-Guinea,11,11,0
-Guinea,12,15,3
-Guinea,13,10,1
-Guinea,14,12,1
-Guinea,15,13,2
-Guinea,16,19,3
-Guinea,17,13,3
-Guinea,18,8,1
-Guinea,19,12,2
-Guinea,20,19,4
-Guinea,21,11,4
-Guinea,22,16,2
-Guinea,23,11,4
-Guinea Bissau,00,1,0
-Guinea Bissau,01,1,0
-Guinea Bissau,05,1,0
-Guinea Bissau,08,1,1
-Guinea Bissau,13,1,0
-Guinea Bissau,14,2,0
-Guinea Bissau,15,1,0
-Guinea Bissau,16,4,0
-Guinea Bissau,18,1,0
-Guinea Bissau,20,3,1
-Guinea Bissau,21,1,0
-Guinea Bissau,22,1,1
-Guyana,05,1,0
-Guyana,09,1,0
-Guyana,12,2,0
-Guyana,15,3,0
-Guyana,16,1,0
-Guyana,17,1,0
-Guyana,19,1,0
-Guyana,23,1,0
-Haiti,00,10,1
-Haiti,01,4,0
-Haiti,02,3,0
-Haiti,04,2,0
-Haiti,05,2,0
-Haiti,06,4,0
-Haiti,07,16,1
-Haiti,08,30,1
-Haiti,09,21,1
-Haiti,10,23,0
-Haiti,11,16,2
-Haiti,12,21,0
-Haiti,13,13,0
-Haiti,14,15,1
-Haiti,15,13,1
-Haiti,16,11,1
-Haiti,17,14,0
-Haiti,18,21,1
-Haiti,19,13,0
-Haiti,20,14,2
-Haiti,21,24,0
-Haiti,22,13,1
-Haiti,23,11,1
-Hashemite Kingdom of Jordan,00,6,0
-Hashemite Kingdom of Jordan,01,6,2
-Hashemite Kingdom of Jordan,02,8,1
-Hashemite Kingdom of Jordan,03,15,2
-Hashemite Kingdom of Jordan,04,20,6
-Hashemite Kingdom of Jordan,05,11,0
-Hashemite Kingdom of Jordan,06,16,0
-Hashemite Kingdom of Jordan,07,15,0
-Hashemite Kingdom of Jordan,08,16,5
-Hashemite Kingdom of Jordan,09,10,1
-Hashemite Kingdom of Jordan,10,16,4
-Hashemite Kingdom of Jordan,11,16,2
-Hashemite Kingdom of Jordan,12,16,0
-Hashemite Kingdom of Jordan,13,14,1
-Hashemite Kingdom of Jordan,14,27,3
-Hashemite Kingdom of Jordan,15,17,1
-Hashemite Kingdom of Jordan,16,15,1
-Hashemite Kingdom of Jordan,17,10,1
-Hashemite Kingdom of Jordan,18,18,4
-Hashemite Kingdom of Jordan,19,17,2
-Hashemite Kingdom of Jordan,20,9,0
-Hashemite Kingdom of Jordan,21,8,1
-Hashemite Kingdom of Jordan,22,4,0
-Hashemite Kingdom of Jordan,23,1,0
-Honduras,00,14,0
-Honduras,01,13,4
-Honduras,02,6,0
-Honduras,03,2,0
-Honduras,04,1,0
-Honduras,05,2,0
-Honduras,06,6,0
-Honduras,07,18,3
-Honduras,08,28,1
-Honduras,09,29,5
-Honduras,10,29,5
-Honduras,11,40,10
-Honduras,12,45,6
-Honduras,13,47,11
-Honduras,14,37,5
-Honduras,15,37,5
-Honduras,16,37,7
-Honduras,17,31,6
-Honduras,18,37,2
-Honduras,19,47,4
-Honduras,20,77,7
-Honduras,21,55,2
-Honduras,22,26,4
-Honduras,23,22,1
-Hong Kong,00,23,1
-Hong Kong,01,28,8
-Hong Kong,02,22,0
-Hong Kong,03,16,0
-Hong Kong,04,25,1
-Hong Kong,05,22,0
-Hong Kong,06,17,0
-Hong Kong,07,13,1
-Hong Kong,08,10,0
-Hong Kong,09,8,0
-Hong Kong,10,9,0
-Hong Kong,11,1,1
-Hong Kong,12,1,0
-Hong Kong,13,1,0
-Hong Kong,14,15,0
-Hong Kong,15,15,4
-Hong Kong,16,31,3
-Hong Kong,17,36,1
-Hong Kong,18,30,4
-Hong Kong,19,33,3
-Hong Kong,20,32,3
-Hong Kong,21,21,1
-Hong Kong,22,26,6
-Hong Kong,23,28,3
-Hungary,00,1,0
-Hungary,01,2,0
-Hungary,02,3,0
-Hungary,03,2,0
-Hungary,04,6,0
-Hungary,05,8,1
-Hungary,06,6,0
-Hungary,07,4,1
-Hungary,08,11,0
-Hungary,09,9,0
-Hungary,10,10,1
-Hungary,11,11,1
-Hungary,12,14,1
-Hungary,13,12,0
-Hungary,14,9,0
-Hungary,15,7,0
-Hungary,16,10,0
-Hungary,17,13,0
-Hungary,18,11,0
-Hungary,19,2,0
-Hungary,20,3,0
-Hungary,21,4,0
-Hungary,22,1,0
-Hungary,23,1,0
-Iceland,00,4,2
-Iceland,01,3,0
-Iceland,08,5,0
-Iceland,09,5,1
-Iceland,10,2,0
-Iceland,11,4,0
-Iceland,12,4,1
-Iceland,13,6,0
-Iceland,14,10,1
-Iceland,15,7,1
-Iceland,16,8,0
-Iceland,17,5,0
-Iceland,18,6,1
-Iceland,19,3,0
-Iceland,20,6,0
-Iceland,21,7,1
-Iceland,22,3,0
-Iceland,23,3,1
-India,00,3963,434
-India,01,3971,411
-India,02,3838,408
-India,03,3524,390
-India,04,3053,344
-India,05,3010,316
-India,06,3000,385
-India,07,3210,317
-India,08,3435,376
-India,09,3798,384
-India,10,4191,424
-India,11,4238,411
-India,12,3529,386
-India,13,2695,310
-India,14,1741,184
-India,15,1030,127
-India,16,599,70
-India,17,408,45
-India,18,349,30
-India,19,510,64
-India,20,1111,126
-India,21,1858,216
-India,22,2864,305
-India,23,3520,341
-Indonesia,00,251,24
-Indonesia,01,281,22
-Indonesia,02,266,21
-Indonesia,03,284,39
-Indonesia,04,318,19
-Indonesia,05,290,17
-Indonesia,06,287,20
-Indonesia,07,184,9
-Indonesia,08,122,11
-Indonesia,09,103,8
-Indonesia,10,58,5
-Indonesia,11,68,1
-Indonesia,12,71,0
-Indonesia,13,101,7
-Indonesia,14,146,9
-Indonesia,15,206,24
-Indonesia,16,256,28
-Indonesia,17,284,36
-Indonesia,18,336,23
-Indonesia,19,366,44
-Indonesia,20,324,25
-Indonesia,21,308,26
-Indonesia,22,295,27
-Indonesia,23,308,19
-Iraq,00,13,5
-Iraq,01,18,9
-Iraq,02,13,6
-Iraq,03,15,6
-Iraq,04,16,3
-Iraq,05,16,5
-Iraq,06,19,5
-Iraq,07,18,3
-Iraq,08,27,3
-Iraq,09,18,5
-Iraq,10,24,8
-Iraq,11,23,2
-Iraq,12,14,4
-Iraq,13,33,3
-Iraq,14,21,2
-Iraq,15,31,5
-Iraq,16,34,5
-Iraq,17,19,2
-Iraq,18,14,0
-Iraq,19,6,1
-Iraq,20,11,0
-Iraq,21,8,0
-Iraq,22,4,1
-Iraq,23,10,1
-Ireland,00,56,9
-Ireland,01,29,4
-Ireland,02,24,2
-Ireland,03,19,3
-Ireland,04,50,7
-Ireland,05,155,15
-Ireland,06,244,27
-Ireland,07,342,31
-Ireland,08,344,39
-Ireland,09,357,31
-Ireland,10,374,44
-Ireland,11,302,32
-Ireland,12,300,33
-Ireland,13,333,33
-Ireland,14,386,44
-Ireland,15,375,37
-Ireland,16,392,33
-Ireland,17,386,46
-Ireland,18,387,41
-Ireland,19,505,38
-Ireland,20,413,38
-Ireland,21,272,33
-Ireland,22,143,19
-Ireland,23,86,9
-Islamic Republic of Iran,00,6,0
-Islamic Republic of Iran,01,8,1
-Islamic Republic of Iran,02,12,0
-Islamic Republic of Iran,03,14,1
-Islamic Republic of Iran,04,18,0
-Islamic Republic of Iran,05,17,1
-Islamic Republic of Iran,06,14,0
-Islamic Republic of Iran,07,12,0
-Islamic Republic of Iran,08,18,3
-Islamic Republic of Iran,09,11,2
-Islamic Republic of Iran,10,11,0
-Islamic Republic of Iran,11,12,0
-Islamic Republic of Iran,12,19,0
-Islamic Republic of Iran,13,24,2
-Islamic Republic of Iran,14,17,3
-Islamic Republic of Iran,15,14,3
-Islamic Republic of Iran,16,16,2
-Islamic Republic of Iran,17,10,1
-Islamic Republic of Iran,18,5,0
-Islamic Republic of Iran,19,4,0
-Islamic Republic of Iran,20,10,0
-Islamic Republic of Iran,21,5,0
-Islamic Republic of Iran,22,5,0
-Islamic Republic of Iran,23,4,0
-Isle of Man,05,2,0
-Isle of Man,07,3,0
-Isle of Man,08,3,0
-Isle of Man,10,4,1
-Isle of Man,11,6,0
-Isle of Man,12,5,0
-Isle of Man,14,6,1
-Isle of Man,15,3,0
-Isle of Man,16,2,0
-Isle of Man,17,3,0
-Isle of Man,18,4,0
-Isle of Man,19,3,0
-Isle of Man,20,3,0
-Isle of Man,21,1,0
-Isle of Man,23,1,0
-Israel,00,17,1
-Israel,01,18,2
-Israel,02,24,3
-Israel,03,42,12
-Israel,04,37,8
-Israel,05,27,2
-Israel,06,26,1
-Israel,07,26,6
-Israel,08,28,2
-Israel,09,29,2
-Israel,10,30,2
-Israel,11,31,4
-Israel,12,40,11
-Israel,13,37,3
-Israel,14,42,5
-Israel,15,48,12
-Israel,16,27,3
-Israel,17,29,3
-Israel,18,19,1
-Israel,19,16,4
-Israel,20,12,2
-Israel,21,9,0
-Israel,22,10,0
-Israel,23,11,0
-Italy,00,36,2
-Italy,01,53,3
-Italy,02,103,12
-Italy,03,289,29
-Italy,04,580,36
-Italy,05,769,53
-Italy,06,750,53
-Italy,07,718,55
-Italy,08,788,40
-Italy,09,771,59
-Italy,10,783,49
-Italy,11,777,67
-Italy,12,718,46
-Italy,13,814,71
-Italy,14,1111,81
-Italy,15,780,35
-Italy,16,871,40
-Italy,17,880,53
-Italy,18,746,53
-Italy,19,593,54
-Italy,20,351,36
-Italy,21,166,16
-Italy,22,91,7
-Italy,23,46,5
-Ivory Coast,00,11,0
-Ivory Coast,01,4,0
-Ivory Coast,02,3,0
-Ivory Coast,03,5,0
-Ivory Coast,04,3,0
-Ivory Coast,05,4,0
-Ivory Coast,06,10,0
-Ivory Coast,07,8,0
-Ivory Coast,08,13,1
-Ivory Coast,09,17,2
-Ivory Coast,10,14,3
-Ivory Coast,11,24,1
-Ivory Coast,12,17,1
-Ivory Coast,13,12,1
-Ivory Coast,14,21,1
-Ivory Coast,15,14,1
-Ivory Coast,16,16,1
-Ivory Coast,17,26,0
-Ivory Coast,18,19,0
-Ivory Coast,19,25,0
-Ivory Coast,20,22,1
-Ivory Coast,21,15,0
-Ivory Coast,22,23,2
-Ivory Coast,23,14,0
-Jamaica,00,9,0
-Jamaica,01,3,0
-Jamaica,02,8,1
-Jamaica,03,2,0
-Jamaica,05,4,1
-Jamaica,06,11,1
-Jamaica,07,15,1
-Jamaica,08,26,3
-Jamaica,09,24,0
-Jamaica,10,31,1
-Jamaica,11,24,0
-Jamaica,12,17,1
-Jamaica,13,34,3
-Jamaica,14,22,0
-Jamaica,15,24,1
-Jamaica,16,30,2
-Jamaica,17,30,2
-Jamaica,18,33,3
-Jamaica,19,34,2
-Jamaica,20,36,2
-Jamaica,21,25,3
-Jamaica,22,19,2
-Jamaica,23,12,2
-Japan,00,260,25
-Japan,01,276,27
-Japan,02,201,15
-Japan,03,190,31
-Japan,04,189,17
-Japan,05,162,8
-Japan,06,150,12
-Japan,07,84,6
-Japan,08,63,7
-Japan,09,43,4
-Japan,10,29,0
-Japan,11,42,0
-Japan,12,78,3
-Japan,13,122,11
-Japan,14,145,8
-Japan,15,175,12
-Japan,16,175,12
-Japan,17,202,10
-Japan,18,198,7
-Japan,19,200,22
-Japan,20,183,13
-Japan,21,163,6
-Japan,22,215,4
-Japan,23,226,11
-Jersey,01,1,0
-Jersey,09,1,0
-Jersey,16,1,0
-Jersey,18,1,0
-Kazakhstan,00,3,0
-Kazakhstan,01,3,2
-Kazakhstan,02,2,0
-Kazakhstan,03,2,0
-Kazakhstan,04,6,1
-Kazakhstan,05,6,0
-Kazakhstan,06,7,0
-Kazakhstan,07,6,2
-Kazakhstan,08,7,1
-Kazakhstan,09,5,0
-Kazakhstan,10,3,0
-Kazakhstan,11,5,0
-Kazakhstan,12,5,0
-Kazakhstan,13,2,0
-Kazakhstan,14,1,0
-Kazakhstan,15,2,0
-Kazakhstan,18,1,0
-Kazakhstan,19,3,2
-Kazakhstan,20,2,0
-Kazakhstan,21,5,0
-Kazakhstan,22,7,1
-Kazakhstan,23,6,1
-Kenya,00,113,29
-Kenya,01,220,62
-Kenya,02,257,68
-Kenya,03,289,74
-Kenya,04,323,65
-Kenya,05,265,38
-Kenya,06,216,32
-Kenya,07,209,32
-Kenya,08,220,37
-Kenya,09,307,83
-Kenya,10,302,104
-Kenya,11,272,65
-Kenya,12,261,57
-Kenya,13,258,60
-Kenya,14,242,46
-Kenya,15,263,63
-Kenya,16,187,41
-Kenya,17,132,20
-Kenya,18,109,15
-Kenya,19,50,8
-Kenya,20,29,10
-Kenya,21,33,2
-Kenya,22,24,6
-Kenya,23,33,7
-Kingdom of Saudi Arabia,00,61,6
-Kingdom of Saudi Arabia,01,48,5
-Kingdom of Saudi Arabia,02,48,7
-Kingdom of Saudi Arabia,03,36,7
-Kingdom of Saudi Arabia,04,68,10
-Kingdom of Saudi Arabia,05,78,6
-Kingdom of Saudi Arabia,06,62,4
-Kingdom of Saudi Arabia,07,81,6
-Kingdom of Saudi Arabia,08,97,7
-Kingdom of Saudi Arabia,09,125,8
-Kingdom of Saudi Arabia,10,147,25
-Kingdom of Saudi Arabia,11,97,8
-Kingdom of Saudi Arabia,12,103,9
-Kingdom of Saudi Arabia,13,150,27
-Kingdom of Saudi Arabia,14,107,8
-Kingdom of Saudi Arabia,15,128,14
-Kingdom of Saudi Arabia,16,143,21
-Kingdom of Saudi Arabia,17,98,11
-Kingdom of Saudi Arabia,18,103,10
-Kingdom of Saudi Arabia,19,79,2
-Kingdom of Saudi Arabia,20,61,7
-Kingdom of Saudi Arabia,21,61,13
-Kingdom of Saudi Arabia,22,54,3
-Kingdom of Saudi Arabia,23,52,7
-Kosovo,00,5,0
-Kosovo,01,2,0
-Kosovo,05,4,0
-Kosovo,06,1,0
-Kosovo,07,8,0
-Kosovo,08,8,0
-Kosovo,09,10,0
-Kosovo,10,13,2
-Kosovo,11,10,0
-Kosovo,12,5,0
-Kosovo,13,11,0
-Kosovo,14,7,0
-Kosovo,15,10,0
-Kosovo,16,14,1
-Kosovo,17,13,1
-Kosovo,18,19,0
-Kosovo,19,15,0
-Kosovo,20,19,0
-Kosovo,21,14,0
-Kosovo,22,11,0
-Kosovo,23,7,0
-Kuwait,00,12,1
-Kuwait,01,2,0
-Kuwait,02,4,0
-Kuwait,03,12,1
-Kuwait,04,10,0
-Kuwait,05,28,0
-Kuwait,06,24,0
-Kuwait,07,20,0
-Kuwait,08,40,1
-Kuwait,09,21,0
-Kuwait,10,34,1
-Kuwait,11,43,1
-Kuwait,12,43,2
-Kuwait,13,27,4
-Kuwait,14,32,0
-Kuwait,15,37,3
-Kuwait,16,32,1
-Kuwait,17,33,0
-Kuwait,18,27,2
-Kuwait,19,18,2
-Kuwait,20,12,1
-Kuwait,21,10,1
-Kuwait,22,8,0
-Kuwait,23,10,1
-Kyrgyzstan,00,5,0
-Kyrgyzstan,01,4,1
-Kyrgyzstan,02,2,0
-Kyrgyzstan,03,3,0
-Kyrgyzstan,04,2,0
-Kyrgyzstan,05,2,0
-Kyrgyzstan,06,3,0
-Kyrgyzstan,07,2,0
-Kyrgyzstan,08,8,4
-Kyrgyzstan,09,4,0
-Kyrgyzstan,10,6,0
-Kyrgyzstan,11,3,0
-Kyrgyzstan,12,2,0
-Kyrgyzstan,13,1,0
-Kyrgyzstan,14,2,0
-Kyrgyzstan,15,1,0
-Kyrgyzstan,16,1,1
-Kyrgyzstan,20,1,0
-Kyrgyzstan,21,1,0
-Kyrgyzstan,23,2,0
-La Réunion,00,4,1
-La Réunion,01,5,2
-La Réunion,02,7,1
-La Réunion,03,10,0
-La Réunion,04,6,0
-La Réunion,05,7,2
-La Réunion,06,6,0
-La Réunion,07,7,0
-La Réunion,08,5,0
-La Réunion,09,7,1
-La Réunion,10,8,0
-La Réunion,11,4,0
-La Réunion,12,5,0
-La Réunion,13,11,0
-La Réunion,14,12,1
-La Réunion,15,2,0
-La Réunion,16,1,0
-La Réunion,17,2,0
-La Réunion,18,1,0
-La Réunion,23,3,1
-Lao People's Democratic Republic,01,1,0
-Lao People's Democratic Republic,02,2,0
-Lao People's Democratic Republic,03,1,0
-Lao People's Democratic Republic,04,1,0
-Lao People's Democratic Republic,05,1,0
-Lao People's Democratic Republic,06,1,1
-Lao People's Democratic Republic,08,2,0
-Lao People's Democratic Republic,15,1,0
-Lao People's Democratic Republic,18,1,0
-Lao People's Democratic Republic,20,2,0
-Latvia,02,3,1
-Latvia,03,4,1
-Latvia,04,5,0
-Latvia,05,4,2
-Latvia,06,5,2
-Latvia,07,4,0
-Latvia,08,5,0
-Latvia,10,7,2
-Latvia,11,2,0
-Latvia,12,6,1
-Latvia,13,4,0
-Latvia,14,4,2
-Latvia,15,2,0
-Latvia,16,4,3
-Latvia,17,2,0
-Latvia,18,3,0
-Latvia,20,1,0
-Latvia,21,1,0
-Latvia,22,1,0
-Lebanon,00,6,0
-Lebanon,01,9,1
-Lebanon,02,12,0
-Lebanon,03,23,1
-Lebanon,04,34,1
-Lebanon,05,53,1
-Lebanon,06,36,1
-Lebanon,07,29,1
-Lebanon,08,38,1
-Lebanon,09,40,5
-Lebanon,10,36,1
-Lebanon,11,45,0
-Lebanon,12,26,1
-Lebanon,13,41,2
-Lebanon,14,52,0
-Lebanon,15,42,2
-Lebanon,16,51,3
-Lebanon,17,40,2
-Lebanon,18,40,2
-Lebanon,19,35,2
-Lebanon,20,11,0
-Lebanon,21,6,0
-Lebanon,22,3,0
-Lebanon,23,2,0
-Lesotho,00,1,0
-Lesotho,01,2,0
-Lesotho,02,6,4
-Lesotho,03,6,0
-Lesotho,04,6,0
-Lesotho,05,4,0
-Lesotho,06,6,0
-Lesotho,07,5,1
-Lesotho,08,3,1
-Lesotho,09,5,0
-Lesotho,10,2,0
-Lesotho,11,2,0
-Lesotho,12,2,1
-Lesotho,13,4,0
-Lesotho,14,1,0
-Lesotho,15,5,0
-Lesotho,16,4,0
-Lesotho,17,4,0
-Lesotho,19,1,0
-Lesotho,20,2,0
-Lesotho,21,1,0
-Liberia,00,1,0
-Liberia,02,1,0
-Liberia,03,2,0
-Liberia,04,1,0
-Liberia,05,3,0
-Liberia,06,2,0
-Liberia,07,3,0
-Liberia,09,1,0
-Liberia,10,3,0
-Liberia,11,3,1
-Liberia,12,5,0
-Liberia,13,1,0
-Liberia,14,3,0
-Liberia,15,2,0
-Liberia,17,4,0
-Liberia,18,1,0
-Liberia,19,5,1
-Liberia,21,3,0
-Liberia,22,4,0
-Liberia,23,1,0
-Libya,03,1,0
-Libya,04,1,0
-Libya,08,1,0
-Libya,10,4,0
-Libya,11,2,0
-Libya,12,3,0
-Libya,13,1,0
-Libya,14,2,0
-Libya,15,4,0
-Libya,16,5,1
-Libya,17,6,0
-Libya,18,6,0
-Libya,19,5,0
-Libya,20,4,0
-Libya,21,3,1
-Libya,22,5,1
-Libya,23,1,0
-Liechtenstein,03,2,0
-Liechtenstein,04,4,0
-Liechtenstein,05,3,0
-Liechtenstein,06,2,0
-Liechtenstein,07,4,0
-Liechtenstein,09,2,0
-Liechtenstein,10,5,0
-Liechtenstein,11,1,0
-Liechtenstein,12,1,0
-Liechtenstein,14,1,0
-Liechtenstein,15,2,0
-Liechtenstein,16,4,0
-Liechtenstein,17,2,0
-Liechtenstein,18,2,0
-Liechtenstein,20,3,0
-Liechtenstein,22,2,1
-Liechtenstein,23,2,0
-Lithuania,03,2,0
-Lithuania,05,6,0
-Lithuania,06,1,0
-Lithuania,07,1,0
-Lithuania,08,1,0
-Lithuania,09,7,0
-Lithuania,10,5,0
-Lithuania,11,5,0
-Lithuania,12,4,0
-Lithuania,13,2,0
-Lithuania,14,6,1
-Lithuania,15,6,0
-Lithuania,16,4,0
-Lithuania,17,5,0
-Lithuania,18,6,0
-Lithuania,19,6,0
-Lithuania,20,5,0
-Lithuania,21,1,0
-Luxembourg,01,1,0
-Luxembourg,02,1,1
-Luxembourg,03,4,0
-Luxembourg,04,8,1
-Luxembourg,05,7,0
-Luxembourg,06,1,0
-Luxembourg,07,9,0
-Luxembourg,08,5,0
-Luxembourg,09,3,0
-Luxembourg,10,8,1
-Luxembourg,11,4,0
-Luxembourg,12,3,0
-Luxembourg,13,5,0
-Luxembourg,14,8,1
-Luxembourg,15,3,0
-Luxembourg,16,8,0
-Luxembourg,17,4,0
-Luxembourg,18,19,10
-Luxembourg,19,4,0
-Luxembourg,20,3,0
-Luxembourg,21,1,0
-Macau,00,1,0
-Macau,03,1,0
-Macau,05,1,0
-Macau,07,1,0
-Macau,08,5,0
-Macau,10,1,0
-Macau,16,1,0
-Macau,17,1,0
-Macau,18,1,0
-Macau,20,1,0
-Madagascar,01,1,0
-Madagascar,02,2,0
-Madagascar,05,3,0
-Madagascar,08,1,0
-Madagascar,09,1,0
-Madagascar,11,4,0
-Madagascar,12,2,0
-Madagascar,13,1,0
-Madagascar,15,2,0
-Madagascar,16,2,1
-Madagascar,17,1,0
-Madagascar,18,3,1
-Madagascar,20,2,0
-Malawi,00,1,0
-Malawi,01,1,0
-Malawi,02,3,0
-Malawi,03,4,0
-Malawi,04,7,1
-Malawi,05,7,1
-Malawi,06,4,0
-Malawi,07,9,1
-Malawi,08,4,0
-Malawi,09,7,1
-Malawi,10,2,0
-Malawi,11,7,1
-Malawi,12,5,0
-Malawi,13,5,0
-Malawi,14,5,0
-Malawi,15,9,0
-Malawi,16,2,0
-Malawi,17,12,0
-Malawi,18,8,1
-Malawi,19,5,0
-Malawi,22,2,0
-Malaysia,00,225,17
-Malaysia,01,255,21
-Malaysia,02,208,15
-Malaysia,03,201,10
-Malaysia,04,209,19
-Malaysia,05,194,11
-Malaysia,06,189,13
-Malaysia,07,178,10
-Malaysia,08,117,13
-Malaysia,09,78,7
-Malaysia,10,65,1
-Malaysia,11,28,1
-Malaysia,12,35,5
-Malaysia,13,48,5
-Malaysia,14,63,6
-Malaysia,15,105,9
-Malaysia,16,137,6
-Malaysia,17,167,13
-Malaysia,18,192,11
-Malaysia,19,225,13
-Malaysia,20,218,15
-Malaysia,21,232,10
-Malaysia,22,182,11
-Malaysia,23,217,15
-Maldives,00,34,2
-Maldives,01,46,6
-Maldives,02,76,10
-Maldives,03,61,6
-Maldives,04,60,2
-Maldives,05,57,6
-Maldives,06,79,4
-Maldives,07,63,6
-Maldives,08,86,6
-Maldives,09,63,6
-Maldives,10,57,9
-Maldives,11,53,3
-Maldives,12,61,11
-Maldives,13,70,7
-Maldives,14,48,8
-Maldives,15,40,4
-Maldives,16,39,4
-Maldives,17,29,4
-Maldives,18,20,4
-Maldives,19,16,2
-Maldives,20,9,4
-Maldives,21,6,1
-Maldives,22,13,1
-Maldives,23,21,1
-Mali,00,1,0
-Mali,01,5,0
-Mali,02,2,0
-Mali,03,1,1
-Mali,06,1,0
-Mali,07,1,0
-Mali,08,4,0
-Mali,09,4,1
-Mali,10,8,0
-Mali,11,10,0
-Mali,12,13,0
-Mali,13,18,0
-Mali,14,15,0
-Mali,15,20,0
-Mali,16,19,0
-Mali,17,9,0
-Mali,18,6,1
-Mali,19,18,2
-Mali,20,21,1
-Mali,21,14,0
-Mali,22,9,1
-Mali,23,3,0
-Malta,02,5,0
-Malta,03,2,0
-Malta,04,10,2
-Malta,05,6,0
-Malta,06,13,2
-Malta,07,11,0
-Malta,08,6,0
-Malta,09,7,0
-Malta,10,6,0
-Malta,11,10,0
-Malta,12,5,2
-Malta,13,5,0
-Malta,14,3,0
-Malta,15,4,0
-Malta,16,7,0
-Malta,17,3,0
-Malta,18,4,0
-Malta,19,3,0
-Malta,20,2,0
-Malta,21,1,0
-Malta,23,1,0
-Marshall Islands,05,1,0
-Martinique,00,6,2
-Martinique,01,5,3
-Martinique,02,5,1
-Martinique,04,5,1
-Martinique,06,7,0
-Martinique,07,3,0
-Martinique,08,4,0
-Martinique,09,4,0
-Martinique,10,11,1
-Martinique,11,16,2
-Martinique,12,21,0
-Martinique,13,19,4
-Martinique,14,18,10
-Martinique,15,7,1
-Martinique,16,7,0
-Martinique,17,6,0
-Martinique,18,5,0
-Martinique,19,4,0
-Martinique,20,5,1
-Martinique,21,5,1
-Martinique,22,5,0
-Martinique,23,4,0
-Mauritania,00,1,0
-Mauritania,02,1,1
-Mauritania,03,1,0
-Mauritania,08,1,0
-Mauritania,10,1,0
-Mauritania,11,1,0
-Mauritania,12,3,0
-Mauritania,14,1,0
-Mauritania,16,1,0
-Mauritania,17,1,0
-Mauritania,18,1,0
-Mauritania,20,4,0
-Mauritania,21,2,0
-Mauritania,23,2,0
-Mayotte,02,1,0
-Mayotte,05,1,0
-Mayotte,13,2,0
-Mayotte,16,1,0
-Mayotte,17,1,0
-Mexico,00,175,11
-Mexico,01,103,10
-Mexico,02,56,6
-Mexico,03,62,15
-Mexico,04,105,9
-Mexico,05,306,34
-Mexico,06,440,40
-Mexico,07,626,40
-Mexico,08,842,42
-Mexico,09,833,45
-Mexico,10,1002,55
-Mexico,11,893,51
-Mexico,12,967,56
-Mexico,13,831,51
-Mexico,14,855,64
-Mexico,15,835,65
-Mexico,16,876,70
-Mexico,17,1316,207
-Mexico,18,1119,95
-Mexico,19,1017,87
-Mexico,20,922,70
-Mexico,21,733,37
-Mexico,22,496,47
-Mexico,23,310,33
-Moldova,02,1,0
-Moldova,03,2,0
-Moldova,04,2,0
-Moldova,06,3,0
-Moldova,10,3,0
-Moldova,11,1,0
-Moldova,12,1,0
-Moldova,13,1,0
-Moldova,17,1,0
-Moldova,20,1,0
-Monaco,01,2,0
-Monaco,03,2,1
-Monaco,04,5,0
-Monaco,05,14,1
-Monaco,06,9,1
-Monaco,07,7,2
-Monaco,08,1,0
-Monaco,09,5,1
-Monaco,10,2,0
-Monaco,11,4,0
-Monaco,12,2,1
-Monaco,13,2,0
-Monaco,14,7,0
-Monaco,15,5,0
-Monaco,16,8,0
-Monaco,17,3,0
-Monaco,18,4,0
-Monaco,19,2,0
-Monaco,20,1,0
-Monaco,21,2,0
-Monaco,22,1,0
-Monaco,23,1,0
-Mongolia,00,5,0
-Mongolia,01,2,0
-Mongolia,02,2,0
-Mongolia,03,4,0
-Mongolia,04,4,0
-Mongolia,05,7,0
-Mongolia,06,1,0
-Mongolia,07,4,1
-Mongolia,08,3,1
-Mongolia,09,1,0
-Mongolia,10,3,0
-Mongolia,11,1,0
-Mongolia,12,3,0
-Mongolia,15,3,0
-Mongolia,16,1,0
-Mongolia,17,3,0
-Mongolia,18,1,0
-Mongolia,19,3,0
-Mongolia,20,6,0
-Mongolia,21,5,0
-Mongolia,22,5,0
-Mongolia,23,3,0
-Montenegro,04,2,0
-Montenegro,05,8,0
-Montenegro,06,14,0
-Montenegro,07,11,1
-Montenegro,08,8,1
-Montenegro,09,5,0
-Montenegro,10,6,0
-Montenegro,11,10,0
-Montenegro,12,9,0
-Montenegro,13,10,0
-Montenegro,14,7,0
-Montenegro,15,5,0
-Montenegro,16,7,0
-Montenegro,17,3,0
-Montenegro,18,6,0
-Montenegro,19,3,0
-Montenegro,22,1,0
-Morocco,00,7,1
-Morocco,01,2,0
-Morocco,02,4,2
-Morocco,03,2,0
-Morocco,04,3,0
-Morocco,06,5,0
-Morocco,07,10,2
-Morocco,08,10,1
-Morocco,09,21,2
-Morocco,10,14,0
-Morocco,11,22,3
-Morocco,12,23,0
-Morocco,13,15,3
-Morocco,14,19,2
-Morocco,15,16,0
-Morocco,16,25,0
-Morocco,17,22,1
-Morocco,18,20,3
-Morocco,19,22,2
-Morocco,20,20,1
-Morocco,21,16,4
-Morocco,22,13,0
-Morocco,23,14,1
-Myanmar,00,2,0
-Myanmar,01,3,0
-Myanmar,02,6,1
-Myanmar,03,4,0
-Myanmar,04,2,0
-Myanmar,05,6,1
-Myanmar,06,3,0
-Myanmar,07,8,3
-Myanmar,08,6,2
-Myanmar,09,3,0
-Myanmar,10,2,0
-Myanmar,11,8,0
-Myanmar,12,2,0
-Myanmar,13,1,0
-Myanmar,14,1,0
-Myanmar,17,1,1
-Myanmar,18,1,0
-Myanmar,20,4,0
-Myanmar,21,2,0
-Myanmar,22,7,0
-Myanmar,23,3,0
-Nepal,00,53,5
-Nepal,01,39,3
-Nepal,02,37,3
-Nepal,03,28,3
-Nepal,04,23,2
-Nepal,05,35,2
-Nepal,06,34,0
-Nepal,07,33,1
-Nepal,08,61,4
-Nepal,09,59,3
-Nepal,10,49,1
-Nepal,11,44,5
-Nepal,12,25,2
-Nepal,13,18,1
-Nepal,14,4,0
-Nepal,15,2,1
-Nepal,16,3,1
-Nepal,17,4,2
-Nepal,18,4,0
-Nepal,19,25,5
-Nepal,20,54,22
-Nepal,21,52,6
-Nepal,22,36,2
-Nepal,23,45,1
-New Caledonia,00,1,0
-New Caledonia,01,2,0
-New Caledonia,02,1,0
-New Caledonia,08,1,0
-New Caledonia,09,1,0
-New Caledonia,10,2,0
-New Caledonia,11,1,0
-New Caledonia,12,2,0
-New Caledonia,13,3,0
-New Caledonia,16,1,0
-New Caledonia,19,2,0
-New Caledonia,20,2,0
-New Caledonia,21,3,0
-New Zealand,00,12,3
-New Zealand,01,13,3
-New Zealand,02,9,2
-New Zealand,03,11,0
-New Zealand,04,9,0
-New Zealand,05,9,0
-New Zealand,06,34,6
-New Zealand,07,62,10
-New Zealand,08,85,16
-New Zealand,09,63,9
-New Zealand,10,81,21
-New Zealand,11,65,12
-New Zealand,12,111,55
-New Zealand,13,416,309
-New Zealand,14,107,45
-New Zealand,15,55,9
-New Zealand,16,99,45
-New Zealand,17,53,7
-New Zealand,18,67,4
-New Zealand,19,55,6
-New Zealand,20,61,8
-New Zealand,21,42,6
-New Zealand,22,57,11
-New Zealand,23,27,5
-Nicaragua,00,3,0
-Nicaragua,01,4,0
-Nicaragua,02,4,0
-Nicaragua,03,1,0
-Nicaragua,04,1,0
-Nicaragua,05,1,0
-Nicaragua,06,11,0
-Nicaragua,07,11,3
-Nicaragua,08,23,11
-Nicaragua,09,41,18
-Nicaragua,10,38,5
-Nicaragua,11,54,3
-Nicaragua,12,33,4
-Nicaragua,13,32,6
-Nicaragua,14,22,7
-Nicaragua,15,17,3
-Nicaragua,16,18,2
-Nicaragua,17,23,2
-Nicaragua,18,32,6
-Nicaragua,19,24,4
-Nicaragua,20,15,1
-Nicaragua,21,22,6
-Nicaragua,22,23,3
-Nicaragua,23,19,2
-Niger,00,2,1
-Niger,05,1,0
-Niger,06,3,1
-Niger,07,2,0
-Niger,08,5,0
-Niger,09,5,0
-Niger,10,3,0
-Niger,11,4,0
-Niger,12,1,0
-Niger,13,2,1
-Niger,14,2,1
-Niger,15,3,1
-Niger,16,4,0
-Niger,17,3,2
-Niger,18,6,0
-Niger,19,10,0
-Niger,20,3,0
-Niger,21,3,1
-Niger,22,3,1
-Niger,23,2,0
-Nigeria,00,171,20
-Nigeria,01,131,19
-Nigeria,02,141,20
-Nigeria,03,159,18
-Nigeria,04,284,31
-Nigeria,05,501,61
-Nigeria,06,705,87
-Nigeria,07,812,92
-Nigeria,08,684,78
-Nigeria,09,695,92
-Nigeria,10,749,92
-Nigeria,11,691,105
-Nigeria,12,690,104
-Nigeria,13,705,113
-Nigeria,14,760,98
-Nigeria,15,733,110
-Nigeria,16,698,96
-Nigeria,17,794,118
-Nigeria,18,785,104
-Nigeria,19,725,71
-Nigeria,20,688,89
-Nigeria,21,713,87
-Nigeria,22,557,60
-Nigeria,23,316,57
-North Korea,17,1,0
-North Korea,18,1,0
-North Korea,23,1,0
-Northern Mariana Islands,15,2,0
-Northern Mariana Islands,17,1,0
-Northern Mariana Islands,19,1,0
-Northern Mariana Islands,22,1,1
-Norway,00,3,0
-Norway,01,3,0
-Norway,02,2,0
-Norway,03,5,0
-Norway,04,7,0
-Norway,05,23,3
-Norway,06,21,0
-Norway,07,19,0
-Norway,08,9,0
-Norway,09,26,2
-Norway,10,14,1
-Norway,11,30,2
-Norway,12,15,0
-Norway,13,18,2
-Norway,14,14,1
-Norway,15,24,1
-Norway,16,13,0
-Norway,17,14,0
-Norway,18,30,20
-Norway,19,8,3
-Norway,20,8,1
-Norway,21,8,1
-Norway,22,2,0
-Norway,23,4,1
-Oman,00,11,2
-Oman,01,42,1
-Oman,02,25,1
-Oman,03,22,1
-Oman,04,24,1
-Oman,05,18,1
-Oman,06,20,1
-Oman,07,21,1
-Oman,08,13,2
-Oman,09,18,1
-Oman,10,27,0
-Oman,11,17,2
-Oman,12,25,1
-Oman,13,12,1
-Oman,14,14,1
-Oman,15,15,0
-Oman,16,11,1
-Oman,17,8,0
-Oman,18,10,0
-Oman,19,3,0
-Oman,20,6,0
-Oman,21,9,0
-Oman,22,11,0
-Oman,23,4,1
-Pakistan,00,216,14
-Pakistan,01,234,17
-Pakistan,02,307,16
-Pakistan,03,360,18
-Pakistan,04,282,16
-Pakistan,05,340,19
-Pakistan,06,407,21
-Pakistan,07,332,24
-Pakistan,08,335,19
-Pakistan,09,415,25
-Pakistan,10,415,35
-Pakistan,11,395,26
-Pakistan,12,390,25
-Pakistan,13,372,26
-Pakistan,14,373,27
-Pakistan,15,270,17
-Pakistan,16,164,12
-Pakistan,17,141,11
-Pakistan,18,143,15
-Pakistan,19,150,30
-Pakistan,20,119,11
-Pakistan,21,90,7
-Pakistan,22,130,6
-Pakistan,23,142,8
-Palau,11,1,0
-Palau,12,1,0
-Palau,13,2,0
-Palau,16,2,1
-Palau,17,1,0
-Panama,00,28,1
-Panama,01,10,1
-Panama,02,3,0
-Panama,03,1,0
-Panama,04,4,0
-Panama,05,5,1
-Panama,06,31,0
-Panama,07,34,2
-Panama,08,60,4
-Panama,09,81,7
-Panama,10,87,4
-Panama,11,87,3
-Panama,12,75,4
-Panama,13,76,3
-Panama,14,96,6
-Panama,15,102,3
-Panama,16,89,12
-Panama,17,97,4
-Panama,18,436,7
-Panama,19,387,3
-Panama,20,147,3
-Panama,21,39,3
-Panama,22,37,4
-Panama,23,35,3
-Papua New Guinea,00,4,0
-Papua New Guinea,01,3,1
-Papua New Guinea,02,1,0
-Papua New Guinea,05,2,0
-Papua New Guinea,06,1,0
-Papua New Guinea,07,2,0
-Papua New Guinea,11,3,1
-Papua New Guinea,12,1,0
-Papua New Guinea,13,1,0
-Papua New Guinea,14,4,0
-Papua New Guinea,15,1,0
-Papua New Guinea,16,2,0
-Papua New Guinea,17,2,0
-Papua New Guinea,18,1,0
-Papua New Guinea,19,2,0
-Papua New Guinea,20,1,0
-Papua New Guinea,21,4,0
-Papua New Guinea,23,2,0
-Paraguay,00,25,5
-Paraguay,01,11,2
-Paraguay,02,6,2
-Paraguay,03,4,0
-Paraguay,04,7,1
-Paraguay,05,9,3
-Paraguay,06,23,2
-Paraguay,07,64,10
-Paraguay,08,61,6
-Paraguay,09,66,10
-Paraguay,10,66,13
-Paraguay,11,69,1
-Paraguay,12,70,10
-Paraguay,13,57,3
-Paraguay,14,53,8
-Paraguay,15,57,10
-Paraguay,16,48,7
-Paraguay,17,52,7
-Paraguay,18,46,2
-Paraguay,19,62,6
-Paraguay,20,117,10
-Paraguay,21,116,6
-Paraguay,22,76,5
-Paraguay,23,49,4
-People's Republic of China,00,59,6
-People's Republic of China,01,63,4
-People's Republic of China,02,80,6
-People's Republic of China,03,71,2
-People's Republic of China,04,120,8
-People's Republic of China,05,90,4
-People's Republic of China,06,99,11
-People's Republic of China,07,95,4
-People's Republic of China,08,81,4
-People's Republic of China,09,78,4
-People's Republic of China,10,36,2
-People's Republic of China,11,29,1
-People's Republic of China,12,30,2
-People's Republic of China,13,15,1
-People's Republic of China,14,18,3
-People's Republic of China,15,29,2
-People's Republic of China,16,75,7
-People's Republic of China,17,52,4
-People's Republic of China,18,70,5
-People's Republic of China,19,63,2
-People's Republic of China,20,75,3
-People's Republic of China,21,80,10
-People's Republic of China,22,67,6
-People's Republic of China,23,92,8
-Peru,00,79,9
-Peru,01,54,9
-Peru,02,37,9
-Peru,03,21,2
-Peru,04,13,1
-Peru,05,26,3
-Peru,06,59,4
-Peru,07,92,11
-Peru,08,158,17
-Peru,09,143,17
-Peru,10,152,14
-Peru,11,189,26
-Peru,12,243,24
-Peru,13,267,32
-Peru,14,198,25
-Peru,15,168,29
-Peru,16,155,28
-Peru,17,137,20
-Peru,18,162,15
-Peru,19,129,16
-Peru,20,141,10
-Peru,21,168,24
-Peru,22,135,23
-Peru,23,107,11
-Poland,00,4,0
-Poland,01,3,0
-Poland,02,26,1
-Poland,03,49,2
-Poland,04,70,6
-Poland,05,63,5
-Poland,06,87,5
-Poland,07,56,2
-Poland,08,57,4
-Poland,09,60,2
-Poland,10,63,10
-Poland,11,63,6
-Poland,12,59,6
-Poland,13,52,4
-Poland,14,53,3
-Poland,15,79,9
-Poland,16,74,8
-Poland,17,74,6
-Poland,18,51,5
-Poland,19,43,7
-Poland,20,25,3
-Poland,21,10,0
-Poland,22,8,0
-Poland,23,2,0
-Portugal,00,10,1
-Portugal,01,6,1
-Portugal,02,23,10
-Portugal,03,9,0
-Portugal,04,5,0
-Portugal,05,4,2
-Portugal,06,13,0
-Portugal,07,32,0
-Portugal,08,28,1
-Portugal,09,32,2
-Portugal,10,52,4
-Portugal,11,59,1
-Portugal,12,62,1
-Portugal,13,58,1
-Portugal,14,52,1
-Portugal,15,49,1
-Portugal,16,43,1
-Portugal,17,54,3
-Portugal,18,67,7
-Portugal,19,51,6
-Portugal,20,37,1
-Portugal,21,55,3
-Portugal,22,31,2
-Portugal,23,15,0
-Puerto Rico,00,1,1
-Puerto Rico,02,1,0
-Puerto Rico,05,1,0
-Puerto Rico,06,1,0
-Puerto Rico,07,1,0
-Puerto Rico,09,2,0
-Puerto Rico,10,1,0
-Puerto Rico,11,3,0
-Puerto Rico,13,2,1
-Puerto Rico,14,3,3
-Puerto Rico,15,2,0
-Puerto Rico,16,1,0
-Puerto Rico,19,1,0
-Puerto Rico,20,1,0
-Puerto Rico,23,2,0
-Qatar,00,16,2
-Qatar,01,9,1
-Qatar,02,22,0
-Qatar,03,23,2
-Qatar,04,35,2
-Qatar,05,48,3
-Qatar,06,39,2
-Qatar,07,37,6
-Qatar,08,45,10
-Qatar,09,41,1
-Qatar,10,40,1
-Qatar,11,23,2
-Qatar,12,54,7
-Qatar,13,42,3
-Qatar,14,43,2
-Qatar,15,41,1
-Qatar,16,40,1
-Qatar,17,33,2
-Qatar,18,27,0
-Qatar,19,17,2
-Qatar,20,13,0
-Qatar,21,9,0
-Qatar,22,9,1
-Qatar,23,13,2
-Republic of Belarus,04,4,0
-Republic of Belarus,05,3,0
-Republic of Belarus,06,3,0
-Republic of Belarus,07,3,0
-Republic of Belarus,09,4,0
-Republic of Belarus,10,1,0
-Republic of Belarus,12,4,0
-Republic of Belarus,13,2,0
-Republic of Belarus,14,5,0
-Republic of Belarus,15,7,0
-Republic of Belarus,16,4,0
-Republic of Belarus,18,5,0
-Republic of Belarus,19,3,0
-Republic of Belarus,20,1,0
-Republic of Belarus,22,1,0
-Republic of Croatia,00,2,0
-Republic of Croatia,02,1,0
-Republic of Croatia,03,5,1
-Republic of Croatia,04,6,0
-Republic of Croatia,05,17,1
-Republic of Croatia,06,11,2
-Republic of Croatia,07,18,1
-Republic of Croatia,08,15,1
-Republic of Croatia,09,8,1
-Republic of Croatia,10,15,1
-Republic of Croatia,11,12,3
-Republic of Croatia,12,9,0
-Republic of Croatia,13,3,0
-Republic of Croatia,14,8,0
-Republic of Croatia,15,18,2
-Republic of Croatia,16,16,3
-Republic of Croatia,17,7,2
-Republic of Croatia,18,8,0
-Republic of Croatia,19,4,0
-Republic of Croatia,20,1,0
-Republic of Croatia,21,3,1
-Republic of Croatia,22,1,0
-Republic of Korea,00,9,0
-Republic of Korea,01,7,0
-Republic of Korea,02,12,2
-Republic of Korea,03,10,0
-Republic of Korea,04,13,0
-Republic of Korea,05,12,1
-Republic of Korea,06,14,0
-Republic of Korea,07,7,1
-Republic of Korea,08,3,0
-Republic of Korea,09,5,1
-Republic of Korea,10,6,1
-Republic of Korea,11,4,0
-Republic of Korea,12,6,0
-Republic of Korea,13,9,0
-Republic of Korea,14,5,0
-Republic of Korea,15,20,2
-Republic of Korea,16,25,4
-Republic of Korea,17,22,2
-Republic of Korea,18,18,2
-Republic of Korea,19,12,3
-Republic of Korea,20,20,3
-Republic of Korea,21,14,3
-Republic of Korea,22,15,0
-Republic of Korea,23,15,1
-Republic of Mauritius,00,1,0
-Republic of Mauritius,01,3,0
-Republic of Mauritius,02,2,0
-Republic of Mauritius,03,1,0
-Republic of Mauritius,04,2,0
-Republic of Mauritius,05,3,1
-Republic of Mauritius,07,1,0
-Republic of Mauritius,09,10,0
-Republic of Mauritius,10,22,0
-Republic of Mauritius,11,3,0
-Republic of Mauritius,12,2,0
-Republic of Mauritius,13,2,0
-Republic of Mauritius,14,3,0
-Republic of Mauritius,15,2,0
-Republic of Mauritius,16,2,0
-Republic of Mauritius,17,2,0
-Republic of Mauritius,19,1,0
-Republic of Mozambique,01,1,0
-Republic of Mozambique,02,1,0
-Republic of Mozambique,03,3,0
-Republic of Mozambique,04,3,0
-Republic of Mozambique,05,5,0
-Republic of Mozambique,06,3,0
-Republic of Mozambique,07,1,0
-Republic of Mozambique,08,6,0
-Republic of Mozambique,09,5,0
-Republic of Mozambique,10,1,0
-Republic of Mozambique,11,3,0
-Republic of Mozambique,12,5,0
-Republic of Mozambique,13,3,0
-Republic of Mozambique,14,4,1
-Republic of Mozambique,15,3,0
-Republic of Mozambique,16,7,1
-Republic of Mozambique,17,3,0
-Republic of Mozambique,18,1,0
-Republic of Mozambique,19,1,0
-Republic of Mozambique,21,1,0
-Republic of Mozambique,23,4,0
-Republic of Serbia,00,1,0
-Republic of Serbia,01,6,4
-Republic of Serbia,02,8,0
-Republic of Serbia,03,24,2
-Republic of Serbia,04,19,1
-Republic of Serbia,05,24,2
-Republic of Serbia,06,34,2
-Republic of Serbia,07,38,2
-Republic of Serbia,08,23,4
-Republic of Serbia,09,28,2
-Republic of Serbia,10,22,2
-Republic of Serbia,11,41,4
-Republic of Serbia,12,24,5
-Republic of Serbia,13,36,3
-Republic of Serbia,14,28,4
-Republic of Serbia,15,32,2
-Republic of Serbia,16,27,5
-Republic of Serbia,17,21,4
-Republic of Serbia,18,43,6
-Republic of Serbia,19,21,5
-Republic of Serbia,20,13,3
-Republic of Serbia,21,9,5
-Republic of Serbia,22,5,2
-Republic of Slovenia,02,2,1
-Republic of Slovenia,03,3,1
-Republic of Slovenia,04,11,0
-Republic of Slovenia,05,11,0
-Republic of Slovenia,06,9,0
-Republic of Slovenia,07,7,0
-Republic of Slovenia,08,11,1
-Republic of Slovenia,09,11,0
-Republic of Slovenia,10,8,0
-Republic of Slovenia,11,11,0
-Republic of Slovenia,12,4,1
-Republic of Slovenia,13,15,2
-Republic of Slovenia,14,15,1
-Republic of Slovenia,15,11,2
-Republic of Slovenia,16,7,0
-Republic of Slovenia,17,6,0
-Republic of Slovenia,18,4,0
-Republic of Slovenia,19,6,0
-Republic of Slovenia,20,5,0
-Republic of the Philippines,00,199,10
-Republic of the Philippines,01,123,7
-Republic of the Philippines,02,178,5
-Republic of the Philippines,03,148,12
-Republic of the Philippines,04,156,4
-Republic of the Philippines,05,169,9
-Republic of the Philippines,06,126,17
-Republic of the Philippines,07,123,6
-Republic of the Philippines,08,101,7
-Republic of the Philippines,09,68,5
-Republic of the Philippines,10,55,6
-Republic of the Philippines,11,28,2
-Republic of the Philippines,12,45,2
-Republic of the Philippines,13,27,2
-Republic of the Philippines,14,68,4
-Republic of the Philippines,15,75,6
-Republic of the Philippines,16,122,5
-Republic of the Philippines,17,184,12
-Republic of the Philippines,18,185,11
-Republic of the Philippines,19,171,13
-Republic of the Philippines,20,165,9
-Republic of the Philippines,21,192,20
-Republic of the Philippines,22,156,6
-Republic of the Philippines,23,125,5
-Romania,00,1,1
-Romania,01,2,1
-Romania,02,6,2
-Romania,03,11,1
-Romania,04,10,4
-Romania,05,11,4
-Romania,06,10,5
-Romania,07,10,2
-Romania,08,8,0
-Romania,09,10,1
-Romania,10,9,0
-Romania,11,8,0
-Romania,12,5,0
-Romania,13,12,1
-Romania,14,10,1
-Romania,15,12,2
-Romania,16,9,1
-Romania,17,11,1
-Romania,18,4,0
-Romania,19,4,1
-Romania,20,2,0
-Romania,21,1,0
-Romania,22,1,0
-Romania,23,2,1
-Russia,00,57,0
-Russia,01,53,3
-Russia,02,56,4
-Russia,03,39,1
-Russia,04,45,2
-Russia,05,49,1
-Russia,06,42,1
-Russia,07,38,0
-Russia,08,38,3
-Russia,09,31,0
-Russia,10,26,1
-Russia,11,11,0
-Russia,12,9,0
-Russia,13,8,0
-Russia,14,12,0
-Russia,15,14,2
-Russia,16,18,0
-Russia,17,23,0
-Russia,18,34,4
-Russia,19,42,8
-Russia,20,65,5
-Russia,21,28,1
-Russia,22,47,5
-Russia,23,41,2
-Rwanda,00,3,1
-Rwanda,01,7,1
-Rwanda,02,13,2
-Rwanda,03,21,3
-Rwanda,04,37,2
-Rwanda,05,30,6
-Rwanda,06,24,4
-Rwanda,07,20,6
-Rwanda,08,28,3
-Rwanda,09,35,6
-Rwanda,10,30,3
-Rwanda,11,26,3
-Rwanda,12,23,2
-Rwanda,13,24,9
-Rwanda,14,26,2
-Rwanda,15,54,6
-Rwanda,16,68,11
-Rwanda,17,41,7
-Rwanda,18,42,10
-Rwanda,19,37,7
-Rwanda,20,23,3
-Rwanda,21,7,0
-Rwanda,22,1,0
-Rwanda,23,3,1
-Saint Barthélemy,19,1,0
-Saint Kitts and Nevis,07,1,0
-Saint Kitts and Nevis,10,2,0
-Saint Kitts and Nevis,12,1,0
-Saint Kitts and Nevis,15,1,0
-Saint Kitts and Nevis,17,1,0
-Saint Kitts and Nevis,22,2,1
-Saint Lucia,00,2,0
-Saint Lucia,10,1,0
-Saint Lucia,13,1,0
-Saint Lucia,15,1,0
-Saint Lucia,16,1,0
-Saint Lucia,19,2,0
-Saint Lucia,20,1,0
-Saint Lucia,21,2,0
-Saint Lucia,23,2,0
-Saint Martin,04,1,0
-Saint Martin,11,1,0
-Saint Martin,13,1,0
-Saint Martin,14,1,0
-Saint Martin,16,1,0
-Saint Martin,20,1,0
-Saint Martin,21,1,0
-Saint Pierre and Miquelon,15,1,0
-Saint Pierre and Miquelon,18,1,1
-Saint Pierre and Miquelon,23,1,0
-Saint Vincent and the Grenadines,02,1,0
-Saint Vincent and the Grenadines,07,1,0
-Saint Vincent and the Grenadines,11,1,0
-Saint Vincent and the Grenadines,13,1,0
-Saint Vincent and the Grenadines,18,1,1
-Samoa,11,1,0
-Samoa,17,1,0
-San Marino,16,1,0
-San Marino,18,1,0
-Senegal,00,18,1
-Senegal,01,12,0
-Senegal,02,11,1
-Senegal,03,4,0
-Senegal,04,1,0
-Senegal,05,2,1
-Senegal,06,6,1
-Senegal,07,11,0
-Senegal,08,16,1
-Senegal,09,17,0
-Senegal,10,105,1
-Senegal,11,26,2
-Senegal,12,33,1
-Senegal,13,30,0
-Senegal,14,27,1
-Senegal,15,31,5
-Senegal,16,30,0
-Senegal,17,22,1
-Senegal,18,27,4
-Senegal,19,20,1
-Senegal,20,36,1
-Senegal,21,33,2
-Senegal,22,25,2
-Senegal,23,13,0
-Seychelles,00,1,0
-Seychelles,05,3,1
-Seychelles,06,1,0
-Seychelles,08,5,1
-Seychelles,09,1,0
-Seychelles,11,2,0
-Seychelles,13,1,0
-Seychelles,19,1,0
-Seychelles,23,5,0
-Sierra Leone,00,7,1
-Sierra Leone,01,2,0
-Sierra Leone,02,1,0
-Sierra Leone,03,1,0
-Sierra Leone,04,3,0
-Sierra Leone,05,1,0
-Sierra Leone,06,4,0
-Sierra Leone,07,5,0
-Sierra Leone,08,6,0
-Sierra Leone,09,9,2
-Sierra Leone,10,20,6
-Sierra Leone,11,28,3
-Sierra Leone,12,23,4
-Sierra Leone,13,12,0
-Sierra Leone,14,23,5
-Sierra Leone,15,18,1
-Sierra Leone,16,14,4
-Sierra Leone,17,11,2
-Sierra Leone,18,18,0
-Sierra Leone,19,19,2
-Sierra Leone,20,15,2
-Sierra Leone,21,24,3
-Sierra Leone,22,9,0
-Sierra Leone,23,8,1
-Singapore,00,62,3
-Singapore,01,52,4
-Singapore,02,39,1
-Singapore,03,48,2
-Singapore,04,54,6
-Singapore,05,41,3
-Singapore,06,51,6
-Singapore,07,58,3
-Singapore,08,38,3
-Singapore,09,23,1
-Singapore,10,11,1
-Singapore,11,9,0
-Singapore,12,4,0
-Singapore,13,5,0
-Singapore,14,10,0
-Singapore,15,26,1
-Singapore,16,46,1
-Singapore,17,52,2
-Singapore,18,58,2
-Singapore,19,51,4
-Singapore,20,63,5
-Singapore,21,59,7
-Singapore,22,61,3
-Singapore,23,52,6
-Sint Maarten,00,1,0
-Sint Maarten,08,1,0
-Sint Maarten,12,2,0
-Sint Maarten,13,1,0
-Sint Maarten,14,3,0
-Sint Maarten,15,1,0
-Sint Maarten,16,1,0
-Sint Maarten,18,1,0
-Sint Maarten,20,1,0
-Sint Maarten,22,1,0
-Slovak Republic,04,3,0
-Slovak Republic,05,1,0
-Slovak Republic,06,5,1
-Slovak Republic,07,8,2
-Slovak Republic,08,3,1
-Slovak Republic,09,6,0
-Slovak Republic,10,4,0
-Slovak Republic,11,6,0
-Slovak Republic,12,2,0
-Slovak Republic,13,5,0
-Slovak Republic,14,4,0
-Slovak Republic,15,6,1
-Slovak Republic,16,9,2
-Slovak Republic,17,6,1
-Slovak Republic,18,4,0
-Slovak Republic,19,2,0
-Slovak Republic,20,1,0
-Slovak Republic,21,2,0
-Slovak Republic,22,2,0
-Solomon Islands,00,1,0
-Solomon Islands,01,1,0
-Solomon Islands,08,1,0
-Solomon Islands,15,2,0
-Solomon Islands,16,1,0
-Solomon Islands,17,2,0
-Solomon Islands,18,4,0
-Solomon Islands,21,1,0
-Somalia,00,7,0
-Somalia,01,10,0
-Somalia,02,22,1
-Somalia,03,15,0
-Somalia,04,19,1
-Somalia,05,20,1
-Somalia,06,14,3
-Somalia,07,17,1
-Somalia,08,22,2
-Somalia,09,19,0
-Somalia,10,25,3
-Somalia,11,25,1
-Somalia,12,28,1
-Somalia,13,39,3
-Somalia,14,28,1
-Somalia,15,36,8
-Somalia,16,31,5
-Somalia,17,20,2
-Somalia,18,13,3
-Somalia,19,5,1
-Somalia,20,3,0
-Somalia,22,2,0
-Somalia,23,4,0
-South Africa,00,62,2
-South Africa,01,87,12
-South Africa,02,170,26
-South Africa,03,296,34
-South Africa,04,357,36
-South Africa,05,406,47
-South Africa,06,436,60
-South Africa,07,436,39
-South Africa,08,413,31
-South Africa,09,406,39
-South Africa,10,396,35
-South Africa,11,445,55
-South Africa,12,368,43
-South Africa,13,412,23
-South Africa,14,478,45
-South Africa,15,532,48
-South Africa,16,708,56
-South Africa,17,599,36
-South Africa,18,417,34
-South Africa,19,323,33
-South Africa,20,252,24
-South Africa,21,120,8
-South Africa,22,64,6
-South Africa,23,77,6
-Spain,00,122,5
-Spain,01,103,6
-Spain,02,135,11
-Spain,03,419,47
-Spain,04,855,79
-Spain,05,1553,162
-Spain,06,1550,124
-Spain,07,1726,136
-Spain,08,1785,122
-Spain,09,1848,153
-Spain,10,1576,138
-Spain,11,1751,140
-Spain,12,1458,154
-Spain,13,1419,117
-Spain,14,1404,134
-Spain,15,1453,88
-Spain,16,2701,1175
-Spain,17,1771,205
-Spain,18,1480,135
-Spain,19,1177,104
-Spain,20,689,62
-Spain,21,412,41
-Spain,22,256,26
-Spain,23,127,16
-Sri Lanka,00,98,5
-Sri Lanka,01,84,6
-Sri Lanka,02,121,5
-Sri Lanka,03,75,3
-Sri Lanka,04,61,1
-Sri Lanka,05,76,1
-Sri Lanka,06,80,1
-Sri Lanka,07,122,6
-Sri Lanka,08,113,6
-Sri Lanka,09,127,5
-Sri Lanka,10,102,7
-Sri Lanka,11,151,4
-Sri Lanka,12,118,11
-Sri Lanka,13,59,3
-Sri Lanka,14,30,1
-Sri Lanka,15,19,2
-Sri Lanka,16,17,3
-Sri Lanka,17,18,1
-Sri Lanka,18,14,0
-Sri Lanka,19,33,1
-Sri Lanka,20,52,0
-Sri Lanka,21,50,4
-Sri Lanka,22,83,7
-Sri Lanka,23,93,10
-Sudan,18,2,0
-Suriname,04,1,0
-Suriname,05,1,0
-Suriname,08,3,0
-Suriname,10,2,0
-Suriname,14,1,0
-Suriname,15,1,0
-Suriname,19,1,0
-Suriname,21,1,0
-Suriname,22,1,0
-Swaziland,01,2,0
-Swaziland,02,1,0
-Swaziland,03,2,0
-Swaziland,04,2,0
-Swaziland,05,2,0
-Swaziland,06,4,1
-Swaziland,07,2,0
-Swaziland,08,3,1
-Swaziland,09,1,0
-Swaziland,10,4,0
-Swaziland,11,2,0
-Swaziland,12,5,0
-Swaziland,13,6,0
-Swaziland,14,2,0
-Swaziland,15,7,0
-Swaziland,16,3,0
-Swaziland,17,5,1
-Swaziland,18,6,1
-Swaziland,19,2,0
-Swaziland,20,2,0
-Swaziland,21,1,0
-Swaziland,22,2,0
-Sweden,00,5,0
-Sweden,01,9,3
-Sweden,02,21,3
-Sweden,03,31,1
-Sweden,04,56,11
-Sweden,05,41,12
-Sweden,06,50,4
-Sweden,07,37,9
-Sweden,08,35,6
-Sweden,09,45,6
-Sweden,10,30,2
-Sweden,11,33,5
-Sweden,12,43,7
-Sweden,13,46,8
-Sweden,14,56,10
-Sweden,15,62,5
-Sweden,16,61,10
-Sweden,17,41,5
-Sweden,18,35,9
-Sweden,19,36,10
-Sweden,20,10,3
-Sweden,21,15,4
-Sweden,22,8,2
-Sweden,23,3,0
-Switzerland,00,11,3
-Switzerland,01,14,1
-Switzerland,02,32,3
-Switzerland,03,67,8
-Switzerland,04,97,14
-Switzerland,05,103,12
-Switzerland,06,100,14
-Switzerland,07,103,7
-Switzerland,08,98,13
-Switzerland,09,83,11
-Switzerland,10,79,2
-Switzerland,11,117,13
-Switzerland,12,77,9
-Switzerland,13,92,9
-Switzerland,14,115,20
-Switzerland,15,113,14
-Switzerland,16,95,12
-Switzerland,17,88,9
-Switzerland,18,101,10
-Switzerland,19,73,13
-Switzerland,20,44,4
-Switzerland,21,22,3
-Switzerland,22,14,0
-Switzerland,23,17,1
-Syria,03,4,0
-Syria,04,2,0
-Syria,05,2,1
-Syria,06,4,1
-Syria,07,7,0
-Syria,08,3,0
-Syria,09,3,0
-Syria,10,2,0
-Syria,11,2,0
-Syria,12,4,0
-Syria,13,5,0
-Syria,14,3,0
-Syria,15,4,0
-Syria,16,3,0
-Syria,17,3,0
-Syria,18,1,0
-Syria,19,3,1
-Syria,22,1,0
-Taiwan,00,16,3
-Taiwan,01,16,2
-Taiwan,02,27,2
-Taiwan,03,20,4
-Taiwan,04,25,2
-Taiwan,05,21,1
-Taiwan,06,17,1
-Taiwan,07,19,2
-Taiwan,08,17,2
-Taiwan,09,13,1
-Taiwan,10,5,0
-Taiwan,11,4,0
-Taiwan,12,6,2
-Taiwan,13,3,0
-Taiwan,14,4,1
-Taiwan,15,11,1
-Taiwan,16,11,3
-Taiwan,17,10,0
-Taiwan,18,18,3
-Taiwan,19,19,8
-Taiwan,20,17,1
-Taiwan,21,18,1
-Taiwan,22,30,3
-Taiwan,23,18,1
-Tajikistan,01,1,0
-Tajikistan,06,1,0
-Tajikistan,07,1,0
-Tajikistan,08,1,0
-Tajikistan,09,2,0
-Tajikistan,10,1,0
-Tajikistan,11,1,0
-Tajikistan,13,1,0
-Tajikistan,22,1,0
-Tanzania,00,12,1
-Tanzania,01,31,5
-Tanzania,02,63,12
-Tanzania,03,68,15
-Tanzania,04,82,21
-Tanzania,05,68,12
-Tanzania,06,56,11
-Tanzania,07,52,2
-Tanzania,08,51,7
-Tanzania,09,37,6
-Tanzania,10,44,9
-Tanzania,11,48,8
-Tanzania,12,62,7
-Tanzania,13,54,4
-Tanzania,14,44,8
-Tanzania,15,47,5
-Tanzania,16,35,8
-Tanzania,17,46,9
-Tanzania,18,23,4
-Tanzania,19,16,3
-Tanzania,20,10,1
-Tanzania,22,7,0
-Tanzania,23,4,0
-Thailand,00,220,12
-Thailand,01,212,8
-Thailand,02,152,4
-Thailand,03,178,8
-Thailand,04,202,8
-Thailand,05,235,14
-Thailand,06,180,8
-Thailand,07,204,11
-Thailand,08,190,9
-Thailand,09,194,11
-Thailand,10,99,2
-Thailand,11,47,2
-Thailand,12,47,1
-Thailand,13,18,0
-Thailand,14,10,0
-Thailand,15,18,0
-Thailand,16,88,2
-Thailand,17,136,7
-Thailand,18,175,14
-Thailand,19,183,8
-Thailand,20,238,14
-Thailand,21,328,32
-Thailand,22,316,25
-Thailand,23,273,10
-The Netherlands,00,9,2
-The Netherlands,01,8,0
-The Netherlands,02,36,4
-The Netherlands,03,116,5
-The Netherlands,04,185,23
-The Netherlands,05,229,20
-The Netherlands,06,206,12
-The Netherlands,07,213,25
-The Netherlands,08,224,24
-The Netherlands,09,232,26
-The Netherlands,10,225,20
-The Netherlands,11,236,25
-The Netherlands,12,246,19
-The Netherlands,13,249,22
-The Netherlands,14,258,26
-The Netherlands,15,317,25
-The Netherlands,16,253,23
-The Netherlands,17,227,24
-The Netherlands,18,240,30
-The Netherlands,19,163,13
-The Netherlands,20,91,7
-The Netherlands,21,37,3
-The Netherlands,22,12,1
-The Netherlands,23,15,1
-Togo,00,1,0
-Togo,01,6,0
-Togo,02,1,0
-Togo,05,1,0
-Togo,06,3,1
-Togo,07,3,0
-Togo,08,2,0
-Togo,09,5,1
-Togo,10,8,1
-Togo,11,7,0
-Togo,12,7,0
-Togo,13,5,1
-Togo,14,2,1
-Togo,15,4,0
-Togo,16,7,0
-Togo,17,7,1
-Togo,18,6,0
-Togo,19,5,1
-Togo,20,12,4
-Togo,21,9,1
-Togo,22,4,0
-Tonga,09,1,0
-Trinidad and Tobago,00,1,0
-Trinidad and Tobago,01,1,0
-Trinidad and Tobago,02,2,0
-Trinidad and Tobago,03,1,0
-Trinidad and Tobago,04,1,0
-Trinidad and Tobago,05,2,0
-Trinidad and Tobago,06,3,0
-Trinidad and Tobago,07,10,1
-Trinidad and Tobago,08,2,0
-Trinidad and Tobago,09,10,0
-Trinidad and Tobago,10,40,0
-Trinidad and Tobago,11,13,1
-Trinidad and Tobago,12,10,0
-Trinidad and Tobago,13,10,0
-Trinidad and Tobago,14,8,1
-Trinidad and Tobago,15,6,1
-Trinidad and Tobago,16,10,1
-Trinidad and Tobago,17,9,0
-Trinidad and Tobago,18,5,0
-Trinidad and Tobago,19,11,0
-Trinidad and Tobago,20,11,0
-Trinidad and Tobago,21,4,0
-Trinidad and Tobago,22,7,0
-Trinidad and Tobago,23,5,0
-Tunisia,00,3,0
-Tunisia,01,1,0
-Tunisia,02,1,0
-Tunisia,04,2,1
-Tunisia,05,4,0
-Tunisia,06,7,0
-Tunisia,07,4,0
-Tunisia,08,7,1
-Tunisia,09,4,0
-Tunisia,10,6,0
-Tunisia,11,9,0
-Tunisia,12,8,1
-Tunisia,13,9,0
-Tunisia,14,4,0
-Tunisia,15,6,1
-Tunisia,16,4,2
-Tunisia,17,13,1
-Tunisia,18,12,0
-Tunisia,19,10,2
-Tunisia,20,18,0
-Tunisia,21,10,1
-Tunisia,22,4,0
-Tunisia,23,4,0
-Turkey,00,87,2
-Turkey,01,127,5
-Turkey,02,171,4
-Turkey,03,289,15
-Turkey,04,393,18
-Turkey,05,447,22
-Turkey,06,552,30
-Turkey,07,582,37
-Turkey,08,608,15
-Turkey,09,591,30
-Turkey,10,532,17
-Turkey,11,565,43
-Turkey,12,613,31
-Turkey,13,930,59
-Turkey,14,901,41
-Turkey,15,713,38
-Turkey,16,739,29
-Turkey,17,807,35
-Turkey,18,891,42
-Turkey,19,527,22
-Turkey,20,287,16
-Turkey,21,258,6
-Turkey,22,156,4
-Turkey,23,100,8
-Turkmenistan,02,1,0
-Turkmenistan,05,1,0
-Turkmenistan,23,1,0
-Turks and Caicos Islands,10,1,0
-Turks and Caicos Islands,11,1,0
-Turks and Caicos Islands,13,1,0
-Turks and Caicos Islands,15,1,0
-Turks and Caicos Islands,16,1,0
-Turks and Caicos Islands,17,2,0
-Turks and Caicos Islands,18,1,0
-Uganda,00,21,2
-Uganda,01,55,7
-Uganda,02,87,13
-Uganda,03,106,10
-Uganda,04,121,11
-Uganda,05,92,19
-Uganda,06,100,13
-Uganda,07,112,20
-Uganda,08,149,17
-Uganda,09,117,12
-Uganda,10,89,10
-Uganda,11,98,13
-Uganda,12,112,15
-Uganda,13,98,14
-Uganda,14,177,18
-Uganda,15,190,22
-Uganda,16,112,10
-Uganda,17,91,11
-Uganda,18,66,10
-Uganda,19,30,6
-Uganda,20,14,2
-Uganda,21,14,5
-Uganda,22,10,1
-Uganda,23,12,1
-Ukraine,02,3,0
-Ukraine,03,3,0
-Ukraine,04,11,0
-Ukraine,05,9,0
-Ukraine,06,15,0
-Ukraine,07,11,0
-Ukraine,08,20,2
-Ukraine,09,7,1
-Ukraine,10,5,0
-Ukraine,11,8,0
-Ukraine,12,12,1
-Ukraine,13,12,1
-Ukraine,14,8,1
-Ukraine,15,7,1
-Ukraine,16,16,0
-Ukraine,17,13,0
-Ukraine,18,7,0
-Ukraine,19,4,0
-Ukraine,20,3,0
-Ukraine,21,1,0
-Ukraine,22,2,0
-United Arab Emirates,00,70,4
-United Arab Emirates,01,82,12
-United Arab Emirates,02,113,7
-United Arab Emirates,03,101,7
-United Arab Emirates,04,127,14
-United Arab Emirates,05,103,9
-United Arab Emirates,06,100,5
-United Arab Emirates,07,80,3
-United Arab Emirates,08,107,5
-United Arab Emirates,09,88,7
-United Arab Emirates,10,102,7
-United Arab Emirates,11,119,5
-United Arab Emirates,12,146,16
-United Arab Emirates,13,144,10
-United Arab Emirates,14,141,12
-United Arab Emirates,15,116,15
-United Arab Emirates,16,99,15
-United Arab Emirates,17,58,2
-United Arab Emirates,18,45,2
-United Arab Emirates,19,43,2
-United Arab Emirates,20,26,3
-United Arab Emirates,21,35,1
-United Arab Emirates,22,35,2
-United Arab Emirates,23,43,3
-United Kingdom,00,331,41
-United Kingdom,01,206,20
-United Kingdom,02,184,18
-United Kingdom,03,288,41
-United Kingdom,04,835,102
-United Kingdom,05,1894,210
-United Kingdom,06,3172,350
-United Kingdom,07,3301,367
-United Kingdom,08,2877,305
-United Kingdom,09,2780,301
-United Kingdom,10,2783,305
-United Kingdom,11,2664,271
-United Kingdom,12,2692,283
-United Kingdom,13,2634,286
-United Kingdom,14,3058,331
-United Kingdom,15,3910,328
-United Kingdom,16,3145,301
-United Kingdom,17,2996,290
-United Kingdom,18,3204,281
-United Kingdom,19,2758,271
-United Kingdom,20,2581,309
-United Kingdom,21,1542,229
-United Kingdom,22,874,132
-United Kingdom,23,472,66
-United States,00,1966,231
-United States,01,3569,394
-United States,02,5329,581
-United States,03,7040,790
-United States,04,8224,877
-United States,05,9534,985
-United States,06,9917,1058
-United States,07,9513,935
-United States,08,9012,850
-United States,09,8849,932
-United States,10,8866,898
-United States,11,9474,1002
-United States,12,9852,1059
-United States,13,8769,880
-United States,14,8647,825
-United States,15,8157,838
-United States,16,7273,711
-United States,17,6145,669
-United States,18,4486,468
-United States,19,2999,321
-United States,20,2087,260
-United States,21,1533,188
-United States,22,1158,115
-United States,23,1255,148
-United States Minor Outlying Islands,05,8,0
-Uruguay,00,26,5
-Uruguay,01,10,0
-Uruguay,02,7,1
-Uruguay,03,4,1
-Uruguay,04,4,0
-Uruguay,05,7,3
-Uruguay,06,1,0
-Uruguay,07,5,1
-Uruguay,08,17,1
-Uruguay,09,26,4
-Uruguay,10,44,2
-Uruguay,11,42,3
-Uruguay,12,45,4
-Uruguay,13,45,3
-Uruguay,14,40,5
-Uruguay,15,36,6
-Uruguay,16,28,2
-Uruguay,17,39,1
-Uruguay,18,36,2
-Uruguay,19,73,8
-Uruguay,20,84,5
-Uruguay,21,47,2
-Uruguay,22,46,2
-Uruguay,23,27,5
-Uzbekistan,00,1,0
-Uzbekistan,02,1,0
-Uzbekistan,03,2,0
-Uzbekistan,06,1,0
-Uzbekistan,07,1,0
-Uzbekistan,09,2,0
-Uzbekistan,10,1,0
-Uzbekistan,11,2,0
-Uzbekistan,12,1,0
-Uzbekistan,13,1,0
-Uzbekistan,14,2,0
-Uzbekistan,15,3,2
-Uzbekistan,17,1,0
-Uzbekistan,22,1,0
-Vanuatu,00,1,0
-Vanuatu,07,1,0
-Vanuatu,11,2,0
-Vanuatu,12,1,0
-Vanuatu,13,1,0
-Vanuatu,18,2,0
-Vanuatu,20,1,0
-Vanuatu,21,4,0
-Vanuatu,22,1,0
-Vatican City,04,1,0
-Vatican City,06,2,0
-Vatican City,08,1,0
-Vatican City,10,2,0
-Vatican City,11,1,0
-Vatican City,12,1,0
-Vatican City,13,2,0
-Vatican City,14,1,0
-Vatican City,15,1,0
-Vatican City,16,4,0
-Vatican City,17,5,0
-Vatican City,19,2,0
-Vatican City,20,2,0
-Venezuela,00,53,3
-Venezuela,01,32,3
-Venezuela,02,19,1
-Venezuela,03,13,1
-Venezuela,04,13,1
-Venezuela,05,23,2
-Venezuela,06,49,4
-Venezuela,07,94,10
-Venezuela,08,136,10
-Venezuela,09,144,14
-Venezuela,10,177,24
-Venezuela,11,173,12
-Venezuela,12,144,8
-Venezuela,13,183,19
-Venezuela,14,149,23
-Venezuela,15,163,17
-Venezuela,16,159,22
-Venezuela,17,153,13
-Venezuela,18,233,16
-Venezuela,19,232,21
-Venezuela,20,200,29
-Venezuela,21,147,12
-Venezuela,22,111,9
-Venezuela,23,81,10
-Vietnam,00,13,0
-Vietnam,01,22,2
-Vietnam,02,13,1
-Vietnam,03,12,3
-Vietnam,04,22,0
-Vietnam,05,21,1
-Vietnam,06,13,2
-Vietnam,07,15,3
-Vietnam,08,14,1
-Vietnam,09,11,0
-Vietnam,10,10,0
-Vietnam,11,6,0
-Vietnam,12,3,0
-Vietnam,13,5,2
-Vietnam,14,1,0
-Vietnam,17,4,0
-Vietnam,18,15,0
-Vietnam,19,12,1
-Vietnam,20,11,0
-Vietnam,21,14,0
-Vietnam,22,15,1
-Vietnam,23,15,3
-"Virgin Islands, U.S.",08,1,0
-"Virgin Islands, U.S.",10,2,2
-"Virgin Islands, U.S.",12,1,0
-"Virgin Islands, U.S.",14,2,0
-"Virgin Islands, U.S.",15,1,0
-"Virgin Islands, U.S.",17,1,0
-"Virgin Islands, U.S.",18,1,0
-"Virgin Islands, U.S.",22,1,0
-Yemen,00,1,0
-Yemen,02,1,0
-Yemen,06,2,0
-Yemen,08,1,1
-Yemen,09,1,1
-Yemen,10,3,0
-Yemen,11,3,0
-Yemen,13,4,0
-Yemen,15,1,0
-Yemen,16,2,0
-Yemen,19,1,0
-Yemen,20,1,0
-Yemen,22,1,0
-Yemen,23,1,0
-Zambia,00,1,0
-Zambia,01,1,0
-Zambia,02,3,0
-Zambia,03,19,2
-Zambia,04,8,1
-Zambia,05,15,3
-Zambia,06,23,3
-Zambia,07,7,1
-Zambia,08,24,1
-Zambia,09,16,2
-Zambia,10,17,1
-Zambia,11,8,0
-Zambia,12,17,2
-Zambia,13,12,2
-Zambia,14,17,1
-Zambia,15,16,1
-Zambia,16,10,3
-Zambia,17,10,1
-Zambia,18,9,1
-Zambia,19,5,0
-Zambia,20,1,0
-Zambia,21,1,0
-Zimbabwe,00,3,1
-Zimbabwe,02,6,0
-Zimbabwe,03,16,1
-Zimbabwe,04,24,3
-Zimbabwe,05,42,9
-Zimbabwe,06,40,17
-Zimbabwe,07,32,6
-Zimbabwe,08,33,6
-Zimbabwe,09,30,6
-Zimbabwe,10,25,4
-Zimbabwe,11,36,9
-Zimbabwe,12,23,5
-Zimbabwe,13,25,6
-Zimbabwe,14,21,6
-Zimbabwe,15,30,7
-Zimbabwe,16,28,10
-Zimbabwe,17,24,4
-Zimbabwe,18,25,5
-Zimbabwe,19,14,3
-Zimbabwe,20,15,1
-Zimbabwe,21,11,1
-Zimbabwe,22,3,0
-Zimbabwe,23,2,0
+country,Continent_Name,time,status_id,reply_to_status_id
+Afghanistan,Asia,00,9,0
+Afghanistan,Asia,01,9,0
+Afghanistan,Asia,02,15,0
+Afghanistan,Asia,03,18,1
+Afghanistan,Asia,04,16,0
+Afghanistan,Asia,05,13,1
+Afghanistan,Asia,06,5,1
+Afghanistan,Asia,07,3,0
+Afghanistan,Asia,08,10,1
+Afghanistan,Asia,09,6,0
+Afghanistan,Asia,10,10,1
+Afghanistan,Asia,11,12,0
+Afghanistan,Asia,12,14,1
+Afghanistan,Asia,13,10,3
+Afghanistan,Asia,14,11,0
+Afghanistan,Asia,15,12,1
+Afghanistan,Asia,16,2,2
+Afghanistan,Asia,17,1,0
+Afghanistan,Asia,18,2,0
+Afghanistan,Asia,19,1,0
+Afghanistan,Asia,21,1,1
+Afghanistan,Asia,22,2,0
+Afghanistan,Asia,23,7,0
+Aland Islands,Europe,09,1,1
+Albania,Europe,02,1,0
+Albania,Europe,03,1,0
+Albania,Europe,04,1,0
+Albania,Europe,05,2,0
+Albania,Europe,06,5,0
+Albania,Europe,07,6,0
+Albania,Europe,08,3,1
+Albania,Europe,09,10,1
+Albania,Europe,10,2,0
+Albania,Europe,11,3,0
+Albania,Europe,12,8,0
+Albania,Europe,13,4,0
+Albania,Europe,14,11,0
+Albania,Europe,15,10,1
+Albania,Europe,16,2,0
+Albania,Europe,17,17,0
+Albania,Europe,18,7,0
+Albania,Europe,19,10,0
+Albania,Europe,20,4,1
+Albania,Europe,21,2,0
+Algeria,Africa,00,1,0
+Algeria,Africa,01,2,0
+Algeria,Africa,02,1,0
+Algeria,Africa,03,6,1
+Algeria,Africa,04,4,0
+Algeria,Africa,06,12,1
+Algeria,Africa,07,11,0
+Algeria,Africa,08,11,0
+Algeria,Africa,09,11,0
+Algeria,Africa,10,11,0
+Algeria,Africa,11,12,1
+Algeria,Africa,12,20,0
+Algeria,Africa,13,14,1
+Algeria,Africa,14,19,1
+Algeria,Africa,15,32,1
+Algeria,Africa,16,18,0
+Algeria,Africa,17,15,2
+Algeria,Africa,18,12,1
+Algeria,Africa,19,14,0
+Algeria,Africa,20,12,0
+Algeria,Africa,21,20,0
+Algeria,Africa,22,20,0
+Algeria,Africa,23,2,0
+American Samoa,Oceania,04,1,0
+American Samoa,Oceania,10,1,0
+American Samoa,Oceania,19,1,0
+Andorra,Europe,00,1,0
+Andorra,Europe,01,5,0
+Andorra,Europe,02,10,2
+Andorra,Europe,03,7,0
+Andorra,Europe,04,4,0
+Andorra,Europe,05,8,1
+Andorra,Europe,06,17,7
+Andorra,Europe,07,9,2
+Andorra,Europe,08,9,0
+Andorra,Europe,09,18,0
+Andorra,Europe,10,8,0
+Andorra,Europe,11,10,0
+Andorra,Europe,12,10,2
+Andorra,Europe,13,17,1
+Andorra,Europe,14,13,0
+Andorra,Europe,15,11,1
+Andorra,Europe,16,11,0
+Andorra,Europe,17,14,0
+Andorra,Europe,18,5,0
+Andorra,Europe,19,3,1
+Andorra,Europe,20,3,2
+Andorra,Europe,21,4,0
+Angola,Africa,01,2,0
+Angola,Africa,05,1,0
+Angola,Africa,06,2,0
+Angola,Africa,07,3,0
+Angola,Africa,08,4,0
+Angola,Africa,09,5,0
+Angola,Africa,10,4,0
+Angola,Africa,11,2,0
+Angola,Africa,12,3,0
+Angola,Africa,13,1,0
+Angola,Africa,14,4,0
+Angola,Africa,15,6,0
+Angola,Africa,16,4,1
+Angola,Africa,17,3,0
+Angola,Africa,18,3,1
+Angola,Africa,19,2,0
+Angola,Africa,20,2,0
+Angola,Africa,21,4,0
+Angola,Africa,22,1,0
+Angola,Africa,23,1,0
+Antarctica,Antarctica,19,2,0
+Antigua and Barbuda,North America,05,1,0
+Antigua and Barbuda,North America,07,1,0
+Antigua and Barbuda,North America,08,1,0
+Antigua and Barbuda,North America,09,1,0
+Antigua and Barbuda,North America,12,1,1
+Antigua and Barbuda,North America,16,1,0
+Antigua and Barbuda,North America,17,1,0
+Antigua and Barbuda,North America,19,1,0
+Antigua and Barbuda,North America,20,1,0
+Antigua and Barbuda,North America,22,1,0
+Argentina,South America,00,298,27
+Argentina,South America,01,210,18
+Argentina,South America,02,115,6
+Argentina,South America,03,91,7
+Argentina,South America,04,62,3
+Argentina,South America,05,65,3
+Argentina,South America,06,70,4
+Argentina,South America,07,126,5
+Argentina,South America,08,284,18
+Argentina,South America,09,419,28
+Argentina,South America,10,501,35
+Argentina,South America,11,551,50
+Argentina,South America,12,567,46
+Argentina,South America,13,594,59
+Argentina,South America,14,504,47
+Argentina,South America,15,448,47
+Argentina,South America,16,448,25
+Argentina,South America,17,438,32
+Argentina,South America,18,482,24
+Argentina,South America,19,575,43
+Argentina,South America,20,665,35
+Argentina,South America,21,829,60
+Argentina,South America,22,616,67
+Argentina,South America,23,420,31
+Armenia,Europe,00,2,1
+Armenia,Europe,01,2,0
+Armenia,Europe,02,1,0
+Armenia,Europe,03,6,0
+Armenia,Europe,04,3,0
+Armenia,Europe,05,1,0
+Armenia,Europe,06,2,0
+Armenia,Europe,07,1,0
+Armenia,Europe,08,1,0
+Armenia,Europe,09,3,0
+Armenia,Europe,10,4,0
+Armenia,Europe,11,1,0
+Armenia,Europe,12,1,0
+Armenia,Europe,13,2,0
+Armenia,Europe,14,1,0
+Armenia,Europe,15,2,0
+Armenia,Europe,16,4,0
+Armenia,Europe,17,1,0
+Armenia,Europe,18,1,0
+Armenia,Europe,19,1,0
+Aruba,North America,07,1,0
+Aruba,North America,09,2,0
+Aruba,North America,10,2,0
+Aruba,North America,11,1,0
+Aruba,North America,13,1,0
+Aruba,North America,14,2,1
+Aruba,North America,16,3,0
+Aruba,North America,17,1,0
+Aruba,North America,18,1,0
+Aruba,North America,19,1,0
+Aruba,North America,20,1,0
+Aruba,North America,21,1,0
+Aruba,North America,22,1,0
+Australia,Oceania,00,297,41
+Australia,Oceania,01,262,37
+Australia,Oceania,02,191,30
+Australia,Oceania,03,127,17
+Australia,Oceania,04,84,12
+Australia,Oceania,05,65,13
+Australia,Oceania,06,37,9
+Australia,Oceania,07,50,9
+Australia,Oceania,08,74,17
+Australia,Oceania,09,166,32
+Australia,Oceania,10,267,42
+Australia,Oceania,11,370,49
+Australia,Oceania,12,376,42
+Australia,Oceania,13,391,37
+Australia,Oceania,14,407,58
+Australia,Oceania,15,369,55
+Australia,Oceania,16,378,54
+Australia,Oceania,17,334,41
+Australia,Oceania,18,337,67
+Australia,Oceania,19,349,50
+Australia,Oceania,20,346,47
+Australia,Oceania,21,398,48
+Australia,Oceania,22,334,51
+Australia,Oceania,23,298,31
+Austria,Europe,00,4,0
+Austria,Europe,01,3,0
+Austria,Europe,02,17,3
+Austria,Europe,03,31,6
+Austria,Europe,04,41,5
+Austria,Europe,05,47,11
+Austria,Europe,06,59,6
+Austria,Europe,07,47,9
+Austria,Europe,08,58,3
+Austria,Europe,09,81,5
+Austria,Europe,10,65,5
+Austria,Europe,11,77,6
+Austria,Europe,12,58,7
+Austria,Europe,13,37,5
+Austria,Europe,14,54,7
+Austria,Europe,15,46,12
+Austria,Europe,16,48,7
+Austria,Europe,17,46,17
+Austria,Europe,18,42,6
+Austria,Europe,19,29,3
+Austria,Europe,20,19,1
+Austria,Europe,21,9,0
+Austria,Europe,22,7,0
+Austria,Europe,23,2,0
+Azerbaijan,Europe,01,1,0
+Azerbaijan,Europe,02,3,0
+Azerbaijan,Europe,03,3,0
+Azerbaijan,Europe,04,1,0
+Azerbaijan,Europe,05,3,0
+Azerbaijan,Europe,06,6,1
+Azerbaijan,Europe,07,7,0
+Azerbaijan,Europe,08,9,2
+Azerbaijan,Europe,09,3,0
+Azerbaijan,Europe,10,7,1
+Azerbaijan,Europe,11,7,0
+Azerbaijan,Europe,12,5,0
+Azerbaijan,Europe,13,9,0
+Azerbaijan,Europe,14,7,0
+Azerbaijan,Europe,15,10,0
+Azerbaijan,Europe,16,2,0
+Azerbaijan,Europe,17,1,0
+Azerbaijan,Europe,18,1,0
+Azerbaijan,Europe,20,2,0
+Azerbaijan,Europe,23,2,0
+Bahamas,North America,00,2,0
+Bahamas,North America,03,1,0
+Bahamas,North America,04,2,0
+Bahamas,North America,05,1,0
+Bahamas,North America,07,2,0
+Bahamas,North America,08,3,0
+Bahamas,North America,09,1,0
+Bahamas,North America,10,2,0
+Bahamas,North America,11,3,0
+Bahamas,North America,12,3,0
+Bahamas,North America,13,3,0
+Bahamas,North America,14,1,0
+Bahamas,North America,15,4,0
+Bahamas,North America,16,2,0
+Bahamas,North America,17,2,0
+Bahamas,North America,18,3,0
+Bahamas,North America,19,4,0
+Bahamas,North America,20,3,0
+Bahamas,North America,21,2,0
+Bahamas,North America,22,1,0
+Bahamas,North America,23,2,0
+Bahrain,Asia,00,3,0
+Bahrain,Asia,01,6,1
+Bahrain,Asia,02,9,0
+Bahrain,Asia,03,17,2
+Bahrain,Asia,04,17,0
+Bahrain,Asia,05,12,1
+Bahrain,Asia,06,7,0
+Bahrain,Asia,07,18,1
+Bahrain,Asia,08,12,1
+Bahrain,Asia,09,12,1
+Bahrain,Asia,10,7,0
+Bahrain,Asia,11,13,0
+Bahrain,Asia,12,18,4
+Bahrain,Asia,13,12,0
+Bahrain,Asia,14,12,0
+Bahrain,Asia,15,17,2
+Bahrain,Asia,16,15,0
+Bahrain,Asia,17,19,0
+Bahrain,Asia,18,8,0
+Bahrain,Asia,19,10,0
+Bahrain,Asia,20,6,0
+Bahrain,Asia,21,3,1
+Bahrain,Asia,22,1,0
+Bahrain,Asia,23,1,0
+Bangladesh,Asia,00,42,2
+Bangladesh,Asia,01,28,3
+Bangladesh,Asia,02,47,4
+Bangladesh,Asia,03,34,0
+Bangladesh,Asia,04,58,11
+Bangladesh,Asia,05,48,6
+Bangladesh,Asia,06,40,2
+Bangladesh,Asia,07,65,2
+Bangladesh,Asia,08,40,2
+Bangladesh,Asia,09,45,2
+Bangladesh,Asia,10,66,1
+Bangladesh,Asia,11,50,6
+Bangladesh,Asia,12,60,0
+Bangladesh,Asia,13,40,4
+Bangladesh,Asia,14,29,0
+Bangladesh,Asia,15,20,0
+Bangladesh,Asia,16,18,1
+Bangladesh,Asia,17,18,1
+Bangladesh,Asia,18,24,1
+Bangladesh,Asia,19,15,1
+Bangladesh,Asia,20,30,1
+Bangladesh,Asia,21,28,2
+Bangladesh,Asia,22,37,1
+Bangladesh,Asia,23,26,0
+Barbados,North America,04,1,0
+Barbados,North America,05,3,0
+Barbados,North America,07,2,0
+Barbados,North America,08,1,0
+Barbados,North America,09,4,0
+Barbados,North America,10,3,0
+Barbados,North America,11,4,0
+Barbados,North America,12,2,0
+Barbados,North America,13,2,0
+Barbados,North America,14,1,0
+Barbados,North America,15,3,0
+Barbados,North America,16,1,0
+Barbados,North America,17,6,0
+Barbados,North America,18,3,1
+Barbados,North America,19,4,0
+Barbados,North America,20,2,0
+Barbados,North America,21,4,1
+Barbados,North America,22,2,0
+Belgium,Europe,00,10,1
+Belgium,Europe,01,15,3
+Belgium,Europe,02,21,3
+Belgium,Europe,03,112,13
+Belgium,Europe,04,214,20
+Belgium,Europe,05,243,24
+Belgium,Europe,06,207,28
+Belgium,Europe,07,294,53
+Belgium,Europe,08,209,18
+Belgium,Europe,09,198,31
+Belgium,Europe,10,190,23
+Belgium,Europe,11,189,24
+Belgium,Europe,12,213,32
+Belgium,Europe,13,219,25
+Belgium,Europe,14,204,22
+Belgium,Europe,15,216,19
+Belgium,Europe,16,228,19
+Belgium,Europe,17,195,16
+Belgium,Europe,18,169,15
+Belgium,Europe,19,165,34
+Belgium,Europe,20,93,7
+Belgium,Europe,21,42,10
+Belgium,Europe,22,25,5
+Belgium,Europe,23,10,3
+Belize,North America,02,1,0
+Belize,North America,06,1,0
+Belize,North America,09,1,0
+Belize,North America,10,2,0
+Belize,North America,11,2,0
+Belize,North America,14,2,0
+Belize,North America,15,4,0
+Belize,North America,18,1,0
+Belize,North America,19,1,0
+Belize,North America,20,1,0
+Benin,Africa,05,2,1
+Benin,Africa,06,5,0
+Benin,Africa,07,8,0
+Benin,Africa,08,17,0
+Benin,Africa,09,15,1
+Benin,Africa,10,5,0
+Benin,Africa,11,8,0
+Benin,Africa,12,2,1
+Benin,Africa,13,4,0
+Benin,Africa,14,2,0
+Benin,Africa,15,6,0
+Benin,Africa,16,9,0
+Benin,Africa,17,13,0
+Benin,Africa,18,4,0
+Benin,Africa,19,7,0
+Benin,Africa,20,8,0
+Benin,Africa,21,4,2
+Benin,Africa,23,1,0
+Bermuda,North America,05,1,0
+Bermuda,North America,06,1,0
+Bermuda,North America,07,2,0
+Bermuda,North America,08,2,0
+Bermuda,North America,09,2,0
+Bermuda,North America,10,1,0
+Bermuda,North America,11,5,0
+Bermuda,North America,12,5,1
+Bermuda,North America,13,3,0
+Bermuda,North America,14,6,0
+Bermuda,North America,15,5,0
+Bermuda,North America,16,1,0
+Bermuda,North America,17,14,0
+Bermuda,North America,18,7,1
+Bermuda,North America,19,1,0
+Bermuda,North America,20,6,0
+Bermuda,North America,21,1,0
+Bermuda,North America,22,1,0
+Bhutan,Asia,00,2,0
+Bhutan,Asia,01,1,0
+Bhutan,Asia,03,1,0
+Bhutan,Asia,04,1,0
+Bhutan,Asia,05,2,0
+Bhutan,Asia,06,1,0
+Bhutan,Asia,07,3,0
+Bhutan,Asia,08,2,0
+Bhutan,Asia,09,2,0
+Bhutan,Asia,10,3,0
+Bhutan,Asia,11,1,0
+Bhutan,Asia,12,1,0
+Bhutan,Asia,13,1,0
+Bhutan,Asia,16,1,0
+Bhutan,Asia,18,1,0
+Bhutan,Asia,19,1,0
+Bhutan,Asia,21,2,0
+Bhutan,Asia,22,1,0
+Bhutan,Asia,23,2,0
+Bolivia,South America,00,11,0
+Bolivia,South America,01,7,0
+Bolivia,South America,02,4,0
+Bolivia,South America,03,3,0
+Bolivia,South America,04,4,0
+Bolivia,South America,05,4,1
+Bolivia,South America,06,7,3
+Bolivia,South America,07,18,3
+Bolivia,South America,08,21,0
+Bolivia,South America,09,39,1
+Bolivia,South America,10,24,0
+Bolivia,South America,11,25,2
+Bolivia,South America,12,38,3
+Bolivia,South America,13,32,3
+Bolivia,South America,14,33,2
+Bolivia,South America,15,21,1
+Bolivia,South America,16,21,0
+Bolivia,South America,17,14,1
+Bolivia,South America,18,26,1
+Bolivia,South America,19,38,1
+Bolivia,South America,20,44,3
+Bolivia,South America,21,51,2
+Bolivia,South America,22,40,4
+Bolivia,South America,23,32,2
+"Bonaire, Sint Eustatius and Saba",North America,06,2,1
+"Bonaire, Sint Eustatius and Saba",North America,10,1,0
+"Bonaire, Sint Eustatius and Saba",North America,12,1,0
+"Bonaire, Sint Eustatius and Saba",North America,20,1,0
+Bosnia and Herzegovina,Europe,00,1,0
+Bosnia and Herzegovina,Europe,02,1,0
+Bosnia and Herzegovina,Europe,03,1,0
+Bosnia and Herzegovina,Europe,04,5,0
+Bosnia and Herzegovina,Europe,05,11,0
+Bosnia and Herzegovina,Europe,06,3,0
+Bosnia and Herzegovina,Europe,07,7,0
+Bosnia and Herzegovina,Europe,08,11,0
+Bosnia and Herzegovina,Europe,09,4,0
+Bosnia and Herzegovina,Europe,10,6,0
+Bosnia and Herzegovina,Europe,11,4,0
+Bosnia and Herzegovina,Europe,12,7,0
+Bosnia and Herzegovina,Europe,13,9,0
+Bosnia and Herzegovina,Europe,14,5,0
+Bosnia and Herzegovina,Europe,15,9,0
+Bosnia and Herzegovina,Europe,16,9,0
+Bosnia and Herzegovina,Europe,17,9,0
+Bosnia and Herzegovina,Europe,18,6,0
+Bosnia and Herzegovina,Europe,19,4,0
+Bosnia and Herzegovina,Europe,20,2,0
+Bosnia and Herzegovina,Europe,21,1,0
+Bosnia and Herzegovina,Europe,22,1,0
+Botswana,Africa,00,2,0
+Botswana,Africa,01,2,1
+Botswana,Africa,02,4,0
+Botswana,Africa,03,9,2
+Botswana,Africa,04,8,0
+Botswana,Africa,05,18,1
+Botswana,Africa,06,17,4
+Botswana,Africa,07,19,5
+Botswana,Africa,08,12,1
+Botswana,Africa,09,12,0
+Botswana,Africa,10,22,5
+Botswana,Africa,11,13,2
+Botswana,Africa,12,13,1
+Botswana,Africa,13,8,1
+Botswana,Africa,14,10,1
+Botswana,Africa,15,32,3
+Botswana,Africa,16,14,1
+Botswana,Africa,17,16,1
+Botswana,Africa,18,12,1
+Botswana,Africa,19,8,0
+Botswana,Africa,20,7,0
+Botswana,Africa,22,3,0
+Botswana,Africa,23,1,0
+Brazil,South America,00,311,40
+Brazil,South America,01,123,25
+Brazil,South America,02,109,7
+Brazil,South America,03,133,19
+Brazil,South America,04,187,10
+Brazil,South America,05,346,27
+Brazil,South America,06,590,49
+Brazil,South America,07,846,63
+Brazil,South America,08,836,65
+Brazil,South America,09,952,63
+Brazil,South America,10,1108,82
+Brazil,South America,11,1030,60
+Brazil,South America,12,945,85
+Brazil,South America,13,877,70
+Brazil,South America,14,948,81
+Brazil,South America,15,1088,78
+Brazil,South America,16,1102,98
+Brazil,South America,17,1037,87
+Brazil,South America,18,1072,89
+Brazil,South America,19,1198,90
+Brazil,South America,20,862,49
+Brazil,South America,21,709,46
+Brazil,South America,22,603,71
+Brazil,South America,23,397,52
+British Virgin Islands,North America,08,1,0
+British Virgin Islands,North America,11,1,0
+British Virgin Islands,North America,12,1,1
+British Virgin Islands,North America,14,1,0
+British Virgin Islands,North America,17,1,0
+British Virgin Islands,North America,19,1,0
+British Virgin Islands,North America,21,3,1
+Brunei,Asia,00,2,0
+Brunei,Asia,01,13,1
+Brunei,Asia,02,2,0
+Brunei,Asia,03,1,0
+Brunei,Asia,04,2,0
+Brunei,Asia,05,1,0
+Brunei,Asia,06,1,0
+Brunei,Asia,07,1,0
+Brunei,Asia,08,1,0
+Brunei,Asia,09,1,0
+Brunei,Asia,15,2,0
+Brunei,Asia,16,2,1
+Brunei,Asia,17,2,1
+Brunei,Asia,18,2,0
+Brunei,Asia,19,3,0
+Brunei,Asia,20,1,0
+Brunei,Asia,22,2,0
+Brunei,Asia,23,1,0
+Bulgaria,Europe,01,1,1
+Bulgaria,Europe,02,3,0
+Bulgaria,Europe,03,3,1
+Bulgaria,Europe,04,6,1
+Bulgaria,Europe,05,7,1
+Bulgaria,Europe,06,3,1
+Bulgaria,Europe,07,3,0
+Bulgaria,Europe,08,3,0
+Bulgaria,Europe,09,2,0
+Bulgaria,Europe,10,4,0
+Bulgaria,Europe,11,4,0
+Bulgaria,Europe,12,5,1
+Bulgaria,Europe,13,2,0
+Bulgaria,Europe,14,7,1
+Bulgaria,Europe,15,6,0
+Bulgaria,Europe,16,2,0
+Bulgaria,Europe,17,2,0
+Bulgaria,Europe,18,1,0
+Bulgaria,Europe,19,1,1
+Burkina Faso,Africa,01,1,0
+Burkina Faso,Africa,05,1,0
+Burkina Faso,Africa,06,1,0
+Burkina Faso,Africa,07,1,1
+Burkina Faso,Africa,08,5,0
+Burkina Faso,Africa,09,4,0
+Burkina Faso,Africa,10,4,0
+Burkina Faso,Africa,11,6,0
+Burkina Faso,Africa,12,7,0
+Burkina Faso,Africa,13,1,0
+Burkina Faso,Africa,14,3,0
+Burkina Faso,Africa,15,9,0
+Burkina Faso,Africa,16,10,0
+Burkina Faso,Africa,17,3,0
+Burkina Faso,Africa,18,12,0
+Burkina Faso,Africa,19,10,0
+Burkina Faso,Africa,20,5,0
+Burkina Faso,Africa,21,2,0
+Burkina Faso,Africa,22,2,0
+Burkina Faso,Africa,23,1,0
+Burundi,Africa,03,2,1
+Burundi,Africa,04,1,1
+Burundi,Africa,05,2,1
+Burundi,Africa,06,2,0
+Burundi,Africa,07,1,0
+Burundi,Africa,08,4,2
+Burundi,Africa,09,1,0
+Burundi,Africa,10,2,0
+Burundi,Africa,12,3,2
+Burundi,Africa,14,4,0
+Burundi,Africa,15,1,0
+Burundi,Africa,16,4,3
+Burundi,Africa,17,2,0
+Burundi,Africa,18,1,0
+Burundi,Africa,19,2,0
+Burundi,Africa,20,2,0
+Cambodia,Asia,00,4,0
+Cambodia,Asia,01,2,0
+Cambodia,Asia,02,2,0
+Cambodia,Asia,03,1,0
+Cambodia,Asia,04,3,0
+Cambodia,Asia,05,3,0
+Cambodia,Asia,06,1,0
+Cambodia,Asia,07,1,0
+Cambodia,Asia,08,5,1
+Cambodia,Asia,09,2,0
+Cambodia,Asia,10,2,0
+Cambodia,Asia,11,1,0
+Cambodia,Asia,15,1,0
+Cambodia,Asia,16,1,0
+Cambodia,Asia,17,4,0
+Cambodia,Asia,18,1,0
+Cambodia,Asia,19,4,0
+Cambodia,Asia,21,1,0
+Cambodia,Asia,22,4,1
+Cambodia,Asia,23,4,2
+Cameroon,Africa,00,3,1
+Cameroon,Africa,01,3,0
+Cameroon,Africa,02,2,0
+Cameroon,Africa,03,3,0
+Cameroon,Africa,04,10,2
+Cameroon,Africa,05,16,1
+Cameroon,Africa,06,17,2
+Cameroon,Africa,07,21,1
+Cameroon,Africa,08,24,0
+Cameroon,Africa,09,23,0
+Cameroon,Africa,10,29,4
+Cameroon,Africa,11,17,0
+Cameroon,Africa,12,24,2
+Cameroon,Africa,13,23,1
+Cameroon,Africa,14,26,3
+Cameroon,Africa,15,25,3
+Cameroon,Africa,16,29,3
+Cameroon,Africa,17,34,4
+Cameroon,Africa,18,30,9
+Cameroon,Africa,19,31,6
+Cameroon,Africa,20,16,2
+Cameroon,Africa,21,10,0
+Cameroon,Africa,22,10,1
+Cameroon,Africa,23,8,0
+Canada,North America,00,130,16
+Canada,North America,01,102,18
+Canada,North America,02,106,9
+Canada,North America,03,252,30
+Canada,North America,04,522,54
+Canada,North America,05,765,78
+Canada,North America,06,1058,100
+Canada,North America,07,1221,119
+Canada,North America,08,1377,161
+Canada,North America,09,1448,131
+Canada,North America,10,1484,160
+Canada,North America,11,1267,115
+Canada,North America,12,1139,129
+Canada,North America,13,1158,96
+Canada,North America,14,1213,116
+Canada,North America,15,1183,131
+Canada,North America,16,1104,106
+Canada,North America,17,1162,117
+Canada,North America,18,1108,99
+Canada,North America,19,999,111
+Canada,North America,20,697,74
+Canada,North America,21,510,62
+Canada,North America,22,344,55
+Canada,North America,23,223,38
+Cape Verde,Africa,01,2,0
+Cape Verde,Africa,11,1,0
+Cape Verde,Africa,12,1,0
+Cape Verde,Africa,15,1,0
+Cape Verde,Africa,16,1,0
+Cape Verde,Africa,17,1,0
+Cape Verde,Africa,18,1,0
+Cape Verde,Africa,19,2,0
+Cape Verde,Africa,20,1,0
+Cayman Islands,North America,06,2,1
+Cayman Islands,North America,08,3,0
+Cayman Islands,North America,09,1,0
+Cayman Islands,North America,11,1,1
+Cayman Islands,North America,12,3,0
+Cayman Islands,North America,15,2,0
+Cayman Islands,North America,16,9,0
+Cayman Islands,North America,17,8,0
+Cayman Islands,North America,19,1,0
+Cayman Islands,North America,20,2,0
+Cayman Islands,North America,22,1,0
+Central African Republic,Africa,00,1,0
+Central African Republic,Africa,07,1,0
+Central African Republic,Africa,12,1,0
+Chad,Africa,05,3,1
+Chad,Africa,06,3,0
+Chad,Africa,07,3,0
+Chad,Africa,08,3,0
+Chad,Africa,09,2,0
+Chad,Africa,10,7,0
+Chad,Africa,11,4,0
+Chad,Africa,12,8,2
+Chad,Africa,13,5,1
+Chad,Africa,14,3,0
+Chad,Africa,15,5,0
+Chad,Africa,16,9,0
+Chad,Africa,17,7,0
+Chad,Africa,18,10,1
+Chad,Africa,19,8,1
+Chad,Africa,20,7,1
+Chad,Africa,21,2,0
+Chile,South America,00,64,9
+Chile,South America,01,37,4
+Chile,South America,02,23,3
+Chile,South America,03,18,2
+Chile,South America,04,49,7
+Chile,South America,05,163,16
+Chile,South America,06,291,28
+Chile,South America,07,456,41
+Chile,South America,08,737,70
+Chile,South America,09,924,53
+Chile,South America,10,729,57
+Chile,South America,11,571,59
+Chile,South America,12,448,27
+Chile,South America,13,420,38
+Chile,South America,14,370,28
+Chile,South America,15,408,34
+Chile,South America,16,384,34
+Chile,South America,17,409,36
+Chile,South America,18,428,34
+Chile,South America,19,545,53
+Chile,South America,20,388,49
+Chile,South America,21,303,30
+Chile,South America,22,207,18
+Chile,South America,23,108,12
+Colombia,South America,00,134,9
+Colombia,South America,01,79,9
+Colombia,South America,02,44,4
+Colombia,South America,03,35,5
+Colombia,South America,04,35,5
+Colombia,South America,05,74,9
+Colombia,South America,06,192,10
+Colombia,South America,07,322,35
+Colombia,South America,08,447,31
+Colombia,South America,09,464,45
+Colombia,South America,10,477,37
+Colombia,South America,11,496,39
+Colombia,South America,12,500,47
+Colombia,South America,13,479,39
+Colombia,South America,14,424,50
+Colombia,South America,15,464,45
+Colombia,South America,16,516,38
+Colombia,South America,17,499,47
+Colombia,South America,18,525,48
+Colombia,South America,19,578,70
+Colombia,South America,20,469,52
+Colombia,South America,21,431,47
+Colombia,South America,22,335,39
+Colombia,South America,23,284,41
+Congo Brazzaville,Africa,00,2,2
+Congo Brazzaville,Africa,01,1,0
+Congo Brazzaville,Africa,04,2,0
+Congo Brazzaville,Africa,05,2,1
+Congo Brazzaville,Africa,06,3,0
+Congo Brazzaville,Africa,07,4,0
+Congo Brazzaville,Africa,08,6,0
+Congo Brazzaville,Africa,09,4,0
+Congo Brazzaville,Africa,10,10,1
+Congo Brazzaville,Africa,11,5,0
+Congo Brazzaville,Africa,12,5,1
+Congo Brazzaville,Africa,13,6,0
+Congo Brazzaville,Africa,14,6,1
+Congo Brazzaville,Africa,15,5,0
+Congo Brazzaville,Africa,16,3,0
+Congo Brazzaville,Africa,17,7,0
+Congo Brazzaville,Africa,18,16,0
+Congo Brazzaville,Africa,19,12,0
+Congo Brazzaville,Africa,20,5,0
+Congo Brazzaville,Africa,21,3,0
+Congo Brazzaville,Africa,23,3,0
+Costa Rica,North America,00,7,0
+Costa Rica,North America,02,4,0
+Costa Rica,North America,03,1,0
+Costa Rica,North America,04,2,0
+Costa Rica,North America,05,1,0
+Costa Rica,North America,06,7,0
+Costa Rica,North America,07,14,0
+Costa Rica,North America,08,8,1
+Costa Rica,North America,09,25,3
+Costa Rica,North America,10,22,0
+Costa Rica,North America,11,25,0
+Costa Rica,North America,12,43,0
+Costa Rica,North America,13,46,0
+Costa Rica,North America,14,25,4
+Costa Rica,North America,15,15,0
+Costa Rica,North America,16,14,1
+Costa Rica,North America,17,23,2
+Costa Rica,North America,18,20,1
+Costa Rica,North America,19,26,1
+Costa Rica,North America,20,19,1
+Costa Rica,North America,21,14,1
+Costa Rica,North America,22,14,2
+Costa Rica,North America,23,12,1
+Cuba,North America,00,17,0
+Cuba,North America,01,16,2
+Cuba,North America,02,5,2
+Cuba,North America,03,2,1
+Cuba,North America,04,2,1
+Cuba,North America,05,2,0
+Cuba,North America,06,3,0
+Cuba,North America,07,8,0
+Cuba,North America,08,12,1
+Cuba,North America,09,34,4
+Cuba,North America,10,24,2
+Cuba,North America,11,75,3
+Cuba,North America,12,51,9
+Cuba,North America,13,38,6
+Cuba,North America,14,27,2
+Cuba,North America,15,24,4
+Cuba,North America,16,25,2
+Cuba,North America,17,13,3
+Cuba,North America,18,31,8
+Cuba,North America,19,38,2
+Cuba,North America,20,33,4
+Cuba,North America,21,50,19
+Cuba,North America,22,27,1
+Cuba,North America,23,19,2
+Curaçao,North America,09,1,0
+Curaçao,North America,10,1,0
+Curaçao,North America,13,2,0
+Curaçao,North America,14,1,0
+Curaçao,North America,15,4,0
+Curaçao,North America,16,1,0
+Curaçao,North America,17,2,0
+Curaçao,North America,19,2,0
+Curaçao,North America,22,1,0
+Curaçao,North America,23,1,0
+Cyprus,Europe,00,1,1
+Cyprus,Europe,01,1,0
+Cyprus,Europe,02,7,0
+Cyprus,Europe,03,12,1
+Cyprus,Europe,04,16,1
+Cyprus,Europe,05,17,3
+Cyprus,Europe,06,20,1
+Cyprus,Europe,07,21,1
+Cyprus,Europe,08,13,0
+Cyprus,Europe,09,20,0
+Cyprus,Europe,10,11,0
+Cyprus,Europe,11,19,0
+Cyprus,Europe,12,16,1
+Cyprus,Europe,13,17,1
+Cyprus,Europe,14,24,1
+Cyprus,Europe,15,22,2
+Cyprus,Europe,16,22,2
+Cyprus,Europe,17,16,2
+Cyprus,Europe,18,15,0
+Cyprus,Europe,19,2,0
+Cyprus,Europe,20,6,0
+Cyprus,Europe,21,4,0
+Cyprus,Europe,22,1,0
+Czech Republic,Europe,02,4,1
+Czech Republic,Europe,03,20,11
+Czech Republic,Europe,04,25,0
+Czech Republic,Europe,05,21,3
+Czech Republic,Europe,06,35,4
+Czech Republic,Europe,07,18,2
+Czech Republic,Europe,08,13,2
+Czech Republic,Europe,09,13,1
+Czech Republic,Europe,10,11,2
+Czech Republic,Europe,11,17,1
+Czech Republic,Europe,12,11,1
+Czech Republic,Europe,13,19,0
+Czech Republic,Europe,14,28,4
+Czech Republic,Europe,15,17,1
+Czech Republic,Europe,16,22,2
+Czech Republic,Europe,17,19,2
+Czech Republic,Europe,18,18,2
+Czech Republic,Europe,19,9,2
+Czech Republic,Europe,20,8,3
+Czech Republic,Europe,21,3,0
+Czech Republic,Europe,22,3,0
+Democratic Republic of Congo,Africa,00,8,1
+Democratic Republic of Congo,Africa,01,6,0
+Democratic Republic of Congo,Africa,02,13,1
+Democratic Republic of Congo,Africa,03,26,1
+Democratic Republic of Congo,Africa,04,36,4
+Democratic Republic of Congo,Africa,05,49,1
+Democratic Republic of Congo,Africa,06,52,4
+Democratic Republic of Congo,Africa,07,46,5
+Democratic Republic of Congo,Africa,08,37,1
+Democratic Republic of Congo,Africa,09,42,2
+Democratic Republic of Congo,Africa,10,43,5
+Democratic Republic of Congo,Africa,11,47,4
+Democratic Republic of Congo,Africa,12,34,2
+Democratic Republic of Congo,Africa,13,38,2
+Democratic Republic of Congo,Africa,14,33,1
+Democratic Republic of Congo,Africa,15,52,5
+Democratic Republic of Congo,Africa,16,49,4
+Democratic Republic of Congo,Africa,17,50,5
+Democratic Republic of Congo,Africa,18,35,4
+Democratic Republic of Congo,Africa,19,57,9
+Democratic Republic of Congo,Africa,20,67,6
+Democratic Republic of Congo,Africa,21,49,3
+Democratic Republic of Congo,Africa,22,15,6
+Democratic Republic of Congo,Africa,23,10,1
+Denmark,Europe,00,1,0
+Denmark,Europe,01,1,0
+Denmark,Europe,02,11,2
+Denmark,Europe,03,20,0
+Denmark,Europe,04,26,0
+Denmark,Europe,05,37,3
+Denmark,Europe,06,28,5
+Denmark,Europe,07,39,7
+Denmark,Europe,08,25,0
+Denmark,Europe,09,26,2
+Denmark,Europe,10,32,4
+Denmark,Europe,11,24,2
+Denmark,Europe,12,37,6
+Denmark,Europe,13,36,5
+Denmark,Europe,14,37,4
+Denmark,Europe,15,35,2
+Denmark,Europe,16,38,4
+Denmark,Europe,17,42,6
+Denmark,Europe,18,37,5
+Denmark,Europe,19,42,22
+Denmark,Europe,20,10,1
+Denmark,Europe,21,6,0
+Denmark,Europe,22,6,0
+Denmark,Europe,23,2,0
+Djibouti,Africa,00,1,0
+Djibouti,Africa,01,1,0
+Djibouti,Africa,02,1,0
+Djibouti,Africa,03,2,0
+Djibouti,Africa,04,1,0
+Djibouti,Africa,05,4,1
+Djibouti,Africa,06,3,0
+Djibouti,Africa,07,4,0
+Djibouti,Africa,08,4,0
+Djibouti,Africa,09,4,0
+Djibouti,Africa,10,15,0
+Djibouti,Africa,11,17,2
+Djibouti,Africa,12,6,0
+Djibouti,Africa,13,8,0
+Djibouti,Africa,14,15,1
+Djibouti,Africa,15,32,9
+Djibouti,Africa,16,11,3
+Djibouti,Africa,17,6,1
+Djibouti,Africa,18,9,0
+Djibouti,Africa,19,3,0
+Djibouti,Africa,20,6,0
+Djibouti,Africa,21,1,0
+Djibouti,Africa,22,4,0
+Djibouti,Africa,23,1,0
+Dominica,North America,09,1,0
+Dominica,North America,10,1,1
+Dominica,North America,12,1,0
+Dominica,North America,13,1,0
+Dominica,North America,15,1,0
+Dominica,North America,17,1,0
+Dominica,North America,18,1,1
+Dominica,North America,19,1,1
+Dominican Republic,North America,00,34,6
+Dominican Republic,North America,01,20,1
+Dominican Republic,North America,02,10,2
+Dominican Republic,North America,03,5,0
+Dominican Republic,North America,06,11,0
+Dominican Republic,North America,07,36,6
+Dominican Republic,North America,08,66,9
+Dominican Republic,North America,09,96,12
+Dominican Republic,North America,10,191,36
+Dominican Republic,North America,11,172,27
+Dominican Republic,North America,12,120,18
+Dominican Republic,North America,13,90,12
+Dominican Republic,North America,14,103,21
+Dominican Republic,North America,15,94,10
+Dominican Republic,North America,16,122,21
+Dominican Republic,North America,17,132,13
+Dominican Republic,North America,18,108,13
+Dominican Republic,North America,19,93,17
+Dominican Republic,North America,20,90,11
+Dominican Republic,North America,21,85,18
+Dominican Republic,North America,22,88,16
+Dominican Republic,North America,23,57,7
+East Timor,Asia,01,1,0
+East Timor,Asia,02,2,0
+East Timor,Asia,13,1,0
+East Timor,Asia,14,2,0
+East Timor,Asia,17,2,0
+East Timor,Asia,18,1,0
+East Timor,Asia,20,2,0
+Ecuador,South America,00,77,6
+Ecuador,South America,01,58,7
+Ecuador,South America,02,35,6
+Ecuador,South America,03,22,2
+Ecuador,South America,04,23,2
+Ecuador,South America,05,72,5
+Ecuador,South America,06,129,6
+Ecuador,South America,07,229,24
+Ecuador,South America,08,273,29
+Ecuador,South America,09,372,31
+Ecuador,South America,10,547,39
+Ecuador,South America,11,416,34
+Ecuador,South America,12,306,22
+Ecuador,South America,13,382,26
+Ecuador,South America,14,322,23
+Ecuador,South America,15,299,26
+Ecuador,South America,16,371,29
+Ecuador,South America,17,315,24
+Ecuador,South America,18,352,30
+Ecuador,South America,19,339,24
+Ecuador,South America,20,360,30
+Ecuador,South America,21,295,34
+Ecuador,South America,22,197,30
+Ecuador,South America,23,111,17
+Egypt,Africa,00,3,0
+Egypt,Africa,01,4,0
+Egypt,Africa,02,6,0
+Egypt,Africa,03,4,0
+Egypt,Africa,04,11,0
+Egypt,Africa,05,11,1
+Egypt,Africa,06,7,0
+Egypt,Africa,07,19,0
+Egypt,Africa,08,15,0
+Egypt,Africa,09,13,0
+Egypt,Africa,10,22,0
+Egypt,Africa,11,25,1
+Egypt,Africa,12,18,1
+Egypt,Africa,13,23,2
+Egypt,Africa,14,29,0
+Egypt,Africa,15,30,1
+Egypt,Africa,16,32,1
+Egypt,Africa,17,24,0
+Egypt,Africa,18,22,1
+Egypt,Africa,19,15,0
+Egypt,Africa,20,13,2
+Egypt,Africa,21,12,1
+Egypt,Africa,22,14,1
+Egypt,Africa,23,6,1
+El Salvador,North America,00,45,1
+El Salvador,North America,01,19,2
+El Salvador,North America,02,6,1
+El Salvador,North America,03,5,1
+El Salvador,North America,04,6,1
+El Salvador,North America,05,7,0
+El Salvador,North America,06,26,3
+El Salvador,North America,07,27,1
+El Salvador,North America,08,41,4
+El Salvador,North America,09,31,4
+El Salvador,North America,10,37,6
+El Salvador,North America,11,35,2
+El Salvador,North America,12,17,0
+El Salvador,North America,13,37,4
+El Salvador,North America,14,37,4
+El Salvador,North America,15,40,7
+El Salvador,North America,16,32,10
+El Salvador,North America,17,38,3
+El Salvador,North America,18,46,6
+El Salvador,North America,19,34,3
+El Salvador,North America,20,38,4
+El Salvador,North America,21,56,8
+El Salvador,North America,22,49,7
+El Salvador,North America,23,69,8
+Equatorial Guinea,Africa,05,1,0
+Equatorial Guinea,Africa,06,2,2
+Equatorial Guinea,Africa,08,1,0
+Equatorial Guinea,Africa,09,1,1
+Equatorial Guinea,Africa,10,1,0
+Equatorial Guinea,Africa,14,2,1
+Equatorial Guinea,Africa,17,1,0
+Equatorial Guinea,Africa,19,1,0
+Equatorial Guinea,Africa,21,3,0
+Estonia,Europe,02,1,0
+Estonia,Europe,03,3,0
+Estonia,Europe,04,3,1
+Estonia,Europe,05,4,0
+Estonia,Europe,06,4,0
+Estonia,Europe,07,1,0
+Estonia,Europe,09,1,0
+Estonia,Europe,10,1,0
+Estonia,Europe,11,1,0
+Estonia,Europe,12,1,0
+Estonia,Europe,13,3,1
+Estonia,Europe,14,3,0
+Estonia,Europe,15,1,0
+Estonia,Europe,16,1,0
+Estonia,Europe,17,4,1
+Ethiopia,Africa,00,2,1
+Ethiopia,Africa,01,7,2
+Ethiopia,Africa,02,9,1
+Ethiopia,Africa,03,25,4
+Ethiopia,Africa,04,13,2
+Ethiopia,Africa,05,16,3
+Ethiopia,Africa,06,30,1
+Ethiopia,Africa,07,20,1
+Ethiopia,Africa,08,17,2
+Ethiopia,Africa,09,17,8
+Ethiopia,Africa,10,18,2
+Ethiopia,Africa,11,16,2
+Ethiopia,Africa,12,17,3
+Ethiopia,Africa,13,22,0
+Ethiopia,Africa,14,15,0
+Ethiopia,Africa,15,16,2
+Ethiopia,Africa,16,13,1
+Ethiopia,Africa,17,12,3
+Ethiopia,Africa,18,5,0
+Ethiopia,Africa,19,4,1
+Ethiopia,Africa,20,8,0
+Ethiopia,Africa,21,1,0
+Ethiopia,Africa,22,1,0
+Falkland Islands (Malvinas),South America,03,1,0
+Falkland Islands (Malvinas),South America,07,1,0
+Falkland Islands (Malvinas),South America,14,1,0
+Faroe Islands,Europe,01,2,1
+Faroe Islands,Europe,08,1,0
+Faroe Islands,Europe,09,1,0
+Faroe Islands,Europe,14,1,0
+Faroe Islands,Europe,15,1,0
+Faroe Islands,Europe,16,2,1
+Faroe Islands,Europe,19,1,1
+Faroe Islands,Europe,20,1,0
+Faroe Islands,Europe,21,1,1
+Fiji,Oceania,00,6,0
+Fiji,Oceania,01,2,0
+Fiji,Oceania,02,3,0
+Fiji,Oceania,03,2,0
+Fiji,Oceania,04,1,0
+Fiji,Oceania,05,1,1
+Fiji,Oceania,06,4,0
+Fiji,Oceania,07,4,0
+Fiji,Oceania,08,18,3
+Fiji,Oceania,09,10,2
+Fiji,Oceania,10,28,3
+Fiji,Oceania,11,18,2
+Fiji,Oceania,12,24,3
+Fiji,Oceania,13,24,1
+Fiji,Oceania,14,22,2
+Fiji,Oceania,15,26,1
+Fiji,Oceania,16,45,9
+Fiji,Oceania,17,21,2
+Fiji,Oceania,18,24,2
+Fiji,Oceania,19,13,3
+Fiji,Oceania,20,13,1
+Fiji,Oceania,21,10,1
+Fiji,Oceania,22,7,1
+Fiji,Oceania,23,13,2
+Finland,Europe,00,5,0
+Finland,Europe,01,16,1
+Finland,Europe,02,31,2
+Finland,Europe,03,27,1
+Finland,Europe,04,34,5
+Finland,Europe,05,23,4
+Finland,Europe,06,44,11
+Finland,Europe,07,36,7
+Finland,Europe,08,31,7
+Finland,Europe,09,16,3
+Finland,Europe,10,40,3
+Finland,Europe,11,17,3
+Finland,Europe,12,31,7
+Finland,Europe,13,36,4
+Finland,Europe,14,36,5
+Finland,Europe,15,41,14
+Finland,Europe,16,28,2
+Finland,Europe,17,23,2
+Finland,Europe,18,14,3
+Finland,Europe,19,6,2
+Finland,Europe,20,3,1
+Finland,Europe,21,6,2
+Finland,Europe,23,4,1
+Former Yugoslav Republic of Macedonia,Europe,04,4,0
+Former Yugoslav Republic of Macedonia,Europe,05,3,0
+Former Yugoslav Republic of Macedonia,Europe,06,2,0
+Former Yugoslav Republic of Macedonia,Europe,08,1,1
+Former Yugoslav Republic of Macedonia,Europe,09,3,1
+Former Yugoslav Republic of Macedonia,Europe,10,4,2
+Former Yugoslav Republic of Macedonia,Europe,11,3,1
+Former Yugoslav Republic of Macedonia,Europe,12,4,0
+Former Yugoslav Republic of Macedonia,Europe,13,3,2
+Former Yugoslav Republic of Macedonia,Europe,14,2,0
+Former Yugoslav Republic of Macedonia,Europe,15,6,2
+Former Yugoslav Republic of Macedonia,Europe,16,1,1
+Former Yugoslav Republic of Macedonia,Europe,17,1,0
+Former Yugoslav Republic of Macedonia,Europe,18,5,1
+Former Yugoslav Republic of Macedonia,Europe,19,4,1
+Former Yugoslav Republic of Macedonia,Europe,20,1,0
+France,Europe,00,66,7
+France,Europe,01,109,14
+France,Europe,02,210,17
+France,Europe,03,473,38
+France,Europe,04,888,81
+France,Europe,05,1006,97
+France,Europe,06,1052,100
+France,Europe,07,877,87
+France,Europe,08,922,93
+France,Europe,09,1018,104
+France,Europe,10,846,102
+France,Europe,11,834,112
+France,Europe,12,818,80
+France,Europe,13,1008,98
+France,Europe,14,1014,101
+France,Europe,15,1117,134
+France,Europe,16,1157,121
+France,Europe,17,879,91
+France,Europe,18,741,88
+France,Europe,19,611,81
+France,Europe,20,355,38
+France,Europe,21,217,26
+France,Europe,22,98,8
+France,Europe,23,77,9
+French Guiana,South America,00,1,0
+French Guiana,South America,02,1,0
+French Guiana,South America,03,2,0
+French Guiana,South America,06,1,0
+French Guiana,South America,07,1,1
+French Guiana,South America,08,3,0
+French Guiana,South America,09,3,0
+French Guiana,South America,10,1,0
+French Guiana,South America,12,8,0
+French Guiana,South America,13,1,0
+French Guiana,South America,14,3,0
+French Guiana,South America,15,3,1
+French Guiana,South America,16,1,0
+French Guiana,South America,17,1,1
+French Guiana,South America,18,7,2
+French Guiana,South America,19,6,0
+French Guiana,South America,20,4,1
+French Guiana,South America,21,1,0
+French Guiana,South America,22,1,0
+French Guiana,South America,23,2,0
+French Polynesia,Oceania,04,1,0
+French Polynesia,Oceania,05,1,0
+French Polynesia,Oceania,09,1,1
+French Polynesia,Oceania,14,1,0
+French Polynesia,Oceania,15,1,0
+French Polynesia,Oceania,17,1,0
+French Polynesia,Oceania,19,1,0
+French Polynesia,Oceania,21,1,0
+Gabon,Africa,00,3,0
+Gabon,Africa,01,5,0
+Gabon,Africa,04,1,0
+Gabon,Africa,06,4,0
+Gabon,Africa,07,1,0
+Gabon,Africa,08,4,0
+Gabon,Africa,09,3,0
+Gabon,Africa,10,3,0
+Gabon,Africa,11,7,0
+Gabon,Africa,12,4,0
+Gabon,Africa,13,9,0
+Gabon,Africa,14,10,0
+Gabon,Africa,15,3,0
+Gabon,Africa,16,3,0
+Gabon,Africa,17,11,1
+Gabon,Africa,18,7,0
+Gabon,Africa,19,7,0
+Gabon,Africa,20,5,0
+Gabon,Africa,21,3,0
+Gabon,Africa,22,3,0
+Gabon,Africa,23,3,0
+Gambia,Africa,00,7,0
+Gambia,Africa,05,1,1
+Gambia,Africa,07,2,0
+Gambia,Africa,08,4,1
+Gambia,Africa,09,2,0
+Gambia,Africa,10,8,0
+Gambia,Africa,11,6,0
+Gambia,Africa,12,5,0
+Gambia,Africa,13,9,1
+Gambia,Africa,14,8,0
+Gambia,Africa,15,7,3
+Gambia,Africa,16,6,0
+Gambia,Africa,17,4,1
+Gambia,Africa,18,5,0
+Gambia,Africa,19,10,0
+Gambia,Africa,20,12,1
+Gambia,Africa,21,6,0
+Gambia,Africa,22,7,1
+Gambia,Africa,23,2,0
+Georgia,Europe,00,4,0
+Georgia,Europe,01,4,1
+Georgia,Europe,02,8,0
+Georgia,Europe,03,4,0
+Georgia,Europe,04,7,0
+Georgia,Europe,05,19,3
+Georgia,Europe,06,14,2
+Georgia,Europe,07,7,2
+Georgia,Europe,08,8,0
+Georgia,Europe,09,10,1
+Georgia,Europe,10,14,2
+Georgia,Europe,11,14,0
+Georgia,Europe,12,9,0
+Georgia,Europe,13,7,1
+Georgia,Europe,14,9,0
+Georgia,Europe,15,13,1
+Georgia,Europe,16,16,3
+Georgia,Europe,17,9,1
+Georgia,Europe,18,6,1
+Georgia,Europe,19,5,1
+Georgia,Europe,20,6,1
+Georgia,Europe,21,2,1
+Georgia,Europe,23,1,0
+Germany,Europe,00,37,7
+Germany,Europe,01,57,7
+Germany,Europe,02,110,10
+Germany,Europe,03,359,35
+Germany,Europe,04,407,44
+Germany,Europe,05,418,39
+Germany,Europe,06,383,37
+Germany,Europe,07,352,34
+Germany,Europe,08,368,31
+Germany,Europe,09,390,39
+Germany,Europe,10,341,23
+Germany,Europe,11,336,31
+Germany,Europe,12,369,28
+Germany,Europe,13,430,51
+Germany,Europe,14,436,47
+Germany,Europe,15,420,28
+Germany,Europe,16,432,53
+Germany,Europe,17,377,43
+Germany,Europe,18,371,43
+Germany,Europe,19,269,25
+Germany,Europe,20,199,23
+Germany,Europe,21,107,14
+Germany,Europe,22,80,12
+Germany,Europe,23,38,2
+Ghana,Africa,00,62,7
+Ghana,Africa,01,40,1
+Ghana,Africa,02,21,1
+Ghana,Africa,03,13,0
+Ghana,Africa,04,21,2
+Ghana,Africa,05,34,4
+Ghana,Africa,06,73,8
+Ghana,Africa,07,133,47
+Ghana,Africa,08,137,10
+Ghana,Africa,09,124,9
+Ghana,Africa,10,115,6
+Ghana,Africa,11,117,10
+Ghana,Africa,12,80,2
+Ghana,Africa,13,127,6
+Ghana,Africa,14,103,8
+Ghana,Africa,15,128,6
+Ghana,Africa,16,115,9
+Ghana,Africa,17,107,4
+Ghana,Africa,18,88,16
+Ghana,Africa,19,89,5
+Ghana,Africa,20,107,9
+Ghana,Africa,21,157,22
+Ghana,Africa,22,99,11
+Ghana,Africa,23,63,8
+Gibraltar,Europe,04,2,0
+Gibraltar,Europe,05,3,0
+Gibraltar,Europe,06,5,0
+Gibraltar,Europe,07,12,5
+Gibraltar,Europe,08,7,1
+Gibraltar,Europe,09,5,1
+Gibraltar,Europe,10,5,2
+Gibraltar,Europe,11,11,0
+Gibraltar,Europe,12,8,1
+Gibraltar,Europe,13,7,0
+Gibraltar,Europe,14,5,0
+Gibraltar,Europe,15,5,0
+Gibraltar,Europe,16,7,1
+Gibraltar,Europe,17,6,0
+Gibraltar,Europe,18,6,1
+Gibraltar,Europe,19,2,0
+Gibraltar,Europe,20,2,0
+Gibraltar,Europe,21,2,0
+Greece,Europe,00,8,0
+Greece,Europe,01,16,1
+Greece,Europe,02,20,0
+Greece,Europe,03,31,2
+Greece,Europe,04,34,0
+Greece,Europe,05,54,7
+Greece,Europe,06,38,3
+Greece,Europe,07,37,0
+Greece,Europe,08,52,1
+Greece,Europe,09,36,3
+Greece,Europe,10,46,4
+Greece,Europe,11,24,2
+Greece,Europe,12,52,2
+Greece,Europe,13,35,4
+Greece,Europe,14,30,4
+Greece,Europe,15,34,2
+Greece,Europe,16,37,6
+Greece,Europe,17,26,2
+Greece,Europe,18,29,1
+Greece,Europe,19,14,0
+Greece,Europe,20,9,0
+Greece,Europe,21,10,0
+Greece,Europe,22,3,0
+Greece,Europe,23,2,0
+Greenland,North America,06,1,1
+Greenland,North America,10,1,0
+Greenland,North America,12,2,1
+Greenland,North America,13,2,0
+Greenland,North America,14,2,0
+Greenland,North America,17,2,0
+Greenland,North America,19,1,0
+Grenada,North America,06,1,0
+Grenada,North America,12,1,0
+Guadeloupe,North America,00,1,0
+Guadeloupe,North America,01,6,0
+Guadeloupe,North America,02,5,0
+Guadeloupe,North America,03,8,0
+Guadeloupe,North America,04,4,0
+Guadeloupe,North America,06,2,0
+Guadeloupe,North America,07,1,0
+Guadeloupe,North America,08,8,0
+Guadeloupe,North America,09,7,0
+Guadeloupe,North America,10,3,0
+Guadeloupe,North America,11,8,0
+Guadeloupe,North America,12,9,0
+Guadeloupe,North America,13,10,1
+Guadeloupe,North America,14,9,0
+Guadeloupe,North America,15,5,1
+Guadeloupe,North America,16,3,0
+Guadeloupe,North America,17,4,1
+Guadeloupe,North America,18,9,1
+Guadeloupe,North America,19,8,1
+Guadeloupe,North America,20,5,0
+Guadeloupe,North America,21,1,0
+Guadeloupe,North America,23,1,0
+Guam,Oceania,01,1,0
+Guam,Oceania,07,1,0
+Guam,Oceania,14,2,1
+Guam,Oceania,15,2,0
+Guam,Oceania,16,1,0
+Guam,Oceania,18,1,0
+Guam,Oceania,21,1,0
+Guam,Oceania,22,1,0
+Guam,Oceania,23,2,0
+Guatemala,North America,00,11,0
+Guatemala,North America,01,4,0
+Guatemala,North America,02,1,0
+Guatemala,North America,03,1,0
+Guatemala,North America,05,6,1
+Guatemala,North America,06,7,1
+Guatemala,North America,07,13,1
+Guatemala,North America,08,37,4
+Guatemala,North America,09,62,11
+Guatemala,North America,10,44,3
+Guatemala,North America,11,41,4
+Guatemala,North America,12,33,2
+Guatemala,North America,13,41,6
+Guatemala,North America,14,37,5
+Guatemala,North America,15,35,4
+Guatemala,North America,16,25,4
+Guatemala,North America,17,52,6
+Guatemala,North America,18,58,2
+Guatemala,North America,19,87,5
+Guatemala,North America,20,64,2
+Guatemala,North America,21,46,3
+Guatemala,North America,22,37,1
+Guatemala,North America,23,31,1
+Guernsey,Europe,06,1,0
+Guernsey,Europe,12,1,0
+Guernsey,Europe,13,1,0
+Guernsey,Europe,14,1,0
+Guernsey,Europe,15,2,0
+Guernsey,Europe,17,1,0
+Guernsey,Europe,19,2,1
+Guernsey,Europe,20,1,0
+Guernsey,Europe,22,1,0
+Guinea,Africa,00,8,0
+Guinea,Africa,01,4,0
+Guinea,Africa,02,4,0
+Guinea,Africa,03,2,0
+Guinea,Africa,04,1,0
+Guinea,Africa,05,5,1
+Guinea,Africa,06,5,0
+Guinea,Africa,07,3,0
+Guinea,Africa,08,5,0
+Guinea,Africa,09,16,2
+Guinea,Africa,10,12,1
+Guinea,Africa,11,11,0
+Guinea,Africa,12,15,3
+Guinea,Africa,13,10,1
+Guinea,Africa,14,12,1
+Guinea,Africa,15,13,2
+Guinea,Africa,16,19,3
+Guinea,Africa,17,13,3
+Guinea,Africa,18,8,1
+Guinea,Africa,19,12,2
+Guinea,Africa,20,19,4
+Guinea,Africa,21,11,4
+Guinea,Africa,22,16,2
+Guinea,Africa,23,11,4
+Guinea Bissau,Africa,00,1,0
+Guinea Bissau,Africa,01,1,0
+Guinea Bissau,Africa,05,1,0
+Guinea Bissau,Africa,08,1,1
+Guinea Bissau,Africa,13,1,0
+Guinea Bissau,Africa,14,2,0
+Guinea Bissau,Africa,15,1,0
+Guinea Bissau,Africa,16,4,0
+Guinea Bissau,Africa,18,1,0
+Guinea Bissau,Africa,20,3,1
+Guinea Bissau,Africa,21,1,0
+Guinea Bissau,Africa,22,1,1
+Guyana,South America,05,1,0
+Guyana,South America,09,1,0
+Guyana,South America,12,2,0
+Guyana,South America,15,3,0
+Guyana,South America,16,1,0
+Guyana,South America,17,1,0
+Guyana,South America,19,1,0
+Guyana,South America,23,1,0
+Haiti,North America,00,10,1
+Haiti,North America,01,4,0
+Haiti,North America,02,3,0
+Haiti,North America,04,2,0
+Haiti,North America,05,2,0
+Haiti,North America,06,4,0
+Haiti,North America,07,16,1
+Haiti,North America,08,30,1
+Haiti,North America,09,21,1
+Haiti,North America,10,23,0
+Haiti,North America,11,16,2
+Haiti,North America,12,21,0
+Haiti,North America,13,13,0
+Haiti,North America,14,15,1
+Haiti,North America,15,13,1
+Haiti,North America,16,11,1
+Haiti,North America,17,14,0
+Haiti,North America,18,21,1
+Haiti,North America,19,13,0
+Haiti,North America,20,14,2
+Haiti,North America,21,24,0
+Haiti,North America,22,13,1
+Haiti,North America,23,11,1
+Hashemite Kingdom of Jordan,Asia,00,6,0
+Hashemite Kingdom of Jordan,Asia,01,6,2
+Hashemite Kingdom of Jordan,Asia,02,8,1
+Hashemite Kingdom of Jordan,Asia,03,15,2
+Hashemite Kingdom of Jordan,Asia,04,20,6
+Hashemite Kingdom of Jordan,Asia,05,11,0
+Hashemite Kingdom of Jordan,Asia,06,16,0
+Hashemite Kingdom of Jordan,Asia,07,15,0
+Hashemite Kingdom of Jordan,Asia,08,16,5
+Hashemite Kingdom of Jordan,Asia,09,10,1
+Hashemite Kingdom of Jordan,Asia,10,16,4
+Hashemite Kingdom of Jordan,Asia,11,16,2
+Hashemite Kingdom of Jordan,Asia,12,16,0
+Hashemite Kingdom of Jordan,Asia,13,14,1
+Hashemite Kingdom of Jordan,Asia,14,27,3
+Hashemite Kingdom of Jordan,Asia,15,17,1
+Hashemite Kingdom of Jordan,Asia,16,15,1
+Hashemite Kingdom of Jordan,Asia,17,10,1
+Hashemite Kingdom of Jordan,Asia,18,18,4
+Hashemite Kingdom of Jordan,Asia,19,17,2
+Hashemite Kingdom of Jordan,Asia,20,9,0
+Hashemite Kingdom of Jordan,Asia,21,8,1
+Hashemite Kingdom of Jordan,Asia,22,4,0
+Hashemite Kingdom of Jordan,Asia,23,1,0
+Honduras,North America,00,14,0
+Honduras,North America,01,13,4
+Honduras,North America,02,6,0
+Honduras,North America,03,2,0
+Honduras,North America,04,1,0
+Honduras,North America,05,2,0
+Honduras,North America,06,6,0
+Honduras,North America,07,18,3
+Honduras,North America,08,28,1
+Honduras,North America,09,29,5
+Honduras,North America,10,29,5
+Honduras,North America,11,40,10
+Honduras,North America,12,45,6
+Honduras,North America,13,47,11
+Honduras,North America,14,37,5
+Honduras,North America,15,37,5
+Honduras,North America,16,37,7
+Honduras,North America,17,31,6
+Honduras,North America,18,37,2
+Honduras,North America,19,47,4
+Honduras,North America,20,77,7
+Honduras,North America,21,55,2
+Honduras,North America,22,26,4
+Honduras,North America,23,22,1
+Hong Kong,Asia,00,23,1
+Hong Kong,Asia,01,28,8
+Hong Kong,Asia,02,22,0
+Hong Kong,Asia,03,16,0
+Hong Kong,Asia,04,25,1
+Hong Kong,Asia,05,22,0
+Hong Kong,Asia,06,17,0
+Hong Kong,Asia,07,13,1
+Hong Kong,Asia,08,10,0
+Hong Kong,Asia,09,8,0
+Hong Kong,Asia,10,9,0
+Hong Kong,Asia,11,1,1
+Hong Kong,Asia,12,1,0
+Hong Kong,Asia,13,1,0
+Hong Kong,Asia,14,15,0
+Hong Kong,Asia,15,15,4
+Hong Kong,Asia,16,31,3
+Hong Kong,Asia,17,36,1
+Hong Kong,Asia,18,30,4
+Hong Kong,Asia,19,33,3
+Hong Kong,Asia,20,32,3
+Hong Kong,Asia,21,21,1
+Hong Kong,Asia,22,26,6
+Hong Kong,Asia,23,28,3
+Hungary,Europe,00,1,0
+Hungary,Europe,01,2,0
+Hungary,Europe,02,3,0
+Hungary,Europe,03,2,0
+Hungary,Europe,04,6,0
+Hungary,Europe,05,8,1
+Hungary,Europe,06,6,0
+Hungary,Europe,07,4,1
+Hungary,Europe,08,11,0
+Hungary,Europe,09,9,0
+Hungary,Europe,10,10,1
+Hungary,Europe,11,11,1
+Hungary,Europe,12,14,1
+Hungary,Europe,13,12,0
+Hungary,Europe,14,9,0
+Hungary,Europe,15,7,0
+Hungary,Europe,16,10,0
+Hungary,Europe,17,13,0
+Hungary,Europe,18,11,0
+Hungary,Europe,19,2,0
+Hungary,Europe,20,3,0
+Hungary,Europe,21,4,0
+Hungary,Europe,22,1,0
+Hungary,Europe,23,1,0
+Iceland,Europe,00,4,2
+Iceland,Europe,01,3,0
+Iceland,Europe,08,5,0
+Iceland,Europe,09,5,1
+Iceland,Europe,10,2,0
+Iceland,Europe,11,4,0
+Iceland,Europe,12,4,1
+Iceland,Europe,13,6,0
+Iceland,Europe,14,10,1
+Iceland,Europe,15,7,1
+Iceland,Europe,16,8,0
+Iceland,Europe,17,5,0
+Iceland,Europe,18,6,1
+Iceland,Europe,19,3,0
+Iceland,Europe,20,6,0
+Iceland,Europe,21,7,1
+Iceland,Europe,22,3,0
+Iceland,Europe,23,3,1
+India,Asia,00,3963,434
+India,Asia,01,3971,411
+India,Asia,02,3838,408
+India,Asia,03,3524,390
+India,Asia,04,3053,344
+India,Asia,05,3010,316
+India,Asia,06,3000,385
+India,Asia,07,3210,317
+India,Asia,08,3435,376
+India,Asia,09,3798,384
+India,Asia,10,4191,424
+India,Asia,11,4238,411
+India,Asia,12,3529,386
+India,Asia,13,2695,310
+India,Asia,14,1741,184
+India,Asia,15,1030,127
+India,Asia,16,599,70
+India,Asia,17,408,45
+India,Asia,18,349,30
+India,Asia,19,510,64
+India,Asia,20,1111,126
+India,Asia,21,1858,216
+India,Asia,22,2864,305
+India,Asia,23,3520,341
+Indonesia,Asia,00,251,24
+Indonesia,Asia,01,281,22
+Indonesia,Asia,02,266,21
+Indonesia,Asia,03,284,39
+Indonesia,Asia,04,318,19
+Indonesia,Asia,05,290,17
+Indonesia,Asia,06,287,20
+Indonesia,Asia,07,184,9
+Indonesia,Asia,08,122,11
+Indonesia,Asia,09,103,8
+Indonesia,Asia,10,58,5
+Indonesia,Asia,11,68,1
+Indonesia,Asia,12,71,0
+Indonesia,Asia,13,101,7
+Indonesia,Asia,14,146,9
+Indonesia,Asia,15,206,24
+Indonesia,Asia,16,256,28
+Indonesia,Asia,17,284,36
+Indonesia,Asia,18,336,23
+Indonesia,Asia,19,366,44
+Indonesia,Asia,20,324,25
+Indonesia,Asia,21,308,26
+Indonesia,Asia,22,295,27
+Indonesia,Asia,23,308,19
+Iraq,Asia,00,13,5
+Iraq,Asia,01,18,9
+Iraq,Asia,02,13,6
+Iraq,Asia,03,15,6
+Iraq,Asia,04,16,3
+Iraq,Asia,05,16,5
+Iraq,Asia,06,19,5
+Iraq,Asia,07,18,3
+Iraq,Asia,08,27,3
+Iraq,Asia,09,18,5
+Iraq,Asia,10,24,8
+Iraq,Asia,11,23,2
+Iraq,Asia,12,14,4
+Iraq,Asia,13,33,3
+Iraq,Asia,14,21,2
+Iraq,Asia,15,31,5
+Iraq,Asia,16,34,5
+Iraq,Asia,17,19,2
+Iraq,Asia,18,14,0
+Iraq,Asia,19,6,1
+Iraq,Asia,20,11,0
+Iraq,Asia,21,8,0
+Iraq,Asia,22,4,1
+Iraq,Asia,23,10,1
+Ireland,Europe,00,56,9
+Ireland,Europe,01,29,4
+Ireland,Europe,02,24,2
+Ireland,Europe,03,19,3
+Ireland,Europe,04,50,7
+Ireland,Europe,05,155,15
+Ireland,Europe,06,244,27
+Ireland,Europe,07,342,31
+Ireland,Europe,08,344,39
+Ireland,Europe,09,357,31
+Ireland,Europe,10,374,44
+Ireland,Europe,11,302,32
+Ireland,Europe,12,300,33
+Ireland,Europe,13,333,33
+Ireland,Europe,14,386,44
+Ireland,Europe,15,375,37
+Ireland,Europe,16,392,33
+Ireland,Europe,17,386,46
+Ireland,Europe,18,387,41
+Ireland,Europe,19,505,38
+Ireland,Europe,20,413,38
+Ireland,Europe,21,272,33
+Ireland,Europe,22,143,19
+Ireland,Europe,23,86,9
+Islamic Republic of Iran,Asia,00,6,0
+Islamic Republic of Iran,Asia,01,8,1
+Islamic Republic of Iran,Asia,02,12,0
+Islamic Republic of Iran,Asia,03,14,1
+Islamic Republic of Iran,Asia,04,18,0
+Islamic Republic of Iran,Asia,05,17,1
+Islamic Republic of Iran,Asia,06,14,0
+Islamic Republic of Iran,Asia,07,12,0
+Islamic Republic of Iran,Asia,08,18,3
+Islamic Republic of Iran,Asia,09,11,2
+Islamic Republic of Iran,Asia,10,11,0
+Islamic Republic of Iran,Asia,11,12,0
+Islamic Republic of Iran,Asia,12,19,0
+Islamic Republic of Iran,Asia,13,24,2
+Islamic Republic of Iran,Asia,14,17,3
+Islamic Republic of Iran,Asia,15,14,3
+Islamic Republic of Iran,Asia,16,16,2
+Islamic Republic of Iran,Asia,17,10,1
+Islamic Republic of Iran,Asia,18,5,0
+Islamic Republic of Iran,Asia,19,4,0
+Islamic Republic of Iran,Asia,20,10,0
+Islamic Republic of Iran,Asia,21,5,0
+Islamic Republic of Iran,Asia,22,5,0
+Islamic Republic of Iran,Asia,23,4,0
+Isle of Man,Europe,05,2,0
+Isle of Man,Europe,07,3,0
+Isle of Man,Europe,08,3,0
+Isle of Man,Europe,10,4,1
+Isle of Man,Europe,11,6,0
+Isle of Man,Europe,12,5,0
+Isle of Man,Europe,14,6,1
+Isle of Man,Europe,15,3,0
+Isle of Man,Europe,16,2,0
+Isle of Man,Europe,17,3,0
+Isle of Man,Europe,18,4,0
+Isle of Man,Europe,19,3,0
+Isle of Man,Europe,20,3,0
+Isle of Man,Europe,21,1,0
+Isle of Man,Europe,23,1,0
+Israel,Asia,00,17,1
+Israel,Asia,01,18,2
+Israel,Asia,02,24,3
+Israel,Asia,03,42,12
+Israel,Asia,04,37,8
+Israel,Asia,05,27,2
+Israel,Asia,06,26,1
+Israel,Asia,07,26,6
+Israel,Asia,08,28,2
+Israel,Asia,09,29,2
+Israel,Asia,10,30,2
+Israel,Asia,11,31,4
+Israel,Asia,12,40,11
+Israel,Asia,13,37,3
+Israel,Asia,14,42,5
+Israel,Asia,15,48,12
+Israel,Asia,16,27,3
+Israel,Asia,17,29,3
+Israel,Asia,18,19,1
+Israel,Asia,19,16,4
+Israel,Asia,20,12,2
+Israel,Asia,21,9,0
+Israel,Asia,22,10,0
+Israel,Asia,23,11,0
+Italy,Europe,00,36,2
+Italy,Europe,01,53,3
+Italy,Europe,02,103,12
+Italy,Europe,03,289,29
+Italy,Europe,04,580,36
+Italy,Europe,05,769,53
+Italy,Europe,06,750,53
+Italy,Europe,07,718,55
+Italy,Europe,08,788,40
+Italy,Europe,09,771,59
+Italy,Europe,10,783,49
+Italy,Europe,11,777,67
+Italy,Europe,12,718,46
+Italy,Europe,13,814,71
+Italy,Europe,14,1111,81
+Italy,Europe,15,780,35
+Italy,Europe,16,871,40
+Italy,Europe,17,880,53
+Italy,Europe,18,746,53
+Italy,Europe,19,593,54
+Italy,Europe,20,351,36
+Italy,Europe,21,166,16
+Italy,Europe,22,91,7
+Italy,Europe,23,46,5
+Ivory Coast,Africa,00,11,0
+Ivory Coast,Africa,01,4,0
+Ivory Coast,Africa,02,3,0
+Ivory Coast,Africa,03,5,0
+Ivory Coast,Africa,04,3,0
+Ivory Coast,Africa,05,4,0
+Ivory Coast,Africa,06,10,0
+Ivory Coast,Africa,07,8,0
+Ivory Coast,Africa,08,13,1
+Ivory Coast,Africa,09,17,2
+Ivory Coast,Africa,10,14,3
+Ivory Coast,Africa,11,24,1
+Ivory Coast,Africa,12,17,1
+Ivory Coast,Africa,13,12,1
+Ivory Coast,Africa,14,21,1
+Ivory Coast,Africa,15,14,1
+Ivory Coast,Africa,16,16,1
+Ivory Coast,Africa,17,26,0
+Ivory Coast,Africa,18,19,0
+Ivory Coast,Africa,19,25,0
+Ivory Coast,Africa,20,22,1
+Ivory Coast,Africa,21,15,0
+Ivory Coast,Africa,22,23,2
+Ivory Coast,Africa,23,14,0
+Jamaica,North America,00,9,0
+Jamaica,North America,01,3,0
+Jamaica,North America,02,8,1
+Jamaica,North America,03,2,0
+Jamaica,North America,05,4,1
+Jamaica,North America,06,11,1
+Jamaica,North America,07,15,1
+Jamaica,North America,08,26,3
+Jamaica,North America,09,24,0
+Jamaica,North America,10,31,1
+Jamaica,North America,11,24,0
+Jamaica,North America,12,17,1
+Jamaica,North America,13,34,3
+Jamaica,North America,14,22,0
+Jamaica,North America,15,24,1
+Jamaica,North America,16,30,2
+Jamaica,North America,17,30,2
+Jamaica,North America,18,33,3
+Jamaica,North America,19,34,2
+Jamaica,North America,20,36,2
+Jamaica,North America,21,25,3
+Jamaica,North America,22,19,2
+Jamaica,North America,23,12,2
+Japan,Asia,00,260,25
+Japan,Asia,01,276,27
+Japan,Asia,02,201,15
+Japan,Asia,03,190,31
+Japan,Asia,04,189,17
+Japan,Asia,05,162,8
+Japan,Asia,06,150,12
+Japan,Asia,07,84,6
+Japan,Asia,08,63,7
+Japan,Asia,09,43,4
+Japan,Asia,10,29,0
+Japan,Asia,11,42,0
+Japan,Asia,12,78,3
+Japan,Asia,13,122,11
+Japan,Asia,14,145,8
+Japan,Asia,15,175,12
+Japan,Asia,16,175,12
+Japan,Asia,17,202,10
+Japan,Asia,18,198,7
+Japan,Asia,19,200,22
+Japan,Asia,20,183,13
+Japan,Asia,21,163,6
+Japan,Asia,22,215,4
+Japan,Asia,23,226,11
+Jersey,Europe,01,1,0
+Jersey,Europe,09,1,0
+Jersey,Europe,16,1,0
+Jersey,Europe,18,1,0
+Kazakhstan,Europe,00,3,0
+Kazakhstan,Europe,01,3,2
+Kazakhstan,Europe,02,2,0
+Kazakhstan,Europe,03,2,0
+Kazakhstan,Europe,04,6,1
+Kazakhstan,Europe,05,6,0
+Kazakhstan,Europe,06,7,0
+Kazakhstan,Europe,07,6,2
+Kazakhstan,Europe,08,7,1
+Kazakhstan,Europe,09,5,0
+Kazakhstan,Europe,10,3,0
+Kazakhstan,Europe,11,5,0
+Kazakhstan,Europe,12,5,0
+Kazakhstan,Europe,13,2,0
+Kazakhstan,Europe,14,1,0
+Kazakhstan,Europe,15,2,0
+Kazakhstan,Europe,18,1,0
+Kazakhstan,Europe,19,3,2
+Kazakhstan,Europe,20,2,0
+Kazakhstan,Europe,21,5,0
+Kazakhstan,Europe,22,7,1
+Kazakhstan,Europe,23,6,1
+Kenya,Africa,00,113,29
+Kenya,Africa,01,220,62
+Kenya,Africa,02,257,68
+Kenya,Africa,03,289,74
+Kenya,Africa,04,323,65
+Kenya,Africa,05,265,38
+Kenya,Africa,06,216,32
+Kenya,Africa,07,209,32
+Kenya,Africa,08,220,37
+Kenya,Africa,09,307,83
+Kenya,Africa,10,302,104
+Kenya,Africa,11,272,65
+Kenya,Africa,12,261,57
+Kenya,Africa,13,258,60
+Kenya,Africa,14,242,46
+Kenya,Africa,15,263,63
+Kenya,Africa,16,187,41
+Kenya,Africa,17,132,20
+Kenya,Africa,18,109,15
+Kenya,Africa,19,50,8
+Kenya,Africa,20,29,10
+Kenya,Africa,21,33,2
+Kenya,Africa,22,24,6
+Kenya,Africa,23,33,7
+Kingdom of Saudi Arabia,Asia,00,61,6
+Kingdom of Saudi Arabia,Asia,01,48,5
+Kingdom of Saudi Arabia,Asia,02,48,7
+Kingdom of Saudi Arabia,Asia,03,36,7
+Kingdom of Saudi Arabia,Asia,04,68,10
+Kingdom of Saudi Arabia,Asia,05,78,6
+Kingdom of Saudi Arabia,Asia,06,62,4
+Kingdom of Saudi Arabia,Asia,07,81,6
+Kingdom of Saudi Arabia,Asia,08,97,7
+Kingdom of Saudi Arabia,Asia,09,125,8
+Kingdom of Saudi Arabia,Asia,10,147,25
+Kingdom of Saudi Arabia,Asia,11,97,8
+Kingdom of Saudi Arabia,Asia,12,103,9
+Kingdom of Saudi Arabia,Asia,13,150,27
+Kingdom of Saudi Arabia,Asia,14,107,8
+Kingdom of Saudi Arabia,Asia,15,128,14
+Kingdom of Saudi Arabia,Asia,16,143,21
+Kingdom of Saudi Arabia,Asia,17,98,11
+Kingdom of Saudi Arabia,Asia,18,103,10
+Kingdom of Saudi Arabia,Asia,19,79,2
+Kingdom of Saudi Arabia,Asia,20,61,7
+Kingdom of Saudi Arabia,Asia,21,61,13
+Kingdom of Saudi Arabia,Asia,22,54,3
+Kingdom of Saudi Arabia,Asia,23,52,7
+Kosovo,Europe,00,5,0
+Kosovo,Europe,01,2,0
+Kosovo,Europe,05,4,0
+Kosovo,Europe,06,1,0
+Kosovo,Europe,07,8,0
+Kosovo,Europe,08,8,0
+Kosovo,Europe,09,10,0
+Kosovo,Europe,10,13,2
+Kosovo,Europe,11,10,0
+Kosovo,Europe,12,5,0
+Kosovo,Europe,13,11,0
+Kosovo,Europe,14,7,0
+Kosovo,Europe,15,10,0
+Kosovo,Europe,16,14,1
+Kosovo,Europe,17,13,1
+Kosovo,Europe,18,19,0
+Kosovo,Europe,19,15,0
+Kosovo,Europe,20,19,0
+Kosovo,Europe,21,14,0
+Kosovo,Europe,22,11,0
+Kosovo,Europe,23,7,0
+Kuwait,Asia,00,12,1
+Kuwait,Asia,01,2,0
+Kuwait,Asia,02,4,0
+Kuwait,Asia,03,12,1
+Kuwait,Asia,04,10,0
+Kuwait,Asia,05,28,0
+Kuwait,Asia,06,24,0
+Kuwait,Asia,07,20,0
+Kuwait,Asia,08,40,1
+Kuwait,Asia,09,21,0
+Kuwait,Asia,10,34,1
+Kuwait,Asia,11,43,1
+Kuwait,Asia,12,43,2
+Kuwait,Asia,13,27,4
+Kuwait,Asia,14,32,0
+Kuwait,Asia,15,37,3
+Kuwait,Asia,16,32,1
+Kuwait,Asia,17,33,0
+Kuwait,Asia,18,27,2
+Kuwait,Asia,19,18,2
+Kuwait,Asia,20,12,1
+Kuwait,Asia,21,10,1
+Kuwait,Asia,22,8,0
+Kuwait,Asia,23,10,1
+Kyrgyzstan,Asia,00,5,0
+Kyrgyzstan,Asia,01,4,1
+Kyrgyzstan,Asia,02,2,0
+Kyrgyzstan,Asia,03,3,0
+Kyrgyzstan,Asia,04,2,0
+Kyrgyzstan,Asia,05,2,0
+Kyrgyzstan,Asia,06,3,0
+Kyrgyzstan,Asia,07,2,0
+Kyrgyzstan,Asia,08,8,4
+Kyrgyzstan,Asia,09,4,0
+Kyrgyzstan,Asia,10,6,0
+Kyrgyzstan,Asia,11,3,0
+Kyrgyzstan,Asia,12,2,0
+Kyrgyzstan,Asia,13,1,0
+Kyrgyzstan,Asia,14,2,0
+Kyrgyzstan,Asia,15,1,0
+Kyrgyzstan,Asia,16,1,1
+Kyrgyzstan,Asia,20,1,0
+Kyrgyzstan,Asia,21,1,0
+Kyrgyzstan,Asia,23,2,0
+La Réunion,Africa,00,4,1
+La Réunion,Africa,01,5,2
+La Réunion,Africa,02,7,1
+La Réunion,Africa,03,10,0
+La Réunion,Africa,04,6,0
+La Réunion,Africa,05,7,2
+La Réunion,Africa,06,6,0
+La Réunion,Africa,07,7,0
+La Réunion,Africa,08,5,0
+La Réunion,Africa,09,7,1
+La Réunion,Africa,10,8,0
+La Réunion,Africa,11,4,0
+La Réunion,Africa,12,5,0
+La Réunion,Africa,13,11,0
+La Réunion,Africa,14,12,1
+La Réunion,Africa,15,2,0
+La Réunion,Africa,16,1,0
+La Réunion,Africa,17,2,0
+La Réunion,Africa,18,1,0
+La Réunion,Africa,23,3,1
+Lao People's Democratic Republic,Asia,01,1,0
+Lao People's Democratic Republic,Asia,02,2,0
+Lao People's Democratic Republic,Asia,03,1,0
+Lao People's Democratic Republic,Asia,04,1,0
+Lao People's Democratic Republic,Asia,05,1,0
+Lao People's Democratic Republic,Asia,06,1,1
+Lao People's Democratic Republic,Asia,08,2,0
+Lao People's Democratic Republic,Asia,15,1,0
+Lao People's Democratic Republic,Asia,18,1,0
+Lao People's Democratic Republic,Asia,20,2,0
+Latvia,Europe,02,3,1
+Latvia,Europe,03,4,1
+Latvia,Europe,04,5,0
+Latvia,Europe,05,4,2
+Latvia,Europe,06,5,2
+Latvia,Europe,07,4,0
+Latvia,Europe,08,5,0
+Latvia,Europe,10,7,2
+Latvia,Europe,11,2,0
+Latvia,Europe,12,6,1
+Latvia,Europe,13,4,0
+Latvia,Europe,14,4,2
+Latvia,Europe,15,2,0
+Latvia,Europe,16,4,3
+Latvia,Europe,17,2,0
+Latvia,Europe,18,3,0
+Latvia,Europe,20,1,0
+Latvia,Europe,21,1,0
+Latvia,Europe,22,1,0
+Lebanon,Asia,00,6,0
+Lebanon,Asia,01,9,1
+Lebanon,Asia,02,12,0
+Lebanon,Asia,03,23,1
+Lebanon,Asia,04,34,1
+Lebanon,Asia,05,53,1
+Lebanon,Asia,06,36,1
+Lebanon,Asia,07,29,1
+Lebanon,Asia,08,38,1
+Lebanon,Asia,09,40,5
+Lebanon,Asia,10,36,1
+Lebanon,Asia,11,45,0
+Lebanon,Asia,12,26,1
+Lebanon,Asia,13,41,2
+Lebanon,Asia,14,52,0
+Lebanon,Asia,15,42,2
+Lebanon,Asia,16,51,3
+Lebanon,Asia,17,40,2
+Lebanon,Asia,18,40,2
+Lebanon,Asia,19,35,2
+Lebanon,Asia,20,11,0
+Lebanon,Asia,21,6,0
+Lebanon,Asia,22,3,0
+Lebanon,Asia,23,2,0
+Lesotho,Africa,00,1,0
+Lesotho,Africa,01,2,0
+Lesotho,Africa,02,6,4
+Lesotho,Africa,03,6,0
+Lesotho,Africa,04,6,0
+Lesotho,Africa,05,4,0
+Lesotho,Africa,06,6,0
+Lesotho,Africa,07,5,1
+Lesotho,Africa,08,3,1
+Lesotho,Africa,09,5,0
+Lesotho,Africa,10,2,0
+Lesotho,Africa,11,2,0
+Lesotho,Africa,12,2,1
+Lesotho,Africa,13,4,0
+Lesotho,Africa,14,1,0
+Lesotho,Africa,15,5,0
+Lesotho,Africa,16,4,0
+Lesotho,Africa,17,4,0
+Lesotho,Africa,19,1,0
+Lesotho,Africa,20,2,0
+Lesotho,Africa,21,1,0
+Liberia,Africa,00,1,0
+Liberia,Africa,02,1,0
+Liberia,Africa,03,2,0
+Liberia,Africa,04,1,0
+Liberia,Africa,05,3,0
+Liberia,Africa,06,2,0
+Liberia,Africa,07,3,0
+Liberia,Africa,09,1,0
+Liberia,Africa,10,3,0
+Liberia,Africa,11,3,1
+Liberia,Africa,12,5,0
+Liberia,Africa,13,1,0
+Liberia,Africa,14,3,0
+Liberia,Africa,15,2,0
+Liberia,Africa,17,4,0
+Liberia,Africa,18,1,0
+Liberia,Africa,19,5,1
+Liberia,Africa,21,3,0
+Liberia,Africa,22,4,0
+Liberia,Africa,23,1,0
+Libya,Africa,03,1,0
+Libya,Africa,04,1,0
+Libya,Africa,08,1,0
+Libya,Africa,10,4,0
+Libya,Africa,11,2,0
+Libya,Africa,12,3,0
+Libya,Africa,13,1,0
+Libya,Africa,14,2,0
+Libya,Africa,15,4,0
+Libya,Africa,16,5,1
+Libya,Africa,17,6,0
+Libya,Africa,18,6,0
+Libya,Africa,19,5,0
+Libya,Africa,20,4,0
+Libya,Africa,21,3,1
+Libya,Africa,22,5,1
+Libya,Africa,23,1,0
+Liechtenstein,Europe,03,2,0
+Liechtenstein,Europe,04,4,0
+Liechtenstein,Europe,05,3,0
+Liechtenstein,Europe,06,2,0
+Liechtenstein,Europe,07,4,0
+Liechtenstein,Europe,09,2,0
+Liechtenstein,Europe,10,5,0
+Liechtenstein,Europe,11,1,0
+Liechtenstein,Europe,12,1,0
+Liechtenstein,Europe,14,1,0
+Liechtenstein,Europe,15,2,0
+Liechtenstein,Europe,16,4,0
+Liechtenstein,Europe,17,2,0
+Liechtenstein,Europe,18,2,0
+Liechtenstein,Europe,20,3,0
+Liechtenstein,Europe,22,2,1
+Liechtenstein,Europe,23,2,0
+Lithuania,Europe,03,2,0
+Lithuania,Europe,05,6,0
+Lithuania,Europe,06,1,0
+Lithuania,Europe,07,1,0
+Lithuania,Europe,08,1,0
+Lithuania,Europe,09,7,0
+Lithuania,Europe,10,5,0
+Lithuania,Europe,11,5,0
+Lithuania,Europe,12,4,0
+Lithuania,Europe,13,2,0
+Lithuania,Europe,14,6,1
+Lithuania,Europe,15,6,0
+Lithuania,Europe,16,4,0
+Lithuania,Europe,17,5,0
+Lithuania,Europe,18,6,0
+Lithuania,Europe,19,6,0
+Lithuania,Europe,20,5,0
+Lithuania,Europe,21,1,0
+Luxembourg,Europe,01,1,0
+Luxembourg,Europe,02,1,1
+Luxembourg,Europe,03,4,0
+Luxembourg,Europe,04,8,1
+Luxembourg,Europe,05,7,0
+Luxembourg,Europe,06,1,0
+Luxembourg,Europe,07,9,0
+Luxembourg,Europe,08,5,0
+Luxembourg,Europe,09,3,0
+Luxembourg,Europe,10,8,1
+Luxembourg,Europe,11,4,0
+Luxembourg,Europe,12,3,0
+Luxembourg,Europe,13,5,0
+Luxembourg,Europe,14,8,1
+Luxembourg,Europe,15,3,0
+Luxembourg,Europe,16,8,0
+Luxembourg,Europe,17,4,0
+Luxembourg,Europe,18,19,10
+Luxembourg,Europe,19,4,0
+Luxembourg,Europe,20,3,0
+Luxembourg,Europe,21,1,0
+Macau,Asia,00,1,0
+Macau,Asia,03,1,0
+Macau,Asia,05,1,0
+Macau,Asia,07,1,0
+Macau,Asia,08,5,0
+Macau,Asia,10,1,0
+Macau,Asia,16,1,0
+Macau,Asia,17,1,0
+Macau,Asia,18,1,0
+Macau,Asia,20,1,0
+Madagascar,Africa,01,1,0
+Madagascar,Africa,02,2,0
+Madagascar,Africa,05,3,0
+Madagascar,Africa,08,1,0
+Madagascar,Africa,09,1,0
+Madagascar,Africa,11,4,0
+Madagascar,Africa,12,2,0
+Madagascar,Africa,13,1,0
+Madagascar,Africa,15,2,0
+Madagascar,Africa,16,2,1
+Madagascar,Africa,17,1,0
+Madagascar,Africa,18,3,1
+Madagascar,Africa,20,2,0
+Malawi,Africa,00,1,0
+Malawi,Africa,01,1,0
+Malawi,Africa,02,3,0
+Malawi,Africa,03,4,0
+Malawi,Africa,04,7,1
+Malawi,Africa,05,7,1
+Malawi,Africa,06,4,0
+Malawi,Africa,07,9,1
+Malawi,Africa,08,4,0
+Malawi,Africa,09,7,1
+Malawi,Africa,10,2,0
+Malawi,Africa,11,7,1
+Malawi,Africa,12,5,0
+Malawi,Africa,13,5,0
+Malawi,Africa,14,5,0
+Malawi,Africa,15,9,0
+Malawi,Africa,16,2,0
+Malawi,Africa,17,12,0
+Malawi,Africa,18,8,1
+Malawi,Africa,19,5,0
+Malawi,Africa,22,2,0
+Malaysia,Asia,00,225,17
+Malaysia,Asia,01,255,21
+Malaysia,Asia,02,208,15
+Malaysia,Asia,03,201,10
+Malaysia,Asia,04,209,19
+Malaysia,Asia,05,194,11
+Malaysia,Asia,06,189,13
+Malaysia,Asia,07,178,10
+Malaysia,Asia,08,117,13
+Malaysia,Asia,09,78,7
+Malaysia,Asia,10,65,1
+Malaysia,Asia,11,28,1
+Malaysia,Asia,12,35,5
+Malaysia,Asia,13,48,5
+Malaysia,Asia,14,63,6
+Malaysia,Asia,15,105,9
+Malaysia,Asia,16,137,6
+Malaysia,Asia,17,167,13
+Malaysia,Asia,18,192,11
+Malaysia,Asia,19,225,13
+Malaysia,Asia,20,218,15
+Malaysia,Asia,21,232,10
+Malaysia,Asia,22,182,11
+Malaysia,Asia,23,217,15
+Maldives,Asia,00,34,2
+Maldives,Asia,01,46,6
+Maldives,Asia,02,76,10
+Maldives,Asia,03,61,6
+Maldives,Asia,04,60,2
+Maldives,Asia,05,57,6
+Maldives,Asia,06,79,4
+Maldives,Asia,07,63,6
+Maldives,Asia,08,86,6
+Maldives,Asia,09,63,6
+Maldives,Asia,10,57,9
+Maldives,Asia,11,53,3
+Maldives,Asia,12,61,11
+Maldives,Asia,13,70,7
+Maldives,Asia,14,48,8
+Maldives,Asia,15,40,4
+Maldives,Asia,16,39,4
+Maldives,Asia,17,29,4
+Maldives,Asia,18,20,4
+Maldives,Asia,19,16,2
+Maldives,Asia,20,9,4
+Maldives,Asia,21,6,1
+Maldives,Asia,22,13,1
+Maldives,Asia,23,21,1
+Mali,Africa,00,1,0
+Mali,Africa,01,5,0
+Mali,Africa,02,2,0
+Mali,Africa,03,1,1
+Mali,Africa,06,1,0
+Mali,Africa,07,1,0
+Mali,Africa,08,4,0
+Mali,Africa,09,4,1
+Mali,Africa,10,8,0
+Mali,Africa,11,10,0
+Mali,Africa,12,13,0
+Mali,Africa,13,18,0
+Mali,Africa,14,15,0
+Mali,Africa,15,20,0
+Mali,Africa,16,19,0
+Mali,Africa,17,9,0
+Mali,Africa,18,6,1
+Mali,Africa,19,18,2
+Mali,Africa,20,21,1
+Mali,Africa,21,14,0
+Mali,Africa,22,9,1
+Mali,Africa,23,3,0
+Malta,Europe,02,5,0
+Malta,Europe,03,2,0
+Malta,Europe,04,10,2
+Malta,Europe,05,6,0
+Malta,Europe,06,13,2
+Malta,Europe,07,11,0
+Malta,Europe,08,6,0
+Malta,Europe,09,7,0
+Malta,Europe,10,6,0
+Malta,Europe,11,10,0
+Malta,Europe,12,5,2
+Malta,Europe,13,5,0
+Malta,Europe,14,3,0
+Malta,Europe,15,4,0
+Malta,Europe,16,7,0
+Malta,Europe,17,3,0
+Malta,Europe,18,4,0
+Malta,Europe,19,3,0
+Malta,Europe,20,2,0
+Malta,Europe,21,1,0
+Malta,Europe,23,1,0
+Marshall Islands,Oceania,05,1,0
+Martinique,North America,00,6,2
+Martinique,North America,01,5,3
+Martinique,North America,02,5,1
+Martinique,North America,04,5,1
+Martinique,North America,06,7,0
+Martinique,North America,07,3,0
+Martinique,North America,08,4,0
+Martinique,North America,09,4,0
+Martinique,North America,10,11,1
+Martinique,North America,11,16,2
+Martinique,North America,12,21,0
+Martinique,North America,13,19,4
+Martinique,North America,14,18,10
+Martinique,North America,15,7,1
+Martinique,North America,16,7,0
+Martinique,North America,17,6,0
+Martinique,North America,18,5,0
+Martinique,North America,19,4,0
+Martinique,North America,20,5,1
+Martinique,North America,21,5,1
+Martinique,North America,22,5,0
+Martinique,North America,23,4,0
+Mauritania,Africa,00,1,0
+Mauritania,Africa,02,1,1
+Mauritania,Africa,03,1,0
+Mauritania,Africa,08,1,0
+Mauritania,Africa,10,1,0
+Mauritania,Africa,11,1,0
+Mauritania,Africa,12,3,0
+Mauritania,Africa,14,1,0
+Mauritania,Africa,16,1,0
+Mauritania,Africa,17,1,0
+Mauritania,Africa,18,1,0
+Mauritania,Africa,20,4,0
+Mauritania,Africa,21,2,0
+Mauritania,Africa,23,2,0
+Mayotte,Africa,02,1,0
+Mayotte,Africa,05,1,0
+Mayotte,Africa,13,2,0
+Mayotte,Africa,16,1,0
+Mayotte,Africa,17,1,0
+Mexico,North America,00,175,11
+Mexico,North America,01,103,10
+Mexico,North America,02,56,6
+Mexico,North America,03,62,15
+Mexico,North America,04,105,9
+Mexico,North America,05,306,34
+Mexico,North America,06,440,40
+Mexico,North America,07,626,40
+Mexico,North America,08,842,42
+Mexico,North America,09,833,45
+Mexico,North America,10,1002,55
+Mexico,North America,11,893,51
+Mexico,North America,12,967,56
+Mexico,North America,13,831,51
+Mexico,North America,14,855,64
+Mexico,North America,15,835,65
+Mexico,North America,16,876,70
+Mexico,North America,17,1316,207
+Mexico,North America,18,1119,95
+Mexico,North America,19,1017,87
+Mexico,North America,20,922,70
+Mexico,North America,21,733,37
+Mexico,North America,22,496,47
+Mexico,North America,23,310,33
+Moldova,Europe,02,1,0
+Moldova,Europe,03,2,0
+Moldova,Europe,04,2,0
+Moldova,Europe,06,3,0
+Moldova,Europe,10,3,0
+Moldova,Europe,11,1,0
+Moldova,Europe,12,1,0
+Moldova,Europe,13,1,0
+Moldova,Europe,17,1,0
+Moldova,Europe,20,1,0
+Monaco,Europe,01,2,0
+Monaco,Europe,03,2,1
+Monaco,Europe,04,5,0
+Monaco,Europe,05,14,1
+Monaco,Europe,06,9,1
+Monaco,Europe,07,7,2
+Monaco,Europe,08,1,0
+Monaco,Europe,09,5,1
+Monaco,Europe,10,2,0
+Monaco,Europe,11,4,0
+Monaco,Europe,12,2,1
+Monaco,Europe,13,2,0
+Monaco,Europe,14,7,0
+Monaco,Europe,15,5,0
+Monaco,Europe,16,8,0
+Monaco,Europe,17,3,0
+Monaco,Europe,18,4,0
+Monaco,Europe,19,2,0
+Monaco,Europe,20,1,0
+Monaco,Europe,21,2,0
+Monaco,Europe,22,1,0
+Monaco,Europe,23,1,0
+Mongolia,Asia,00,5,0
+Mongolia,Asia,01,2,0
+Mongolia,Asia,02,2,0
+Mongolia,Asia,03,4,0
+Mongolia,Asia,04,4,0
+Mongolia,Asia,05,7,0
+Mongolia,Asia,06,1,0
+Mongolia,Asia,07,4,1
+Mongolia,Asia,08,3,1
+Mongolia,Asia,09,1,0
+Mongolia,Asia,10,3,0
+Mongolia,Asia,11,1,0
+Mongolia,Asia,12,3,0
+Mongolia,Asia,15,3,0
+Mongolia,Asia,16,1,0
+Mongolia,Asia,17,3,0
+Mongolia,Asia,18,1,0
+Mongolia,Asia,19,3,0
+Mongolia,Asia,20,6,0
+Mongolia,Asia,21,5,0
+Mongolia,Asia,22,5,0
+Mongolia,Asia,23,3,0
+Montenegro,Europe,04,2,0
+Montenegro,Europe,05,8,0
+Montenegro,Europe,06,14,0
+Montenegro,Europe,07,11,1
+Montenegro,Europe,08,8,1
+Montenegro,Europe,09,5,0
+Montenegro,Europe,10,6,0
+Montenegro,Europe,11,10,0
+Montenegro,Europe,12,9,0
+Montenegro,Europe,13,10,0
+Montenegro,Europe,14,7,0
+Montenegro,Europe,15,5,0
+Montenegro,Europe,16,7,0
+Montenegro,Europe,17,3,0
+Montenegro,Europe,18,6,0
+Montenegro,Europe,19,3,0
+Montenegro,Europe,22,1,0
+Morocco,Africa,00,7,1
+Morocco,Africa,01,2,0
+Morocco,Africa,02,4,2
+Morocco,Africa,03,2,0
+Morocco,Africa,04,3,0
+Morocco,Africa,06,5,0
+Morocco,Africa,07,10,2
+Morocco,Africa,08,10,1
+Morocco,Africa,09,21,2
+Morocco,Africa,10,14,0
+Morocco,Africa,11,22,3
+Morocco,Africa,12,23,0
+Morocco,Africa,13,15,3
+Morocco,Africa,14,19,2
+Morocco,Africa,15,16,0
+Morocco,Africa,16,25,0
+Morocco,Africa,17,22,1
+Morocco,Africa,18,20,3
+Morocco,Africa,19,22,2
+Morocco,Africa,20,20,1
+Morocco,Africa,21,16,4
+Morocco,Africa,22,13,0
+Morocco,Africa,23,14,1
+Myanmar,Asia,00,2,0
+Myanmar,Asia,01,3,0
+Myanmar,Asia,02,6,1
+Myanmar,Asia,03,4,0
+Myanmar,Asia,04,2,0
+Myanmar,Asia,05,6,1
+Myanmar,Asia,06,3,0
+Myanmar,Asia,07,8,3
+Myanmar,Asia,08,6,2
+Myanmar,Asia,09,3,0
+Myanmar,Asia,10,2,0
+Myanmar,Asia,11,8,0
+Myanmar,Asia,12,2,0
+Myanmar,Asia,13,1,0
+Myanmar,Asia,14,1,0
+Myanmar,Asia,17,1,1
+Myanmar,Asia,18,1,0
+Myanmar,Asia,20,4,0
+Myanmar,Asia,21,2,0
+Myanmar,Asia,22,7,0
+Myanmar,Asia,23,3,0
+Nepal,Asia,00,53,5
+Nepal,Asia,01,39,3
+Nepal,Asia,02,37,3
+Nepal,Asia,03,28,3
+Nepal,Asia,04,23,2
+Nepal,Asia,05,35,2
+Nepal,Asia,06,34,0
+Nepal,Asia,07,33,1
+Nepal,Asia,08,61,4
+Nepal,Asia,09,59,3
+Nepal,Asia,10,49,1
+Nepal,Asia,11,44,5
+Nepal,Asia,12,25,2
+Nepal,Asia,13,18,1
+Nepal,Asia,14,4,0
+Nepal,Asia,15,2,1
+Nepal,Asia,16,3,1
+Nepal,Asia,17,4,2
+Nepal,Asia,18,4,0
+Nepal,Asia,19,25,5
+Nepal,Asia,20,54,22
+Nepal,Asia,21,52,6
+Nepal,Asia,22,36,2
+Nepal,Asia,23,45,1
+New Caledonia,Oceania,00,1,0
+New Caledonia,Oceania,01,2,0
+New Caledonia,Oceania,02,1,0
+New Caledonia,Oceania,08,1,0
+New Caledonia,Oceania,09,1,0
+New Caledonia,Oceania,10,2,0
+New Caledonia,Oceania,11,1,0
+New Caledonia,Oceania,12,2,0
+New Caledonia,Oceania,13,3,0
+New Caledonia,Oceania,16,1,0
+New Caledonia,Oceania,19,2,0
+New Caledonia,Oceania,20,2,0
+New Caledonia,Oceania,21,3,0
+New Zealand,Oceania,00,12,3
+New Zealand,Oceania,01,13,3
+New Zealand,Oceania,02,9,2
+New Zealand,Oceania,03,11,0
+New Zealand,Oceania,04,9,0
+New Zealand,Oceania,05,9,0
+New Zealand,Oceania,06,34,6
+New Zealand,Oceania,07,62,10
+New Zealand,Oceania,08,85,16
+New Zealand,Oceania,09,63,9
+New Zealand,Oceania,10,81,21
+New Zealand,Oceania,11,65,12
+New Zealand,Oceania,12,111,55
+New Zealand,Oceania,13,416,309
+New Zealand,Oceania,14,107,45
+New Zealand,Oceania,15,55,9
+New Zealand,Oceania,16,99,45
+New Zealand,Oceania,17,53,7
+New Zealand,Oceania,18,67,4
+New Zealand,Oceania,19,55,6
+New Zealand,Oceania,20,61,8
+New Zealand,Oceania,21,42,6
+New Zealand,Oceania,22,57,11
+New Zealand,Oceania,23,27,5
+Nicaragua,North America,00,3,0
+Nicaragua,North America,01,4,0
+Nicaragua,North America,02,4,0
+Nicaragua,North America,03,1,0
+Nicaragua,North America,04,1,0
+Nicaragua,North America,05,1,0
+Nicaragua,North America,06,11,0
+Nicaragua,North America,07,11,3
+Nicaragua,North America,08,23,11
+Nicaragua,North America,09,41,18
+Nicaragua,North America,10,38,5
+Nicaragua,North America,11,54,3
+Nicaragua,North America,12,33,4
+Nicaragua,North America,13,32,6
+Nicaragua,North America,14,22,7
+Nicaragua,North America,15,17,3
+Nicaragua,North America,16,18,2
+Nicaragua,North America,17,23,2
+Nicaragua,North America,18,32,6
+Nicaragua,North America,19,24,4
+Nicaragua,North America,20,15,1
+Nicaragua,North America,21,22,6
+Nicaragua,North America,22,23,3
+Nicaragua,North America,23,19,2
+Niger,Africa,00,2,1
+Niger,Africa,05,1,0
+Niger,Africa,06,3,1
+Niger,Africa,07,2,0
+Niger,Africa,08,5,0
+Niger,Africa,09,5,0
+Niger,Africa,10,3,0
+Niger,Africa,11,4,0
+Niger,Africa,12,1,0
+Niger,Africa,13,2,1
+Niger,Africa,14,2,1
+Niger,Africa,15,3,1
+Niger,Africa,16,4,0
+Niger,Africa,17,3,2
+Niger,Africa,18,6,0
+Niger,Africa,19,10,0
+Niger,Africa,20,3,0
+Niger,Africa,21,3,1
+Niger,Africa,22,3,1
+Niger,Africa,23,2,0
+Nigeria,Africa,00,171,20
+Nigeria,Africa,01,131,19
+Nigeria,Africa,02,141,20
+Nigeria,Africa,03,159,18
+Nigeria,Africa,04,284,31
+Nigeria,Africa,05,501,61
+Nigeria,Africa,06,705,87
+Nigeria,Africa,07,812,92
+Nigeria,Africa,08,684,78
+Nigeria,Africa,09,695,92
+Nigeria,Africa,10,749,92
+Nigeria,Africa,11,691,105
+Nigeria,Africa,12,690,104
+Nigeria,Africa,13,705,113
+Nigeria,Africa,14,760,98
+Nigeria,Africa,15,733,110
+Nigeria,Africa,16,698,96
+Nigeria,Africa,17,794,118
+Nigeria,Africa,18,785,104
+Nigeria,Africa,19,725,71
+Nigeria,Africa,20,688,89
+Nigeria,Africa,21,713,87
+Nigeria,Africa,22,557,60
+Nigeria,Africa,23,316,57
+North Korea,Asia,17,1,0
+North Korea,Asia,18,1,0
+North Korea,Asia,23,1,0
+Northern Mariana Islands,Oceania,15,2,0
+Northern Mariana Islands,Oceania,17,1,0
+Northern Mariana Islands,Oceania,19,1,0
+Northern Mariana Islands,Oceania,22,1,1
+Norway,Europe,00,3,0
+Norway,Europe,01,3,0
+Norway,Europe,02,2,0
+Norway,Europe,03,5,0
+Norway,Europe,04,7,0
+Norway,Europe,05,23,3
+Norway,Europe,06,21,0
+Norway,Europe,07,19,0
+Norway,Europe,08,9,0
+Norway,Europe,09,26,2
+Norway,Europe,10,14,1
+Norway,Europe,11,30,2
+Norway,Europe,12,15,0
+Norway,Europe,13,18,2
+Norway,Europe,14,14,1
+Norway,Europe,15,24,1
+Norway,Europe,16,13,0
+Norway,Europe,17,14,0
+Norway,Europe,18,30,20
+Norway,Europe,19,8,3
+Norway,Europe,20,8,1
+Norway,Europe,21,8,1
+Norway,Europe,22,2,0
+Norway,Europe,23,4,1
+Oman,Asia,00,11,2
+Oman,Asia,01,42,1
+Oman,Asia,02,25,1
+Oman,Asia,03,22,1
+Oman,Asia,04,24,1
+Oman,Asia,05,18,1
+Oman,Asia,06,20,1
+Oman,Asia,07,21,1
+Oman,Asia,08,13,2
+Oman,Asia,09,18,1
+Oman,Asia,10,27,0
+Oman,Asia,11,17,2
+Oman,Asia,12,25,1
+Oman,Asia,13,12,1
+Oman,Asia,14,14,1
+Oman,Asia,15,15,0
+Oman,Asia,16,11,1
+Oman,Asia,17,8,0
+Oman,Asia,18,10,0
+Oman,Asia,19,3,0
+Oman,Asia,20,6,0
+Oman,Asia,21,9,0
+Oman,Asia,22,11,0
+Oman,Asia,23,4,1
+Pakistan,Asia,00,216,14
+Pakistan,Asia,01,234,17
+Pakistan,Asia,02,307,16
+Pakistan,Asia,03,360,18
+Pakistan,Asia,04,282,16
+Pakistan,Asia,05,340,19
+Pakistan,Asia,06,407,21
+Pakistan,Asia,07,332,24
+Pakistan,Asia,08,335,19
+Pakistan,Asia,09,415,25
+Pakistan,Asia,10,415,35
+Pakistan,Asia,11,395,26
+Pakistan,Asia,12,390,25
+Pakistan,Asia,13,372,26
+Pakistan,Asia,14,373,27
+Pakistan,Asia,15,270,17
+Pakistan,Asia,16,164,12
+Pakistan,Asia,17,141,11
+Pakistan,Asia,18,143,15
+Pakistan,Asia,19,150,30
+Pakistan,Asia,20,119,11
+Pakistan,Asia,21,90,7
+Pakistan,Asia,22,130,6
+Pakistan,Asia,23,142,8
+Palau,Oceania,11,1,0
+Palau,Oceania,12,1,0
+Palau,Oceania,13,2,0
+Palau,Oceania,16,2,1
+Palau,Oceania,17,1,0
+Panama,North America,00,28,1
+Panama,North America,01,10,1
+Panama,North America,02,3,0
+Panama,North America,03,1,0
+Panama,North America,04,4,0
+Panama,North America,05,5,1
+Panama,North America,06,31,0
+Panama,North America,07,34,2
+Panama,North America,08,60,4
+Panama,North America,09,81,7
+Panama,North America,10,87,4
+Panama,North America,11,87,3
+Panama,North America,12,75,4
+Panama,North America,13,76,3
+Panama,North America,14,96,6
+Panama,North America,15,102,3
+Panama,North America,16,89,12
+Panama,North America,17,97,4
+Panama,North America,18,436,7
+Panama,North America,19,387,3
+Panama,North America,20,147,3
+Panama,North America,21,39,3
+Panama,North America,22,37,4
+Panama,North America,23,35,3
+Papua New Guinea,Oceania,00,4,0
+Papua New Guinea,Oceania,01,3,1
+Papua New Guinea,Oceania,02,1,0
+Papua New Guinea,Oceania,05,2,0
+Papua New Guinea,Oceania,06,1,0
+Papua New Guinea,Oceania,07,2,0
+Papua New Guinea,Oceania,11,3,1
+Papua New Guinea,Oceania,12,1,0
+Papua New Guinea,Oceania,13,1,0
+Papua New Guinea,Oceania,14,4,0
+Papua New Guinea,Oceania,15,1,0
+Papua New Guinea,Oceania,16,2,0
+Papua New Guinea,Oceania,17,2,0
+Papua New Guinea,Oceania,18,1,0
+Papua New Guinea,Oceania,19,2,0
+Papua New Guinea,Oceania,20,1,0
+Papua New Guinea,Oceania,21,4,0
+Papua New Guinea,Oceania,23,2,0
+Paraguay,South America,00,25,5
+Paraguay,South America,01,11,2
+Paraguay,South America,02,6,2
+Paraguay,South America,03,4,0
+Paraguay,South America,04,7,1
+Paraguay,South America,05,9,3
+Paraguay,South America,06,23,2
+Paraguay,South America,07,64,10
+Paraguay,South America,08,61,6
+Paraguay,South America,09,66,10
+Paraguay,South America,10,66,13
+Paraguay,South America,11,69,1
+Paraguay,South America,12,70,10
+Paraguay,South America,13,57,3
+Paraguay,South America,14,53,8
+Paraguay,South America,15,57,10
+Paraguay,South America,16,48,7
+Paraguay,South America,17,52,7
+Paraguay,South America,18,46,2
+Paraguay,South America,19,62,6
+Paraguay,South America,20,117,10
+Paraguay,South America,21,116,6
+Paraguay,South America,22,76,5
+Paraguay,South America,23,49,4
+People's Republic of China,Asia,00,59,6
+People's Republic of China,Asia,01,63,4
+People's Republic of China,Asia,02,80,6
+People's Republic of China,Asia,03,71,2
+People's Republic of China,Asia,04,120,8
+People's Republic of China,Asia,05,90,4
+People's Republic of China,Asia,06,99,11
+People's Republic of China,Asia,07,95,4
+People's Republic of China,Asia,08,81,4
+People's Republic of China,Asia,09,78,4
+People's Republic of China,Asia,10,36,2
+People's Republic of China,Asia,11,29,1
+People's Republic of China,Asia,12,30,2
+People's Republic of China,Asia,13,15,1
+People's Republic of China,Asia,14,18,3
+People's Republic of China,Asia,15,29,2
+People's Republic of China,Asia,16,75,7
+People's Republic of China,Asia,17,52,4
+People's Republic of China,Asia,18,70,5
+People's Republic of China,Asia,19,63,2
+People's Republic of China,Asia,20,75,3
+People's Republic of China,Asia,21,80,10
+People's Republic of China,Asia,22,67,6
+People's Republic of China,Asia,23,92,8
+Peru,South America,00,79,9
+Peru,South America,01,54,9
+Peru,South America,02,37,9
+Peru,South America,03,21,2
+Peru,South America,04,13,1
+Peru,South America,05,26,3
+Peru,South America,06,59,4
+Peru,South America,07,92,11
+Peru,South America,08,158,17
+Peru,South America,09,143,17
+Peru,South America,10,152,14
+Peru,South America,11,189,26
+Peru,South America,12,243,24
+Peru,South America,13,267,32
+Peru,South America,14,198,25
+Peru,South America,15,168,29
+Peru,South America,16,155,28
+Peru,South America,17,137,20
+Peru,South America,18,162,15
+Peru,South America,19,129,16
+Peru,South America,20,141,10
+Peru,South America,21,168,24
+Peru,South America,22,135,23
+Peru,South America,23,107,11
+Poland,Europe,00,4,0
+Poland,Europe,01,3,0
+Poland,Europe,02,26,1
+Poland,Europe,03,49,2
+Poland,Europe,04,70,6
+Poland,Europe,05,63,5
+Poland,Europe,06,87,5
+Poland,Europe,07,56,2
+Poland,Europe,08,57,4
+Poland,Europe,09,60,2
+Poland,Europe,10,63,10
+Poland,Europe,11,63,6
+Poland,Europe,12,59,6
+Poland,Europe,13,52,4
+Poland,Europe,14,53,3
+Poland,Europe,15,79,9
+Poland,Europe,16,74,8
+Poland,Europe,17,74,6
+Poland,Europe,18,51,5
+Poland,Europe,19,43,7
+Poland,Europe,20,25,3
+Poland,Europe,21,10,0
+Poland,Europe,22,8,0
+Poland,Europe,23,2,0
+Portugal,Europe,00,10,1
+Portugal,Europe,01,6,1
+Portugal,Europe,02,23,10
+Portugal,Europe,03,9,0
+Portugal,Europe,04,5,0
+Portugal,Europe,05,4,2
+Portugal,Europe,06,13,0
+Portugal,Europe,07,32,0
+Portugal,Europe,08,28,1
+Portugal,Europe,09,32,2
+Portugal,Europe,10,52,4
+Portugal,Europe,11,59,1
+Portugal,Europe,12,62,1
+Portugal,Europe,13,58,1
+Portugal,Europe,14,52,1
+Portugal,Europe,15,49,1
+Portugal,Europe,16,43,1
+Portugal,Europe,17,54,3
+Portugal,Europe,18,67,7
+Portugal,Europe,19,51,6
+Portugal,Europe,20,37,1
+Portugal,Europe,21,55,3
+Portugal,Europe,22,31,2
+Portugal,Europe,23,15,0
+Puerto Rico,North America,00,1,1
+Puerto Rico,North America,02,1,0
+Puerto Rico,North America,05,1,0
+Puerto Rico,North America,06,1,0
+Puerto Rico,North America,07,1,0
+Puerto Rico,North America,09,2,0
+Puerto Rico,North America,10,1,0
+Puerto Rico,North America,11,3,0
+Puerto Rico,North America,13,2,1
+Puerto Rico,North America,14,3,3
+Puerto Rico,North America,15,2,0
+Puerto Rico,North America,16,1,0
+Puerto Rico,North America,19,1,0
+Puerto Rico,North America,20,1,0
+Puerto Rico,North America,23,2,0
+Qatar,Asia,00,16,2
+Qatar,Asia,01,9,1
+Qatar,Asia,02,22,0
+Qatar,Asia,03,23,2
+Qatar,Asia,04,35,2
+Qatar,Asia,05,48,3
+Qatar,Asia,06,39,2
+Qatar,Asia,07,37,6
+Qatar,Asia,08,45,10
+Qatar,Asia,09,41,1
+Qatar,Asia,10,40,1
+Qatar,Asia,11,23,2
+Qatar,Asia,12,54,7
+Qatar,Asia,13,42,3
+Qatar,Asia,14,43,2
+Qatar,Asia,15,41,1
+Qatar,Asia,16,40,1
+Qatar,Asia,17,33,2
+Qatar,Asia,18,27,0
+Qatar,Asia,19,17,2
+Qatar,Asia,20,13,0
+Qatar,Asia,21,9,0
+Qatar,Asia,22,9,1
+Qatar,Asia,23,13,2
+Republic of Belarus,Europe,04,4,0
+Republic of Belarus,Europe,05,3,0
+Republic of Belarus,Europe,06,3,0
+Republic of Belarus,Europe,07,3,0
+Republic of Belarus,Europe,09,4,0
+Republic of Belarus,Europe,10,1,0
+Republic of Belarus,Europe,12,4,0
+Republic of Belarus,Europe,13,2,0
+Republic of Belarus,Europe,14,5,0
+Republic of Belarus,Europe,15,7,0
+Republic of Belarus,Europe,16,4,0
+Republic of Belarus,Europe,18,5,0
+Republic of Belarus,Europe,19,3,0
+Republic of Belarus,Europe,20,1,0
+Republic of Belarus,Europe,22,1,0
+Republic of Croatia,Europe,00,2,0
+Republic of Croatia,Europe,02,1,0
+Republic of Croatia,Europe,03,5,1
+Republic of Croatia,Europe,04,6,0
+Republic of Croatia,Europe,05,17,1
+Republic of Croatia,Europe,06,11,2
+Republic of Croatia,Europe,07,18,1
+Republic of Croatia,Europe,08,15,1
+Republic of Croatia,Europe,09,8,1
+Republic of Croatia,Europe,10,15,1
+Republic of Croatia,Europe,11,12,3
+Republic of Croatia,Europe,12,9,0
+Republic of Croatia,Europe,13,3,0
+Republic of Croatia,Europe,14,8,0
+Republic of Croatia,Europe,15,18,2
+Republic of Croatia,Europe,16,16,3
+Republic of Croatia,Europe,17,7,2
+Republic of Croatia,Europe,18,8,0
+Republic of Croatia,Europe,19,4,0
+Republic of Croatia,Europe,20,1,0
+Republic of Croatia,Europe,21,3,1
+Republic of Croatia,Europe,22,1,0
+Republic of Korea,Asia,00,9,0
+Republic of Korea,Asia,01,7,0
+Republic of Korea,Asia,02,12,2
+Republic of Korea,Asia,03,10,0
+Republic of Korea,Asia,04,13,0
+Republic of Korea,Asia,05,12,1
+Republic of Korea,Asia,06,14,0
+Republic of Korea,Asia,07,7,1
+Republic of Korea,Asia,08,3,0
+Republic of Korea,Asia,09,5,1
+Republic of Korea,Asia,10,6,1
+Republic of Korea,Asia,11,4,0
+Republic of Korea,Asia,12,6,0
+Republic of Korea,Asia,13,9,0
+Republic of Korea,Asia,14,5,0
+Republic of Korea,Asia,15,20,2
+Republic of Korea,Asia,16,25,4
+Republic of Korea,Asia,17,22,2
+Republic of Korea,Asia,18,18,2
+Republic of Korea,Asia,19,12,3
+Republic of Korea,Asia,20,20,3
+Republic of Korea,Asia,21,14,3
+Republic of Korea,Asia,22,15,0
+Republic of Korea,Asia,23,15,1
+Republic of Mauritius,Africa,00,1,0
+Republic of Mauritius,Africa,01,3,0
+Republic of Mauritius,Africa,02,2,0
+Republic of Mauritius,Africa,03,1,0
+Republic of Mauritius,Africa,04,2,0
+Republic of Mauritius,Africa,05,3,1
+Republic of Mauritius,Africa,07,1,0
+Republic of Mauritius,Africa,09,10,0
+Republic of Mauritius,Africa,10,22,0
+Republic of Mauritius,Africa,11,3,0
+Republic of Mauritius,Africa,12,2,0
+Republic of Mauritius,Africa,13,2,0
+Republic of Mauritius,Africa,14,3,0
+Republic of Mauritius,Africa,15,2,0
+Republic of Mauritius,Africa,16,2,0
+Republic of Mauritius,Africa,17,2,0
+Republic of Mauritius,Africa,19,1,0
+Republic of Mozambique,Africa,01,1,0
+Republic of Mozambique,Africa,02,1,0
+Republic of Mozambique,Africa,03,3,0
+Republic of Mozambique,Africa,04,3,0
+Republic of Mozambique,Africa,05,5,0
+Republic of Mozambique,Africa,06,3,0
+Republic of Mozambique,Africa,07,1,0
+Republic of Mozambique,Africa,08,6,0
+Republic of Mozambique,Africa,09,5,0
+Republic of Mozambique,Africa,10,1,0
+Republic of Mozambique,Africa,11,3,0
+Republic of Mozambique,Africa,12,5,0
+Republic of Mozambique,Africa,13,3,0
+Republic of Mozambique,Africa,14,4,1
+Republic of Mozambique,Africa,15,3,0
+Republic of Mozambique,Africa,16,7,1
+Republic of Mozambique,Africa,17,3,0
+Republic of Mozambique,Africa,18,1,0
+Republic of Mozambique,Africa,19,1,0
+Republic of Mozambique,Africa,21,1,0
+Republic of Mozambique,Africa,23,4,0
+Republic of Serbia,Europe,00,1,0
+Republic of Serbia,Europe,01,6,4
+Republic of Serbia,Europe,02,8,0
+Republic of Serbia,Europe,03,24,2
+Republic of Serbia,Europe,04,19,1
+Republic of Serbia,Europe,05,24,2
+Republic of Serbia,Europe,06,34,2
+Republic of Serbia,Europe,07,38,2
+Republic of Serbia,Europe,08,23,4
+Republic of Serbia,Europe,09,28,2
+Republic of Serbia,Europe,10,22,2
+Republic of Serbia,Europe,11,41,4
+Republic of Serbia,Europe,12,24,5
+Republic of Serbia,Europe,13,36,3
+Republic of Serbia,Europe,14,28,4
+Republic of Serbia,Europe,15,32,2
+Republic of Serbia,Europe,16,27,5
+Republic of Serbia,Europe,17,21,4
+Republic of Serbia,Europe,18,43,6
+Republic of Serbia,Europe,19,21,5
+Republic of Serbia,Europe,20,13,3
+Republic of Serbia,Europe,21,9,5
+Republic of Serbia,Europe,22,5,2
+Republic of Slovenia,Europe,02,2,1
+Republic of Slovenia,Europe,03,3,1
+Republic of Slovenia,Europe,04,11,0
+Republic of Slovenia,Europe,05,11,0
+Republic of Slovenia,Europe,06,9,0
+Republic of Slovenia,Europe,07,7,0
+Republic of Slovenia,Europe,08,11,1
+Republic of Slovenia,Europe,09,11,0
+Republic of Slovenia,Europe,10,8,0
+Republic of Slovenia,Europe,11,11,0
+Republic of Slovenia,Europe,12,4,1
+Republic of Slovenia,Europe,13,15,2
+Republic of Slovenia,Europe,14,15,1
+Republic of Slovenia,Europe,15,11,2
+Republic of Slovenia,Europe,16,7,0
+Republic of Slovenia,Europe,17,6,0
+Republic of Slovenia,Europe,18,4,0
+Republic of Slovenia,Europe,19,6,0
+Republic of Slovenia,Europe,20,5,0
+Republic of the Philippines,Asia,00,199,10
+Republic of the Philippines,Asia,01,123,7
+Republic of the Philippines,Asia,02,178,5
+Republic of the Philippines,Asia,03,148,12
+Republic of the Philippines,Asia,04,156,4
+Republic of the Philippines,Asia,05,169,9
+Republic of the Philippines,Asia,06,126,17
+Republic of the Philippines,Asia,07,123,6
+Republic of the Philippines,Asia,08,101,7
+Republic of the Philippines,Asia,09,68,5
+Republic of the Philippines,Asia,10,55,6
+Republic of the Philippines,Asia,11,28,2
+Republic of the Philippines,Asia,12,45,2
+Republic of the Philippines,Asia,13,27,2
+Republic of the Philippines,Asia,14,68,4
+Republic of the Philippines,Asia,15,75,6
+Republic of the Philippines,Asia,16,122,5
+Republic of the Philippines,Asia,17,184,12
+Republic of the Philippines,Asia,18,185,11
+Republic of the Philippines,Asia,19,171,13
+Republic of the Philippines,Asia,20,165,9
+Republic of the Philippines,Asia,21,192,20
+Republic of the Philippines,Asia,22,156,6
+Republic of the Philippines,Asia,23,125,5
+Romania,Europe,00,1,1
+Romania,Europe,01,2,1
+Romania,Europe,02,6,2
+Romania,Europe,03,11,1
+Romania,Europe,04,10,4
+Romania,Europe,05,11,4
+Romania,Europe,06,10,5
+Romania,Europe,07,10,2
+Romania,Europe,08,8,0
+Romania,Europe,09,10,1
+Romania,Europe,10,9,0
+Romania,Europe,11,8,0
+Romania,Europe,12,5,0
+Romania,Europe,13,12,1
+Romania,Europe,14,10,1
+Romania,Europe,15,12,2
+Romania,Europe,16,9,1
+Romania,Europe,17,11,1
+Romania,Europe,18,4,0
+Romania,Europe,19,4,1
+Romania,Europe,20,2,0
+Romania,Europe,21,1,0
+Romania,Europe,22,1,0
+Romania,Europe,23,2,1
+Russia,Europe,00,57,0
+Russia,Europe,01,53,3
+Russia,Europe,02,56,4
+Russia,Europe,03,39,1
+Russia,Europe,04,45,2
+Russia,Europe,05,49,1
+Russia,Europe,06,42,1
+Russia,Europe,07,38,0
+Russia,Europe,08,38,3
+Russia,Europe,09,31,0
+Russia,Europe,10,26,1
+Russia,Europe,11,11,0
+Russia,Europe,12,9,0
+Russia,Europe,13,8,0
+Russia,Europe,14,12,0
+Russia,Europe,15,14,2
+Russia,Europe,16,18,0
+Russia,Europe,17,23,0
+Russia,Europe,18,34,4
+Russia,Europe,19,42,8
+Russia,Europe,20,65,5
+Russia,Europe,21,28,1
+Russia,Europe,22,47,5
+Russia,Europe,23,41,2
+Rwanda,Africa,00,3,1
+Rwanda,Africa,01,7,1
+Rwanda,Africa,02,13,2
+Rwanda,Africa,03,21,3
+Rwanda,Africa,04,37,2
+Rwanda,Africa,05,30,6
+Rwanda,Africa,06,24,4
+Rwanda,Africa,07,20,6
+Rwanda,Africa,08,28,3
+Rwanda,Africa,09,35,6
+Rwanda,Africa,10,30,3
+Rwanda,Africa,11,26,3
+Rwanda,Africa,12,23,2
+Rwanda,Africa,13,24,9
+Rwanda,Africa,14,26,2
+Rwanda,Africa,15,54,6
+Rwanda,Africa,16,68,11
+Rwanda,Africa,17,41,7
+Rwanda,Africa,18,42,10
+Rwanda,Africa,19,37,7
+Rwanda,Africa,20,23,3
+Rwanda,Africa,21,7,0
+Rwanda,Africa,22,1,0
+Rwanda,Africa,23,3,1
+Saint Barthélemy,North America,19,1,0
+Saint Kitts and Nevis,North America,07,1,0
+Saint Kitts and Nevis,North America,10,2,0
+Saint Kitts and Nevis,North America,12,1,0
+Saint Kitts and Nevis,North America,15,1,0
+Saint Kitts and Nevis,North America,17,1,0
+Saint Kitts and Nevis,North America,22,2,1
+Saint Lucia,North America,00,2,0
+Saint Lucia,North America,10,1,0
+Saint Lucia,North America,13,1,0
+Saint Lucia,North America,15,1,0
+Saint Lucia,North America,16,1,0
+Saint Lucia,North America,19,2,0
+Saint Lucia,North America,20,1,0
+Saint Lucia,North America,21,2,0
+Saint Lucia,North America,23,2,0
+Saint Martin,North America,04,1,0
+Saint Martin,North America,11,1,0
+Saint Martin,North America,13,1,0
+Saint Martin,North America,14,1,0
+Saint Martin,North America,16,1,0
+Saint Martin,North America,20,1,0
+Saint Martin,North America,21,1,0
+Saint Pierre and Miquelon,North America,15,1,0
+Saint Pierre and Miquelon,North America,18,1,1
+Saint Pierre and Miquelon,North America,23,1,0
+Saint Vincent and the Grenadines,North America,02,1,0
+Saint Vincent and the Grenadines,North America,07,1,0
+Saint Vincent and the Grenadines,North America,11,1,0
+Saint Vincent and the Grenadines,North America,13,1,0
+Saint Vincent and the Grenadines,North America,18,1,1
+Samoa,Oceania,11,1,0
+Samoa,Oceania,17,1,0
+San Marino,Europe,16,1,0
+San Marino,Europe,18,1,0
+Senegal,Africa,00,18,1
+Senegal,Africa,01,12,0
+Senegal,Africa,02,11,1
+Senegal,Africa,03,4,0
+Senegal,Africa,04,1,0
+Senegal,Africa,05,2,1
+Senegal,Africa,06,6,1
+Senegal,Africa,07,11,0
+Senegal,Africa,08,16,1
+Senegal,Africa,09,17,0
+Senegal,Africa,10,105,1
+Senegal,Africa,11,26,2
+Senegal,Africa,12,33,1
+Senegal,Africa,13,30,0
+Senegal,Africa,14,27,1
+Senegal,Africa,15,31,5
+Senegal,Africa,16,30,0
+Senegal,Africa,17,22,1
+Senegal,Africa,18,27,4
+Senegal,Africa,19,20,1
+Senegal,Africa,20,36,1
+Senegal,Africa,21,33,2
+Senegal,Africa,22,25,2
+Senegal,Africa,23,13,0
+Seychelles,Africa,00,1,0
+Seychelles,Africa,05,3,1
+Seychelles,Africa,06,1,0
+Seychelles,Africa,08,5,1
+Seychelles,Africa,09,1,0
+Seychelles,Africa,11,2,0
+Seychelles,Africa,13,1,0
+Seychelles,Africa,19,1,0
+Seychelles,Africa,23,5,0
+Sierra Leone,Africa,00,7,1
+Sierra Leone,Africa,01,2,0
+Sierra Leone,Africa,02,1,0
+Sierra Leone,Africa,03,1,0
+Sierra Leone,Africa,04,3,0
+Sierra Leone,Africa,05,1,0
+Sierra Leone,Africa,06,4,0
+Sierra Leone,Africa,07,5,0
+Sierra Leone,Africa,08,6,0
+Sierra Leone,Africa,09,9,2
+Sierra Leone,Africa,10,20,6
+Sierra Leone,Africa,11,28,3
+Sierra Leone,Africa,12,23,4
+Sierra Leone,Africa,13,12,0
+Sierra Leone,Africa,14,23,5
+Sierra Leone,Africa,15,18,1
+Sierra Leone,Africa,16,14,4
+Sierra Leone,Africa,17,11,2
+Sierra Leone,Africa,18,18,0
+Sierra Leone,Africa,19,19,2
+Sierra Leone,Africa,20,15,2
+Sierra Leone,Africa,21,24,3
+Sierra Leone,Africa,22,9,0
+Sierra Leone,Africa,23,8,1
+Singapore,Asia,00,62,3
+Singapore,Asia,01,52,4
+Singapore,Asia,02,39,1
+Singapore,Asia,03,48,2
+Singapore,Asia,04,54,6
+Singapore,Asia,05,41,3
+Singapore,Asia,06,51,6
+Singapore,Asia,07,58,3
+Singapore,Asia,08,38,3
+Singapore,Asia,09,23,1
+Singapore,Asia,10,11,1
+Singapore,Asia,11,9,0
+Singapore,Asia,12,4,0
+Singapore,Asia,13,5,0
+Singapore,Asia,14,10,0
+Singapore,Asia,15,26,1
+Singapore,Asia,16,46,1
+Singapore,Asia,17,52,2
+Singapore,Asia,18,58,2
+Singapore,Asia,19,51,4
+Singapore,Asia,20,63,5
+Singapore,Asia,21,59,7
+Singapore,Asia,22,61,3
+Singapore,Asia,23,52,6
+Sint Maarten,North America,00,1,0
+Sint Maarten,North America,08,1,0
+Sint Maarten,North America,12,2,0
+Sint Maarten,North America,13,1,0
+Sint Maarten,North America,14,3,0
+Sint Maarten,North America,15,1,0
+Sint Maarten,North America,16,1,0
+Sint Maarten,North America,18,1,0
+Sint Maarten,North America,20,1,0
+Sint Maarten,North America,22,1,0
+Slovak Republic,Europe,04,3,0
+Slovak Republic,Europe,05,1,0
+Slovak Republic,Europe,06,5,1
+Slovak Republic,Europe,07,8,2
+Slovak Republic,Europe,08,3,1
+Slovak Republic,Europe,09,6,0
+Slovak Republic,Europe,10,4,0
+Slovak Republic,Europe,11,6,0
+Slovak Republic,Europe,12,2,0
+Slovak Republic,Europe,13,5,0
+Slovak Republic,Europe,14,4,0
+Slovak Republic,Europe,15,6,1
+Slovak Republic,Europe,16,9,2
+Slovak Republic,Europe,17,6,1
+Slovak Republic,Europe,18,4,0
+Slovak Republic,Europe,19,2,0
+Slovak Republic,Europe,20,1,0
+Slovak Republic,Europe,21,2,0
+Slovak Republic,Europe,22,2,0
+Solomon Islands,Oceania,00,1,0
+Solomon Islands,Oceania,01,1,0
+Solomon Islands,Oceania,08,1,0
+Solomon Islands,Oceania,15,2,0
+Solomon Islands,Oceania,16,1,0
+Solomon Islands,Oceania,17,2,0
+Solomon Islands,Oceania,18,4,0
+Solomon Islands,Oceania,21,1,0
+Somalia,Africa,00,7,0
+Somalia,Africa,01,10,0
+Somalia,Africa,02,22,1
+Somalia,Africa,03,15,0
+Somalia,Africa,04,19,1
+Somalia,Africa,05,20,1
+Somalia,Africa,06,14,3
+Somalia,Africa,07,17,1
+Somalia,Africa,08,22,2
+Somalia,Africa,09,19,0
+Somalia,Africa,10,25,3
+Somalia,Africa,11,25,1
+Somalia,Africa,12,28,1
+Somalia,Africa,13,39,3
+Somalia,Africa,14,28,1
+Somalia,Africa,15,36,8
+Somalia,Africa,16,31,5
+Somalia,Africa,17,20,2
+Somalia,Africa,18,13,3
+Somalia,Africa,19,5,1
+Somalia,Africa,20,3,0
+Somalia,Africa,22,2,0
+Somalia,Africa,23,4,0
+South Africa,Africa,00,62,2
+South Africa,Africa,01,87,12
+South Africa,Africa,02,170,26
+South Africa,Africa,03,296,34
+South Africa,Africa,04,357,36
+South Africa,Africa,05,406,47
+South Africa,Africa,06,436,60
+South Africa,Africa,07,436,39
+South Africa,Africa,08,413,31
+South Africa,Africa,09,406,39
+South Africa,Africa,10,396,35
+South Africa,Africa,11,445,55
+South Africa,Africa,12,368,43
+South Africa,Africa,13,412,23
+South Africa,Africa,14,478,45
+South Africa,Africa,15,532,48
+South Africa,Africa,16,708,56
+South Africa,Africa,17,599,36
+South Africa,Africa,18,417,34
+South Africa,Africa,19,323,33
+South Africa,Africa,20,252,24
+South Africa,Africa,21,120,8
+South Africa,Africa,22,64,6
+South Africa,Africa,23,77,6
+Spain,Europe,00,122,5
+Spain,Europe,01,103,6
+Spain,Europe,02,135,11
+Spain,Europe,03,419,47
+Spain,Europe,04,855,79
+Spain,Europe,05,1553,162
+Spain,Europe,06,1550,124
+Spain,Europe,07,1726,136
+Spain,Europe,08,1785,122
+Spain,Europe,09,1848,153
+Spain,Europe,10,1576,138
+Spain,Europe,11,1751,140
+Spain,Europe,12,1458,154
+Spain,Europe,13,1419,117
+Spain,Europe,14,1404,134
+Spain,Europe,15,1453,88
+Spain,Europe,16,2701,1175
+Spain,Europe,17,1771,205
+Spain,Europe,18,1480,135
+Spain,Europe,19,1177,104
+Spain,Europe,20,689,62
+Spain,Europe,21,412,41
+Spain,Europe,22,256,26
+Spain,Europe,23,127,16
+Sri Lanka,Asia,00,98,5
+Sri Lanka,Asia,01,84,6
+Sri Lanka,Asia,02,121,5
+Sri Lanka,Asia,03,75,3
+Sri Lanka,Asia,04,61,1
+Sri Lanka,Asia,05,76,1
+Sri Lanka,Asia,06,80,1
+Sri Lanka,Asia,07,122,6
+Sri Lanka,Asia,08,113,6
+Sri Lanka,Asia,09,127,5
+Sri Lanka,Asia,10,102,7
+Sri Lanka,Asia,11,151,4
+Sri Lanka,Asia,12,118,11
+Sri Lanka,Asia,13,59,3
+Sri Lanka,Asia,14,30,1
+Sri Lanka,Asia,15,19,2
+Sri Lanka,Asia,16,17,3
+Sri Lanka,Asia,17,18,1
+Sri Lanka,Asia,18,14,0
+Sri Lanka,Asia,19,33,1
+Sri Lanka,Asia,20,52,0
+Sri Lanka,Asia,21,50,4
+Sri Lanka,Asia,22,83,7
+Sri Lanka,Asia,23,93,10
+Sudan,Africa,18,2,0
+Suriname,South America,04,1,0
+Suriname,South America,05,1,0
+Suriname,South America,08,3,0
+Suriname,South America,10,2,0
+Suriname,South America,14,1,0
+Suriname,South America,15,1,0
+Suriname,South America,19,1,0
+Suriname,South America,21,1,0
+Suriname,South America,22,1,0
+Swaziland,Africa,01,2,0
+Swaziland,Africa,02,1,0
+Swaziland,Africa,03,2,0
+Swaziland,Africa,04,2,0
+Swaziland,Africa,05,2,0
+Swaziland,Africa,06,4,1
+Swaziland,Africa,07,2,0
+Swaziland,Africa,08,3,1
+Swaziland,Africa,09,1,0
+Swaziland,Africa,10,4,0
+Swaziland,Africa,11,2,0
+Swaziland,Africa,12,5,0
+Swaziland,Africa,13,6,0
+Swaziland,Africa,14,2,0
+Swaziland,Africa,15,7,0
+Swaziland,Africa,16,3,0
+Swaziland,Africa,17,5,1
+Swaziland,Africa,18,6,1
+Swaziland,Africa,19,2,0
+Swaziland,Africa,20,2,0
+Swaziland,Africa,21,1,0
+Swaziland,Africa,22,2,0
+Sweden,Europe,00,5,0
+Sweden,Europe,01,9,3
+Sweden,Europe,02,21,3
+Sweden,Europe,03,31,1
+Sweden,Europe,04,56,11
+Sweden,Europe,05,41,12
+Sweden,Europe,06,50,4
+Sweden,Europe,07,37,9
+Sweden,Europe,08,35,6
+Sweden,Europe,09,45,6
+Sweden,Europe,10,30,2
+Sweden,Europe,11,33,5
+Sweden,Europe,12,43,7
+Sweden,Europe,13,46,8
+Sweden,Europe,14,56,10
+Sweden,Europe,15,62,5
+Sweden,Europe,16,61,10
+Sweden,Europe,17,41,5
+Sweden,Europe,18,35,9
+Sweden,Europe,19,36,10
+Sweden,Europe,20,10,3
+Sweden,Europe,21,15,4
+Sweden,Europe,22,8,2
+Sweden,Europe,23,3,0
+Switzerland,Europe,00,11,3
+Switzerland,Europe,01,14,1
+Switzerland,Europe,02,32,3
+Switzerland,Europe,03,67,8
+Switzerland,Europe,04,97,14
+Switzerland,Europe,05,103,12
+Switzerland,Europe,06,100,14
+Switzerland,Europe,07,103,7
+Switzerland,Europe,08,98,13
+Switzerland,Europe,09,83,11
+Switzerland,Europe,10,79,2
+Switzerland,Europe,11,117,13
+Switzerland,Europe,12,77,9
+Switzerland,Europe,13,92,9
+Switzerland,Europe,14,115,20
+Switzerland,Europe,15,113,14
+Switzerland,Europe,16,95,12
+Switzerland,Europe,17,88,9
+Switzerland,Europe,18,101,10
+Switzerland,Europe,19,73,13
+Switzerland,Europe,20,44,4
+Switzerland,Europe,21,22,3
+Switzerland,Europe,22,14,0
+Switzerland,Europe,23,17,1
+Syria,Asia,03,4,0
+Syria,Asia,04,2,0
+Syria,Asia,05,2,1
+Syria,Asia,06,4,1
+Syria,Asia,07,7,0
+Syria,Asia,08,3,0
+Syria,Asia,09,3,0
+Syria,Asia,10,2,0
+Syria,Asia,11,2,0
+Syria,Asia,12,4,0
+Syria,Asia,13,5,0
+Syria,Asia,14,3,0
+Syria,Asia,15,4,0
+Syria,Asia,16,3,0
+Syria,Asia,17,3,0
+Syria,Asia,18,1,0
+Syria,Asia,19,3,1
+Syria,Asia,22,1,0
+Taiwan,Asia,00,16,3
+Taiwan,Asia,01,16,2
+Taiwan,Asia,02,27,2
+Taiwan,Asia,03,20,4
+Taiwan,Asia,04,25,2
+Taiwan,Asia,05,21,1
+Taiwan,Asia,06,17,1
+Taiwan,Asia,07,19,2
+Taiwan,Asia,08,17,2
+Taiwan,Asia,09,13,1
+Taiwan,Asia,10,5,0
+Taiwan,Asia,11,4,0
+Taiwan,Asia,12,6,2
+Taiwan,Asia,13,3,0
+Taiwan,Asia,14,4,1
+Taiwan,Asia,15,11,1
+Taiwan,Asia,16,11,3
+Taiwan,Asia,17,10,0
+Taiwan,Asia,18,18,3
+Taiwan,Asia,19,19,8
+Taiwan,Asia,20,17,1
+Taiwan,Asia,21,18,1
+Taiwan,Asia,22,30,3
+Taiwan,Asia,23,18,1
+Tajikistan,Asia,01,1,0
+Tajikistan,Asia,06,1,0
+Tajikistan,Asia,07,1,0
+Tajikistan,Asia,08,1,0
+Tajikistan,Asia,09,2,0
+Tajikistan,Asia,10,1,0
+Tajikistan,Asia,11,1,0
+Tajikistan,Asia,13,1,0
+Tajikistan,Asia,22,1,0
+Tanzania,Africa,00,12,1
+Tanzania,Africa,01,31,5
+Tanzania,Africa,02,63,12
+Tanzania,Africa,03,68,15
+Tanzania,Africa,04,82,21
+Tanzania,Africa,05,68,12
+Tanzania,Africa,06,56,11
+Tanzania,Africa,07,52,2
+Tanzania,Africa,08,51,7
+Tanzania,Africa,09,37,6
+Tanzania,Africa,10,44,9
+Tanzania,Africa,11,48,8
+Tanzania,Africa,12,62,7
+Tanzania,Africa,13,54,4
+Tanzania,Africa,14,44,8
+Tanzania,Africa,15,47,5
+Tanzania,Africa,16,35,8
+Tanzania,Africa,17,46,9
+Tanzania,Africa,18,23,4
+Tanzania,Africa,19,16,3
+Tanzania,Africa,20,10,1
+Tanzania,Africa,22,7,0
+Tanzania,Africa,23,4,0
+Thailand,Asia,00,220,12
+Thailand,Asia,01,212,8
+Thailand,Asia,02,152,4
+Thailand,Asia,03,178,8
+Thailand,Asia,04,202,8
+Thailand,Asia,05,235,14
+Thailand,Asia,06,180,8
+Thailand,Asia,07,204,11
+Thailand,Asia,08,190,9
+Thailand,Asia,09,194,11
+Thailand,Asia,10,99,2
+Thailand,Asia,11,47,2
+Thailand,Asia,12,47,1
+Thailand,Asia,13,18,0
+Thailand,Asia,14,10,0
+Thailand,Asia,15,18,0
+Thailand,Asia,16,88,2
+Thailand,Asia,17,136,7
+Thailand,Asia,18,175,14
+Thailand,Asia,19,183,8
+Thailand,Asia,20,238,14
+Thailand,Asia,21,328,32
+Thailand,Asia,22,316,25
+Thailand,Asia,23,273,10
+The Netherlands,Europe,00,9,2
+The Netherlands,Europe,01,8,0
+The Netherlands,Europe,02,36,4
+The Netherlands,Europe,03,116,5
+The Netherlands,Europe,04,185,23
+The Netherlands,Europe,05,229,20
+The Netherlands,Europe,06,206,12
+The Netherlands,Europe,07,213,25
+The Netherlands,Europe,08,224,24
+The Netherlands,Europe,09,232,26
+The Netherlands,Europe,10,225,20
+The Netherlands,Europe,11,236,25
+The Netherlands,Europe,12,246,19
+The Netherlands,Europe,13,249,22
+The Netherlands,Europe,14,258,26
+The Netherlands,Europe,15,317,25
+The Netherlands,Europe,16,253,23
+The Netherlands,Europe,17,227,24
+The Netherlands,Europe,18,240,30
+The Netherlands,Europe,19,163,13
+The Netherlands,Europe,20,91,7
+The Netherlands,Europe,21,37,3
+The Netherlands,Europe,22,12,1
+The Netherlands,Europe,23,15,1
+Togo,Africa,00,1,0
+Togo,Africa,01,6,0
+Togo,Africa,02,1,0
+Togo,Africa,05,1,0
+Togo,Africa,06,3,1
+Togo,Africa,07,3,0
+Togo,Africa,08,2,0
+Togo,Africa,09,5,1
+Togo,Africa,10,8,1
+Togo,Africa,11,7,0
+Togo,Africa,12,7,0
+Togo,Africa,13,5,1
+Togo,Africa,14,2,1
+Togo,Africa,15,4,0
+Togo,Africa,16,7,0
+Togo,Africa,17,7,1
+Togo,Africa,18,6,0
+Togo,Africa,19,5,1
+Togo,Africa,20,12,4
+Togo,Africa,21,9,1
+Togo,Africa,22,4,0
+Tonga,Oceania,09,1,0
+Trinidad and Tobago,North America,00,1,0
+Trinidad and Tobago,North America,01,1,0
+Trinidad and Tobago,North America,02,2,0
+Trinidad and Tobago,North America,03,1,0
+Trinidad and Tobago,North America,04,1,0
+Trinidad and Tobago,North America,05,2,0
+Trinidad and Tobago,North America,06,3,0
+Trinidad and Tobago,North America,07,10,1
+Trinidad and Tobago,North America,08,2,0
+Trinidad and Tobago,North America,09,10,0
+Trinidad and Tobago,North America,10,40,0
+Trinidad and Tobago,North America,11,13,1
+Trinidad and Tobago,North America,12,10,0
+Trinidad and Tobago,North America,13,10,0
+Trinidad and Tobago,North America,14,8,1
+Trinidad and Tobago,North America,15,6,1
+Trinidad and Tobago,North America,16,10,1
+Trinidad and Tobago,North America,17,9,0
+Trinidad and Tobago,North America,18,5,0
+Trinidad and Tobago,North America,19,11,0
+Trinidad and Tobago,North America,20,11,0
+Trinidad and Tobago,North America,21,4,0
+Trinidad and Tobago,North America,22,7,0
+Trinidad and Tobago,North America,23,5,0
+Tunisia,Africa,00,3,0
+Tunisia,Africa,01,1,0
+Tunisia,Africa,02,1,0
+Tunisia,Africa,04,2,1
+Tunisia,Africa,05,4,0
+Tunisia,Africa,06,7,0
+Tunisia,Africa,07,4,0
+Tunisia,Africa,08,7,1
+Tunisia,Africa,09,4,0
+Tunisia,Africa,10,6,0
+Tunisia,Africa,11,9,0
+Tunisia,Africa,12,8,1
+Tunisia,Africa,13,9,0
+Tunisia,Africa,14,4,0
+Tunisia,Africa,15,6,1
+Tunisia,Africa,16,4,2
+Tunisia,Africa,17,13,1
+Tunisia,Africa,18,12,0
+Tunisia,Africa,19,10,2
+Tunisia,Africa,20,18,0
+Tunisia,Africa,21,10,1
+Tunisia,Africa,22,4,0
+Tunisia,Africa,23,4,0
+Turkey,Europe,00,87,2
+Turkey,Europe,01,127,5
+Turkey,Europe,02,171,4
+Turkey,Europe,03,289,15
+Turkey,Europe,04,393,18
+Turkey,Europe,05,447,22
+Turkey,Europe,06,552,30
+Turkey,Europe,07,582,37
+Turkey,Europe,08,608,15
+Turkey,Europe,09,591,30
+Turkey,Europe,10,532,17
+Turkey,Europe,11,565,43
+Turkey,Europe,12,613,31
+Turkey,Europe,13,930,59
+Turkey,Europe,14,901,41
+Turkey,Europe,15,713,38
+Turkey,Europe,16,739,29
+Turkey,Europe,17,807,35
+Turkey,Europe,18,891,42
+Turkey,Europe,19,527,22
+Turkey,Europe,20,287,16
+Turkey,Europe,21,258,6
+Turkey,Europe,22,156,4
+Turkey,Europe,23,100,8
+Turkmenistan,Asia,02,1,0
+Turkmenistan,Asia,05,1,0
+Turkmenistan,Asia,23,1,0
+Turks and Caicos Islands,North America,10,1,0
+Turks and Caicos Islands,North America,11,1,0
+Turks and Caicos Islands,North America,13,1,0
+Turks and Caicos Islands,North America,15,1,0
+Turks and Caicos Islands,North America,16,1,0
+Turks and Caicos Islands,North America,17,2,0
+Turks and Caicos Islands,North America,18,1,0
+Uganda,Africa,00,21,2
+Uganda,Africa,01,55,7
+Uganda,Africa,02,87,13
+Uganda,Africa,03,106,10
+Uganda,Africa,04,121,11
+Uganda,Africa,05,92,19
+Uganda,Africa,06,100,13
+Uganda,Africa,07,112,20
+Uganda,Africa,08,149,17
+Uganda,Africa,09,117,12
+Uganda,Africa,10,89,10
+Uganda,Africa,11,98,13
+Uganda,Africa,12,112,15
+Uganda,Africa,13,98,14
+Uganda,Africa,14,177,18
+Uganda,Africa,15,190,22
+Uganda,Africa,16,112,10
+Uganda,Africa,17,91,11
+Uganda,Africa,18,66,10
+Uganda,Africa,19,30,6
+Uganda,Africa,20,14,2
+Uganda,Africa,21,14,5
+Uganda,Africa,22,10,1
+Uganda,Africa,23,12,1
+Ukraine,Europe,02,3,0
+Ukraine,Europe,03,3,0
+Ukraine,Europe,04,11,0
+Ukraine,Europe,05,9,0
+Ukraine,Europe,06,15,0
+Ukraine,Europe,07,11,0
+Ukraine,Europe,08,20,2
+Ukraine,Europe,09,7,1
+Ukraine,Europe,10,5,0
+Ukraine,Europe,11,8,0
+Ukraine,Europe,12,12,1
+Ukraine,Europe,13,12,1
+Ukraine,Europe,14,8,1
+Ukraine,Europe,15,7,1
+Ukraine,Europe,16,16,0
+Ukraine,Europe,17,13,0
+Ukraine,Europe,18,7,0
+Ukraine,Europe,19,4,0
+Ukraine,Europe,20,3,0
+Ukraine,Europe,21,1,0
+Ukraine,Europe,22,2,0
+United Arab Emirates,Asia,00,70,4
+United Arab Emirates,Asia,01,82,12
+United Arab Emirates,Asia,02,113,7
+United Arab Emirates,Asia,03,101,7
+United Arab Emirates,Asia,04,127,14
+United Arab Emirates,Asia,05,103,9
+United Arab Emirates,Asia,06,100,5
+United Arab Emirates,Asia,07,80,3
+United Arab Emirates,Asia,08,107,5
+United Arab Emirates,Asia,09,88,7
+United Arab Emirates,Asia,10,102,7
+United Arab Emirates,Asia,11,119,5
+United Arab Emirates,Asia,12,146,16
+United Arab Emirates,Asia,13,144,10
+United Arab Emirates,Asia,14,141,12
+United Arab Emirates,Asia,15,116,15
+United Arab Emirates,Asia,16,99,15
+United Arab Emirates,Asia,17,58,2
+United Arab Emirates,Asia,18,45,2
+United Arab Emirates,Asia,19,43,2
+United Arab Emirates,Asia,20,26,3
+United Arab Emirates,Asia,21,35,1
+United Arab Emirates,Asia,22,35,2
+United Arab Emirates,Asia,23,43,3
+United Kingdom,Europe,00,331,41
+United Kingdom,Europe,01,206,20
+United Kingdom,Europe,02,184,18
+United Kingdom,Europe,03,288,41
+United Kingdom,Europe,04,835,102
+United Kingdom,Europe,05,1894,210
+United Kingdom,Europe,06,3172,350
+United Kingdom,Europe,07,3301,367
+United Kingdom,Europe,08,2877,305
+United Kingdom,Europe,09,2780,301
+United Kingdom,Europe,10,2783,305
+United Kingdom,Europe,11,2664,271
+United Kingdom,Europe,12,2692,283
+United Kingdom,Europe,13,2634,286
+United Kingdom,Europe,14,3058,331
+United Kingdom,Europe,15,3910,328
+United Kingdom,Europe,16,3145,301
+United Kingdom,Europe,17,2996,290
+United Kingdom,Europe,18,3204,281
+United Kingdom,Europe,19,2758,271
+United Kingdom,Europe,20,2581,309
+United Kingdom,Europe,21,1542,229
+United Kingdom,Europe,22,874,132
+United Kingdom,Europe,23,472,66
+United States,North America,00,1966,231
+United States,North America,01,3569,394
+United States,North America,02,5329,581
+United States,North America,03,7040,790
+United States,North America,04,8224,877
+United States,North America,05,9534,985
+United States,North America,06,9917,1058
+United States,North America,07,9513,935
+United States,North America,08,9012,850
+United States,North America,09,8849,932
+United States,North America,10,8866,898
+United States,North America,11,9474,1002
+United States,North America,12,9852,1059
+United States,North America,13,8769,880
+United States,North America,14,8647,825
+United States,North America,15,8157,838
+United States,North America,16,7273,711
+United States,North America,17,6145,669
+United States,North America,18,4486,468
+United States,North America,19,2999,321
+United States,North America,20,2087,260
+United States,North America,21,1533,188
+United States,North America,22,1158,115
+United States,North America,23,1255,148
+United States Minor Outlying Islands,Oceania,05,8,0
+Uruguay,South America,00,26,5
+Uruguay,South America,01,10,0
+Uruguay,South America,02,7,1
+Uruguay,South America,03,4,1
+Uruguay,South America,04,4,0
+Uruguay,South America,05,7,3
+Uruguay,South America,06,1,0
+Uruguay,South America,07,5,1
+Uruguay,South America,08,17,1
+Uruguay,South America,09,26,4
+Uruguay,South America,10,44,2
+Uruguay,South America,11,42,3
+Uruguay,South America,12,45,4
+Uruguay,South America,13,45,3
+Uruguay,South America,14,40,5
+Uruguay,South America,15,36,6
+Uruguay,South America,16,28,2
+Uruguay,South America,17,39,1
+Uruguay,South America,18,36,2
+Uruguay,South America,19,73,8
+Uruguay,South America,20,84,5
+Uruguay,South America,21,47,2
+Uruguay,South America,22,46,2
+Uruguay,South America,23,27,5
+Uzbekistan,Asia,00,1,0
+Uzbekistan,Asia,02,1,0
+Uzbekistan,Asia,03,2,0
+Uzbekistan,Asia,06,1,0
+Uzbekistan,Asia,07,1,0
+Uzbekistan,Asia,09,2,0
+Uzbekistan,Asia,10,1,0
+Uzbekistan,Asia,11,2,0
+Uzbekistan,Asia,12,1,0
+Uzbekistan,Asia,13,1,0
+Uzbekistan,Asia,14,2,0
+Uzbekistan,Asia,15,3,2
+Uzbekistan,Asia,17,1,0
+Uzbekistan,Asia,22,1,0
+Vanuatu,Oceania,00,1,0
+Vanuatu,Oceania,07,1,0
+Vanuatu,Oceania,11,2,0
+Vanuatu,Oceania,12,1,0
+Vanuatu,Oceania,13,1,0
+Vanuatu,Oceania,18,2,0
+Vanuatu,Oceania,20,1,0
+Vanuatu,Oceania,21,4,0
+Vanuatu,Oceania,22,1,0
+Vatican City,Europe,04,1,0
+Vatican City,Europe,06,2,0
+Vatican City,Europe,08,1,0
+Vatican City,Europe,10,2,0
+Vatican City,Europe,11,1,0
+Vatican City,Europe,12,1,0
+Vatican City,Europe,13,2,0
+Vatican City,Europe,14,1,0
+Vatican City,Europe,15,1,0
+Vatican City,Europe,16,4,0
+Vatican City,Europe,17,5,0
+Vatican City,Europe,19,2,0
+Vatican City,Europe,20,2,0
+Venezuela,South America,00,53,3
+Venezuela,South America,01,32,3
+Venezuela,South America,02,19,1
+Venezuela,South America,03,13,1
+Venezuela,South America,04,13,1
+Venezuela,South America,05,23,2
+Venezuela,South America,06,49,4
+Venezuela,South America,07,94,10
+Venezuela,South America,08,136,10
+Venezuela,South America,09,144,14
+Venezuela,South America,10,177,24
+Venezuela,South America,11,173,12
+Venezuela,South America,12,144,8
+Venezuela,South America,13,183,19
+Venezuela,South America,14,149,23
+Venezuela,South America,15,163,17
+Venezuela,South America,16,159,22
+Venezuela,South America,17,153,13
+Venezuela,South America,18,233,16
+Venezuela,South America,19,232,21
+Venezuela,South America,20,200,29
+Venezuela,South America,21,147,12
+Venezuela,South America,22,111,9
+Venezuela,South America,23,81,10
+Vietnam,Asia,00,13,0
+Vietnam,Asia,01,22,2
+Vietnam,Asia,02,13,1
+Vietnam,Asia,03,12,3
+Vietnam,Asia,04,22,0
+Vietnam,Asia,05,21,1
+Vietnam,Asia,06,13,2
+Vietnam,Asia,07,15,3
+Vietnam,Asia,08,14,1
+Vietnam,Asia,09,11,0
+Vietnam,Asia,10,10,0
+Vietnam,Asia,11,6,0
+Vietnam,Asia,12,3,0
+Vietnam,Asia,13,5,2
+Vietnam,Asia,14,1,0
+Vietnam,Asia,17,4,0
+Vietnam,Asia,18,15,0
+Vietnam,Asia,19,12,1
+Vietnam,Asia,20,11,0
+Vietnam,Asia,21,14,0
+Vietnam,Asia,22,15,1
+Vietnam,Asia,23,15,3
+"Virgin Islands, U.S.",North America,08,1,0
+"Virgin Islands, U.S.",North America,10,2,2
+"Virgin Islands, U.S.",North America,12,1,0
+"Virgin Islands, U.S.",North America,14,2,0
+"Virgin Islands, U.S.",North America,15,1,0
+"Virgin Islands, U.S.",North America,17,1,0
+"Virgin Islands, U.S.",North America,18,1,0
+"Virgin Islands, U.S.",North America,22,1,0
+Yemen,Asia,00,1,0
+Yemen,Asia,02,1,0
+Yemen,Asia,06,2,0
+Yemen,Asia,08,1,1
+Yemen,Asia,09,1,1
+Yemen,Asia,10,3,0
+Yemen,Asia,11,3,0
+Yemen,Asia,13,4,0
+Yemen,Asia,15,1,0
+Yemen,Asia,16,2,0
+Yemen,Asia,19,1,0
+Yemen,Asia,20,1,0
+Yemen,Asia,22,1,0
+Yemen,Asia,23,1,0
+Zambia,Africa,00,1,0
+Zambia,Africa,01,1,0
+Zambia,Africa,02,3,0
+Zambia,Africa,03,19,2
+Zambia,Africa,04,8,1
+Zambia,Africa,05,15,3
+Zambia,Africa,06,23,3
+Zambia,Africa,07,7,1
+Zambia,Africa,08,24,1
+Zambia,Africa,09,16,2
+Zambia,Africa,10,17,1
+Zambia,Africa,11,8,0
+Zambia,Africa,12,17,2
+Zambia,Africa,13,12,2
+Zambia,Africa,14,17,1
+Zambia,Africa,15,16,1
+Zambia,Africa,16,10,3
+Zambia,Africa,17,10,1
+Zambia,Africa,18,9,1
+Zambia,Africa,19,5,0
+Zambia,Africa,20,1,0
+Zambia,Africa,21,1,0
+Zimbabwe,Africa,00,3,1
+Zimbabwe,Africa,02,6,0
+Zimbabwe,Africa,03,16,1
+Zimbabwe,Africa,04,24,3
+Zimbabwe,Africa,05,42,9
+Zimbabwe,Africa,06,40,17
+Zimbabwe,Africa,07,32,6
+Zimbabwe,Africa,08,33,6
+Zimbabwe,Africa,09,30,6
+Zimbabwe,Africa,10,25,4
+Zimbabwe,Africa,11,36,9
+Zimbabwe,Africa,12,23,5
+Zimbabwe,Africa,13,25,6
+Zimbabwe,Africa,14,21,6
+Zimbabwe,Africa,15,30,7
+Zimbabwe,Africa,16,28,10
+Zimbabwe,Africa,17,24,4
+Zimbabwe,Africa,18,25,5
+Zimbabwe,Africa,19,14,3
+Zimbabwe,Africa,20,15,1
+Zimbabwe,Africa,21,11,1
+Zimbabwe,Africa,22,3,0
+Zimbabwe,Africa,23,2,0
