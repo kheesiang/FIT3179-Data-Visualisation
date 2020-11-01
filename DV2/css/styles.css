@@ -12,32 +12,32 @@
 }
 
 
-/* 
+
 #heatmap {
-	left: 200px;
-	right: 200px;
+	left: 100px;
+	right: 100px;
 }
 
 #choropleth_map {
-	left: 200px;
-	right: 200px;
+	left: 100px;
+	right: 100px;
 }
 
 #scatterplot {
-		left: 200px;
-		right: 200px;
+		left: 100px;
+		right: 100px;
 	}
 
 #radial_plot {
-	left: 200px;
-	right: 200px;
-} */
+	left: 100px;
+	right: 100px;
+}
 
 
-/* #average_bar_chart {
-	left: 200px;
-	right: 200px;
-} */
+#average_bar_chart {
+	left: 100px;
+	right: 100px;
+}
 
 
 body {
@@ -53,7 +53,8 @@ h1 {
 
 
 .title {
-	background-color: #00509d;
+	background-color: #AAB8C2;
+	padding: 30px;
 	text-align: center;
 	font-size: 2em;
     margin-bottom: 0.2em;
