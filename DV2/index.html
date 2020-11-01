@@ -45,6 +45,14 @@
             <center>
                 <div id="scatterplot"></div>
             </center>
+        </section>
+        <section>
+          <h2>Top 10 Languages</h2>
+          <p>description</p>
+          <center>
+              <div id="radial_plot"></div>
+          </center>
+      </section>
     </div>
 </div>
 
@@ -62,6 +70,11 @@
   
     var spec3 = "js/twitter_scatterplot.vl.json";
     vegaEmbed('#scatterplot', spec3).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var spec4 = "js/radial_plot.vl.json";
+    vegaEmbed('#scatterplot', spec4).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 </script>

@@ -1,0 +1,29 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "description": "Top 10 Languages Used in Tweets",
+    "data": {
+      "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/top10_languages.csv"
+    },
+    "width": 400,
+    "height": 400,
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+      "mark": {"type": "text", "radiusOffset": 10, "align": "right", "baseline": "middle"},
+      "encoding": {
+        "text": {"field": "total_tweets", "type": "quantitative"}
+      }
+    }
+    ],
+    "encoding": {
+      "theta": {"field": "total_tweets", "type": "quantitative", "stack": true},
+      "radius": {"field": "total_tweets", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+      "color": {"field": "language", "type": "nominal"},
+      "tooltip": [
+        {"field": "language", "type": "nominal", "title": "Language"},
+        {"field": "total_tweets", "type": "quantitative", "title": "Total Number of Tweets"}
+      ]
+    },
+    "view": {"stroke": null}
+  }
+  
