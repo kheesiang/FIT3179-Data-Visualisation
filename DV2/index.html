@@ -24,6 +24,10 @@
 <h3>(Top 10 Countries based on Total Number of Tweets)</h3>
 <div id="heatmap"></div>
 
+
+<h2>Number of Tweets by the Hour</h2>
+<div id="scatterplot"></div>
+
 <script type="text/javascript">
   
   var spec1 = "js/chloropleth_map.vl.json";
@@ -37,7 +41,7 @@
   }).catch(console.error);
 
   var spec3 = "js/twitter_scatterplot.vl.json";
-  vegaEmbed('#scatterplot', spec2).then(function(result) {
+  vegaEmbed('#scatterplot', spec3).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
