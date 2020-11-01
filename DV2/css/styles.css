@@ -12,16 +12,16 @@
 }
 
 
-
+/* 
 #heatmap {
 	left: 200px;
 	right: 200px;
 }
 
-/* #choropleth_map {
+#choropleth_map {
 	left: 200px;
 	right: 200px;
-} */
+}
 
 #scatterplot {
 		left: 200px;
@@ -31,7 +31,7 @@
 #radial_plot {
 	left: 200px;
 	right: 200px;
-}
+} */
 
 
 /* #average_bar_chart {
