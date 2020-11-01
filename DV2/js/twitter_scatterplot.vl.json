@@ -6,10 +6,7 @@
     "vconcat": [
       {
         "encoding": {
-          "x": {
-            "field": "time",
-            "title": "Hour (24-hour Clock)"
-          },
+          "x": {"field": "time", "title": "Hour (24-hour Clock)"},
           "y": {
             "title": "Number of Tweets",
             "field": "status_id",
@@ -18,7 +15,12 @@
           "tooltip": [
             {"field": "country", "type": "nominal", "title": "Country"},
             {"field": "Continent_Name", "type": "nominal", "title": "Continent"},
-            {"field": "status_id", "type": "quantitative", "title": "Number of Tweets"},
+            {
+              "field": "status_id",
+              "type": "quantitative",
+              "title": "Number of Tweets"
+            },
+            {"field": "reply_to_status_id", "type": "quantitative", "title": "Is a Reply"},
             {"field": "time", "type": "quantitative", "title": "Hour in the Day"}
           ],
           "size": {
@@ -34,8 +36,24 @@
               "field": "Continent_Name",
               "type": "nominal",
               "scale": {
-                "domain": ["Asia", "Africa", "Antarctica", "Oceania", "Europe", "North America", "South America"],
-                "range": ["#e63946", "#ffd500", "#001427", "#e5989b", "#f48c06", "#3d85c6","#2b9348"]
+                "domain": [
+                  "Asia",
+                  "Africa",
+                  "Antarctica",
+                  "Oceania",
+                  "Europe",
+                  "North America",
+                  "South America"
+                ],
+                "range": [
+                  "#e63946",
+                  "#ffd500",
+                  "#001427",
+                  "#e5989b",
+                  "#f48c06",
+                  "#3d85c6",
+                  "#2b9348"
+                ]
               }
             },
             "value": "gray"
@@ -54,16 +72,32 @@
               "selection": "click",
               "field": "Continent_Name",
               "scale": {
-                "domain": ["Asia", "Africa", "Antarctica", "Oceania", "Europe", "North America", "South America"]
+                "domain": [
+                  "Asia",
+                  "Africa",
+                  "Antarctica",
+                  "Oceania",
+                  "Europe",
+                  "North America",
+                  "South America"
+                ]
               }
             },
             "value": "lightgray"
           },
-          "x": {"field":"total_tweets", "title": "Total Number of Tweets", "scale": {"type": "linear"}},
+          "x": {
+            "field": "total_tweets",
+            "title": "Total Number of Tweets",
+            "scale": {"type": "linear"}
+          },
           "y": {"title": "Continent", "field": "Continent_Name"},
           "tooltip": [
             {"field": "Continent_Name", "type": "nominal", "title": "Continent"},
-            {"field": "total_tweets", "type": "quantitative", "title": "Total Number of Tweets"}
+            {
+              "field": "total_tweets",
+              "type": "quantitative",
+              "title": "Total Number of Tweets"
+            }
           ]
         },
         "width": 800,
@@ -73,5 +107,3 @@
       }
     ]
   }
-  
-  
