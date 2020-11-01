@@ -1,15 +1,14 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "data": {
-      "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_tweets_by_hour.csv"
+      "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_tweets_by_hour2.csv"
     },
-  
     "vconcat": [
       {
         "encoding": {
           "x": {
             "field": "time",
-            "title": "Hour in the Day"
+            "title": "Hour (24-hour Clock)"
           },
           "y": {
             "title": "Number of Tweets",
@@ -36,7 +35,7 @@
               "type": "nominal",
               "scale": {
                 "domain": ["Asia", "Africa", "Antarctica", "Oceania", "Europe", "North America", "South America"],
-                "range": ["#e63946", "#ffd500", "#001427", "#e5989b", "#3d85c6", "#f48c06","#2b9348"]
+                "range": ["#e63946", "#ffd500", "#001427", "#e5989b", "#f48c06", "#3d85c6","#2b9348"]
               }
             },
             "value": "gray"
@@ -60,11 +59,11 @@
             },
             "value": "lightgray"
           },
-          "x": {"aggregate":"count", "title": "Number of Tweets"},
+          "x": {"field":"total_tweets", "title": "Total Number of Tweets", "scale": {"type": "linear"}},
           "y": {"title": "Continent", "field": "Continent_Name"},
           "tooltip": [
             {"field": "Continent_Name", "type": "nominal", "title": "Continent"},
-            {"field": "grand_total", "type": "quantitative", "title": "Total Number of Tweets"}
+            {"field": "total_tweets", "type": "quantitative", "title": "Total Number of Tweets"}
           ]
         },
         "width": 800,
