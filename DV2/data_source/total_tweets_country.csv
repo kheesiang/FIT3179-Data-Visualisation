@@ -1,222 +1,222 @@
-﻿country,created_at,total_tweets,total_unique_user_ids
-Afghanistan,all,189,81
-Aland Islands,all,1,1
-Albania,all,109,43
-Algeria,all,280,85
-American Samoa,all,3,3
-Andorra,all,197,29
-Angola,all,57,32
-Antarctica,all,2,1
-Antigua and Barbuda,all,10,8
-Argentina,all,9378,2855
-Armenia,all,40,23
-Aruba,all,18,10
-Australia,all,6307,2268
-Austria,all,927,285
-Azerbaijan,all,89,45
-Bahamas,all,47,33
-Bahrain,all,255,144
-Bangladesh,all,908,279
-Barbados,all,48,26
-Belgium,all,3681,1039
-Belize,all,16,13
-Benin,all,120,46
-Bermuda,all,64,25
-Bhutan,all,29,8
-Bolivia,all,557,160
-"Bonaire, Sint Eustatius and Saba",all,5,4
-Bosnia and Herzegovina,all,116,43
-Botswana,all,262,105
-Brazil,all,17409,5185
-British Virgin Islands,all,9,3
-Brunei,all,40,19
-Bulgaria,all,65,29
-Burkina Faso,all,88,32
-Burundi,all,34,15
-Cambodia,all,47,30
-Cameroon,all,434,164
-Canada,all,20572,6445
-Cape Verde,all,11,6
-Cayman Islands,all,33,11
-Central African Republic,all,3,3
-Chad,all,89,18
-Chile,all,8480,2520
-Colombia,all,8303,2620
-Congo Brazzaville,all,110,43
-Costa Rica,all,387,178
-Cuba,all,576,105
-Curaçao,all,16,9
-Cyprus,all,303,129
-Czech Republic,all,334,132
-Democratic Republic of Congo,all,894,169
-Denmark,all,598,282
-Djibouti,all,159,24
-Dominica,all,8,5
-Dominican Republic,all,1823,551
-East Timor,all,11,4
-Ecuador,all,5902,1420
-Egypt,all,378,179
-El Salvador,all,778,228
-Equatorial Guinea,all,13,8
-Estonia,all,32,20
-Ethiopia,all,304,96
-Falkland Islands (Malvinas),all,3,3
-Faroe Islands,all,11,4
-Fiji,all,339,80
-Finland,all,548,274
-Former Yugoslav Republic of Macedonia,all,47,26
-France,all,16393,4422
-French Guiana,all,51,16
-French Polynesia,all,8,6
-Gabon,all,99,33
-Gambia,all,111,36
-Georgia,all,196,55
-Germany,all,7086,2316
-Ghana,all,2153,632
-Gibraltar,all,100,32
-Greece,all,677,300
-Greenland,all,11,3
-Grenada,all,2,2
-Guadeloupe,all,117,34
-Guam,all,12,10
-Guatemala,all,773,257
-Guernsey,all,11,3
-Guinea,all,235,82
-Guinea Bissau,all,18,7
-Guyana,all,11,6
-Haiti,all,314,109
-Hashemite Kingdom of Jordan,all,311,140
-Honduras,all,686,182
-Hong Kong,all,463,151
-Hungary,all,160,78
-Iceland,all,91,36
-India,all,63445,13835
-Indonesia,all,5513,2403
-Iraq,all,425,133
-Ireland,all,6274,2279
-Islamic Republic of Iran,all,286,113
-Isle of Man,all,49,16
-Israel,all,635,162
-Italy,all,13584,3842
-Ivory Coast,all,340,95
-Jamaica,all,473,178
-Japan,all,3771,1187
-Jersey,all,4,3
-Kazakhstan,all,89,38
-Kenya,all,4614,1182
-Kingdom of Saudi Arabia,all,2087,1026
-Kosovo,all,206,86
-Kuwait,all,539,262
-Kyrgyzstan,all,55,18
-La Réunion,all,113,32
-Lao People's Democratic Republic,all,13,9
-Latvia,all,67,33
-Lebanon,all,710,226
-Lesotho,all,72,37
-Liberia,all,49,21
-Libya,all,54,36
-Liechtenstein,all,42,5
-Lithuania,all,73,17
-Luxembourg,all,109,50
-Macau,all,14,7
-Madagascar,all,25,16
-Malawi,all,109,60
-Malaysia,all,3768,1397
-Maldives,all,1107,292
-Mali,all,202,51
-Malta,all,114,60
-Marshall Islands,all,1,1
-Martinique,all,172,31
-Mauritania,all,21,8
-Mayotte,all,6,5
-Mexico,all,15720,4761
-Moldova,all,16,7
-Monaco,all,89,15
-Mongolia,all,70,43
-Montenegro,all,115,34
-Morocco,all,325,137
-Myanmar,all,75,28
-Nepal,all,767,292
-New Caledonia,all,22,10
-New Zealand,all,1603,412
-Nicaragua,all,472,118
-Niger,all,67,29
-Nigeria,all,13887,4002
-North Korea,all,3,3
-Northern Mariana Islands,all,5,4
-Norway,all,320,171
-Oman,all,386,187
-Pakistan,all,6522,1653
-Palau,all,7,1
-Panama,all,2047,396
-Papua New Guinea,all,37,23
-Paraguay,all,1214,336
-People's Republic of China,all,1567,390
-Peru,all,3033,825
-Poland,all,1131,331
-Portugal,all,847,325
-Puerto Rico,all,23,14
-Qatar,all,719,228
-Republic of Belarus,all,50,33
-Republic of Croatia,all,188,89
-Republic of Korea,all,283,127
-Republic of Mauritius,all,62,30
-Republic of Mozambique,all,64,30
-Republic of Serbia,all,527,175
-Republic of Slovenia,all,157,53
-Republic of the Philippines,all,2989,1122
-Romania,all,169,64
-Russia,all,826,395
-Rwanda,all,623,170
-Saint Barthélemy,all,1,1
-Saint Kitts and Nevis,all,8,5
-Saint Lucia,all,13,8
-Saint Martin,all,7,4
-Saint Pierre and Miquelon,all,3,1
-Saint Vincent and the Grenadines,all,5,2
-Samoa,all,2,1
-San Marino,all,2,1
-Senegal,all,556,156
-Seychelles,all,20,8
-Sierra Leone,all,281,53
-Singapore,all,973,421
-Sint Maarten,all,13,9
-Slovak Republic,all,79,30
-Solomon Islands,all,13,6
-Somalia,all,424,126
-South Africa,all,8260,2628
-Spain,all,27770,7685
-Sri Lanka,all,1796,351
-Sudan,all,2,2
-Suriname,all,12,6
-Swaziland,all,66,33
-Sweden,all,809,356
-Switzerland,all,1755,625
-Syria,all,56,29
-Taiwan,all,365,159
-Tajikistan,all,10,6
-Tanzania,all,960,303
-Thailand,all,3943,1125
-The Netherlands,all,4027,1769
-Togo,all,105,50
-Tonga,all,1,1
-Trinidad and Tobago,all,182,81
-Tunisia,all,150,62
-Turkey,all,11866,4082
-Turkmenistan,all,3,3
-Turks and Caicos Islands,all,8,5
-Uganda,all,2073,595
-Ukraine,all,177,97
-United Arab Emirates,all,2123,937
-United Kingdom,all,51181,17635
-United States of America,all,153654,47349
-Uruguay,all,739,305
-Uzbekistan,all,20,16
-Vanuatu,all,14,6
-Vatican City,all,25,14
-Venezuela,all,2881,877
-Vietnam,all,267,86
-"Virgin Islands, U.S.",all,10,6
-Yemen,all,23,17
-Zambia,all,240,102
-Zimbabwe,all,508,161
+country,created_at,total_tweets,total_unique_user_ids,Population,
+Afghanistan,all,189,81,39074280,
+Aland Islands,all,1,1,,
+Albania,all,109,43,2877239,
+Algeria,all,280,85,43984569,
+American Samoa,all,3,3,55169,
+Andorra,all,197,29,77287,
+Angola,all,57,32,33032075,
+Antarctica,all,2,1,,
+Antigua and Barbuda,all,10,8,98069,
+Argentina,all,9378,2855,45267449,
+Armenia,all,40,23,2964219,
+Aruba,all,18,10,106845,
+Australia,all,6307,2268,25550683,
+Austria,all,927,285,9015361,
+Azerbaijan,all,89,45,10154978,
+Bahamas,all,47,33,393893,
+Bahrain,all,255,144,1711057,
+Bangladesh,all,908,279,164972348,
+Barbados,all,48,26,287437,
+Belgium,all,3681,1039,11598451,
+Belize,all,16,13,398845,
+Benin,all,120,46,12175480,
+Bermuda,all,64,25,62237,
+Bhutan,all,29,8,773069,
+Bolivia,all,557,160,11700207,
+"Bonaire, Sint Eustatius and Saba",all,5,4,,
+Bosnia and Herzegovina,all,116,43,3277152,
+Botswana,all,262,105,2359585,
+Brazil,all,17409,5185,212821986,
+British Virgin Islands,all,9,3,30266,
+Brunei,all,40,19,438202,
+Bulgaria,all,65,29,6939018,
+Burkina Faso,all,88,32,20997293,
+Burundi,all,34,15,11948454,
+Cambodia,all,47,30,16758448,
+Cameroon,all,434,164,26655083,
+Canada,all,20572,6445,37799407,
+Cape Verde,all,11,6,557026,
+Cayman Islands,all,33,11,65854,
+Central African Republic,all,3,3,4843954,
+Chad,all,89,18,16502877,
+Chile,all,8480,2520,19144605,
+Colombia,all,8303,2620,50976248,
+Congo Brazzaville,all,110,43,5540555,
+Costa Rica,all,387,178,5102158,
+Cuba,all,576,105,11325391,
+Curaçao,all,16,9,164211,
+Cyprus,all,303,129,1208886,
+Czech Republic,all,334,132,10712481,
+Democratic Republic of Congo,all,894,169,90003954,
+Denmark,all,598,282,5795780,
+Djibouti,all,159,24,990447,
+Dominica,all,8,5,72017,
+Dominican Republic,all,1823,551,10866667,
+East Timor,all,11,4,1322667,
+Ecuador,all,5902,1420,17688599,
+Egypt,all,378,179,102659126,
+El Salvador,all,778,228,6491923,
+Equatorial Guinea,all,13,8,1410419,
+Estonia,all,32,20,1326693,
+Ethiopia,all,304,96,115434444,
+Falkland Islands (Malvinas),all,3,3,3497,
+Faroe Islands,all,11,4,,
+Fiji,all,339,80,897573,
+Finland,all,548,274,5542237,
+Former Yugoslav Republic of Macedonia,all,47,26,,
+France,all,16393,4422,65298930,
+French Guiana,all,51,16,299958,
+French Polynesia,all,8,6,281191,
+Gabon,all,99,33,2234448,
+Gambia,all,111,36,2427782,
+Georgia,all,196,55,3987805,
+Germany,all,7086,2316,83830972,
+Ghana,all,2153,632,31181428,
+Gibraltar,all,100,32,33689,
+Greece,all,677,300,10413936,
+Greenland,all,11,3,56787,
+Grenada,all,2,2,112614,
+Guadeloupe,all,117,34,400136,
+Guam,all,12,10,169031,
+Guatemala,all,773,257,17971382,
+Guernsey,all,11,3,,
+Guinea,all,235,82,13191279,
+Guinea Bissau,all,18,7,1975718,
+Guyana,all,11,6,787215,
+Haiti,all,314,109,11426356,
+Hashemite Kingdom of Jordan,all,311,140,10220604,
+Honduras,all,686,182,9931333,
+Hong Kong,all,463,151,7507523,
+Hungary,all,160,78,9655983,
+Iceland,all,91,36,341628,
+India,all,63445,13835,1382345085,
+Indonesia,all,5513,2403,274021604,
+Iraq,all,425,133,40372771,
+Ireland,all,6274,2279,4947267,
+Islamic Republic of Iran,all,286,113,84176929,
+Isle of Man,all,49,16,85112,
+Israel,all,635,162,8678517,
+Italy,all,13584,3842,60446035,
+Ivory Coast,all,340,95,,
+Jamaica,all,473,178,2963429,
+Japan,all,3771,1187,126407422,
+Jersey,all,4,3,,
+Kazakhstan,all,89,38,18815231,
+Kenya,all,4614,1182,53968739,
+Kingdom of Saudi Arabia,all,2087,1026,34905942,
+Kosovo,all,206,86,,
+Kuwait,all,539,262,4281320,
+Kyrgyzstan,all,55,18,6542426,
+La Réunion,all,113,32,,
+Lao People's Democratic Republic,all,13,9,,
+Latvia,all,67,33,1882408,
+Lebanon,all,710,226,6819976,
+Lesotho,all,72,37,2145194,
+Liberia,all,49,21,5077411,
+Libya,all,54,36,6887247,
+Liechtenstein,all,42,5,38147,
+Lithuania,all,73,17,2715340,
+Luxembourg,all,109,50,627704,
+Macau,all,14,7,,
+Madagascar,all,25,16,27808395,
+Malawi,all,109,60,19211425,
+Malaysia,all,3768,1397,32436963,
+Maldives,all,1107,292,542151,
+Mali,all,202,51,20346106,
+Malta,all,114,60,441750,
+Marshall Islands,all,1,1,59259,
+Martinique,all,172,31,375213,
+Mauritania,all,21,8,4669775,
+Mayotte,all,6,5,273905,
+Mexico,all,15720,4761,129166028,
+Moldova,all,16,7,4032294,
+Monaco,all,89,15,39290,
+Mongolia,all,70,43,3287242,
+Montenegro,all,115,34,628080,
+Morocco,all,325,137,36985624,
+Myanmar,all,75,28,54473253,
+Nepal,all,767,292,29225196,
+New Caledonia,all,22,10,285972,
+New Zealand,all,1603,412,4829021,
+Nicaragua,all,472,118,6638075,
+Niger,all,67,29,24346468,
+Nigeria,all,13887,4002,206984347,
+North Korea,all,3,3,25798588,
+Northern Mariana Islands,all,5,4,57619,
+Norway,all,320,171,5428594,
+Oman,all,386,187,5128058,
+Pakistan,all,6522,1653,221612785,
+Palau,all,7,1,18109,
+Panama,all,2047,396,4326296,
+Papua New Guinea,all,37,23,8975531,
+Paraguay,all,1214,336,7147553,
+China,all,1567,390,1440297825,
+Peru,all,3033,825,33050211,
+Poland,all,1131,331,37839255,
+Portugal,all,847,325,10191409,
+Puerto Rico,all,23,14,2846860,
+Qatar,all,719,228,2889284,
+Republic of Belarus,all,50,33,9448772,
+Republic of Croatia,all,188,89,4100719,
+South Korea,all,283,127,51276977,
+Mauritius,all,62,30,1272140,
+Mozambique,all,64,30,31398811,
+Serbia,all,527,175,8731081,
+Slovenia,all,157,53,2078989,
+Philippines,all,2989,1122,109830324,
+Romania,all,169,64,19214608,
+Russia,all,826,395,145945524,
+Rwanda,all,623,170,13005303,
+Saint Barthélemy,all,1,1,9882,
+Saint Kitts and Nevis,all,8,5,53264,
+Saint Lucia,all,13,8,183774,
+Saint Martin,all,7,4,38778,
+Saint Pierre and Miquelon,all,3,1,5789,
+Saint Vincent and the Grenadines,all,5,2,111002,
+Samoa,all,2,1,198643,
+San Marino,all,2,1,33944,
+Senegal,all,556,156,16816539,
+Seychelles,all,20,8,98453,
+Sierra Leone,all,281,53,8004158,
+Singapore,all,973,421,5858322,
+Sint Maarten,all,13,9,42960,
+Slovak Republic,all,79,30,,
+Solomon Islands,all,13,6,689671,
+Somalia,all,424,126,15965848,
+South Africa,all,8260,2628,59436725,
+Spain,all,27770,7685,46757980,
+Sri Lanka,all,1796,351,21428970,
+Sudan,all,2,2,44019263,
+Suriname,all,12,6,587541,
+Swaziland,all,66,33,,
+Sweden,all,809,356,10110233,
+Switzerland,all,1755,625,8665615,
+Syria,all,56,29,17571053,
+Taiwan,all,365,159,23824369,
+Tajikistan,all,10,6,9573310,
+Tanzania,all,960,303,60012400,
+Thailand,all,3943,1125,69830779,
+The Netherlands,all,4027,1769,,
+Togo,all,105,50,8310934,
+Tonga,all,1,1,105901,
+Trinidad and Tobago,all,182,81,1400283,
+Tunisia,all,150,62,11839918,
+Turkey,all,11866,4082,84495243,
+Turkmenistan,all,3,3,6046292,
+Turks and Caicos Islands,all,8,5,17141544,
+Uganda,all,2073,595,45974931,
+Ukraine,all,177,97,43686577,
+United Arab Emirates,all,2123,937,9910892,
+United Kingdom,all,51181,17635,67948282,
+United States of America,all,153654,47349,331341050,
+Uruguay,all,739,305,3475842,
+Uzbekistan,all,20,16,33551824,
+Vanuatu,all,14,6,308337,
+Vatican City,all,25,14,,
+Venezuela,all,2881,877,28421581,
+Vietnam,all,267,86,97490013,
+"Virgin Islands, U.S.",all,10,6,104398,
+Yemen,all,23,17,29935468,
+Zambia,all,240,102,18468257,
+Zimbabwe,all,508,161,14899771,
