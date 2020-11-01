@@ -6,6 +6,8 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
     <!-- Import vega-embed -->
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
 
     <!-- CSS file -->
     <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
@@ -14,50 +16,65 @@
 
 <div>
     <section>
-        <header>
-            <h1>STATISTICS OF TWEETS ABOUT #COVID-19 IN APRIL 2020</h1>
+        <header class="title">
+          <h1>STATISTICS OF TWEETS ABOUT #COVID-19 IN APRIL 2020</h1>
+          <p>
+            Towards the end of the first quarter of 2020, many countries had seen a surge in COVID-19 cases. However, by April 2020, most people would have been educated about the virus.
+            Nevertheless, it remains as a hot topic on social media platforms such as Twitter.
+          </p> 
+          <hr>      
         </header>
-
-        <div>
-            <p>Towards the end of the first quarter of 2020, many countries had seen a surge in COVID-19 cases. However, by April 2020, most people would have been educated about the virus.
-               Nevertheless, it remains as a hot topic on social media platforms such as Twitter.</p>       
+    </section>
+    <section>
+      <p>
+        Twitter is available in most countries. However, it has been blocked in <i>China</i>, <i>North Korea</i>, <i>Iran</i>, and <i>Turkmenistan</i>. The following chloropleth map
+        has been normalized by the respective country's population.<br> 
+      </p>
+      <div class="row">
+        <div class="column.side"></div>
+        <div class="column.middle">
+          <div id="choropleth_map"></div>
+        </div>
+        <div class="column.side"></div>
+      </div>
+    </section>
+    <hr>
+    <section>
+      <h2>Tweets Over Time</h2><br>
+        <p><
+          The next two visualisations focus on the statistics of the top 10 countries based on total number of tweets.
+        </p>
+        <div clas="row">
+          <div class="column.left">
+              <div id="heatmap"></div>
+          </div>
+          <div class="column.right">
+              <div id="average_bar_chart"></div>
+          </div>
         </div>
     </section>
-    <div>
-        <section>
-            <p>Twitter is available in most countries. However, it has been blocked in <i>China</i>, <i>North Korea</i>, <i>Iran</i>, and <i>Turkmenistan</i>. The following chloropleth map
-               has been normalized by the respective country's population.<br> 
-            </p>
-            <center>
-                <div id="choropleth_map"></div><br><br>
-            </center>
-        </section>
-
-        <section>
-          <h2>Tweets Over Time</h2>
-            <p><br>The next two visualisations focus on the statistics of the top 10 countries based on total number of tweets.</p>
-            <div id="row">
-              <div id="column">
-                  <div id="heatmap"></div>
-              </div>
-              <div id="column">
-                  <div id="average_bar_chart"></div>
-              </div>
-            </div>
-        </section>
-        <section>
-            <p>description</p>
-            <center>
-                <div id="scatterplot"></div><br><br>
-            </center>
-        </section>
-        <section>
-          <p>description</p>
-          <center>
-              <div id="radial_plot"></div><br><br>
-          </center>
-      </section>
-    </div>
+    <section>
+        <p>
+          description
+        </p>
+        <div class="row">
+          <div class="column.side"></div>
+          <div class="column.middle"></div>
+            <div id="scatterplot"></div>
+          <div class="column.side"></div>
+        </div>
+    </section>
+    <section>
+      <p>
+        description
+      </p>
+      <div class="row">
+        <div class="column.side"></div>
+        <div class="column.middle"></div>
+          <div id="radial_plot"></div>
+        <div class="column.side"></div>
+      </div>
+    </section>
 </div>
 
 <script type="text/javascript">

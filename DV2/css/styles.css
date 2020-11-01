@@ -45,13 +45,13 @@ body {
 }
 
 h1 {
-	text-align: center;
+	text-align: left;
 	/* font-size: 50px; */
 	font-weight: bold;
 }
 
 h2 {
-	text-align: center;
+	text-align: left;
 	/* font-size: 38px */
 }
 
@@ -60,17 +60,35 @@ h3 {
 }
 
 p {
+	text-align: left;
+}
+
+.title {
+	background-color: #1DA1F2;
+	padding: 30px;
 	text-align: center;
+	font-size: 35px;
+}
+  
+.column.right {
+	width: 25%;
+}
+  
+.column.left {
+	width: 75%;
+}
+
+.column.middle {
+	width: 75%;
+}
+
+.column.side {
+	width: 12.5%;
 }
 
 
-#card {
-	float: left;
-	padding: 5px;
-	width: 50%;
-  }
-  
-#card_content::after {
+.row:after {
+	content: "";
 	display: table;
 	clear: both;
-  }
+}
