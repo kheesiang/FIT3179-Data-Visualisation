@@ -18,10 +18,10 @@
 	right: 200px;
 }
 
-#choropleth_map {
+/* #choropleth_map {
 	left: 200px;
 	right: 200px;
-}
+} */
 
 #scatterplot {
 		left: 200px;
@@ -34,10 +34,10 @@
 }
 
 
-#average_bar_chart {
+/* #average_bar_chart {
 	left: 200px;
 	right: 200px;
-}
+} */
 
 
 body {
