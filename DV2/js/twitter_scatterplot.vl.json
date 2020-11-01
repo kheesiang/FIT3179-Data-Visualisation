@@ -42,7 +42,7 @@
           }
         },
         "width": 800,
-        "height": 500,
+        "height": 600,
         "mark": "circle",
         "selection": {"brush": {"encodings": ["x"], "type": "interval"}},
         "transform": [{"filter": {"selection": "click"}}]

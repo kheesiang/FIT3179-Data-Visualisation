@@ -14,34 +14,23 @@
 
 
 #heatmap {
-/* 	height: 1000px;
-	width: 800px; */
-	top: 100px;
-	bottom: 100px;
 	left: 200px;
 	right: 200px;
 }
 
 #choropleth_map {
-/* 	height: 1000px;
-	width: 800px; */
 	left: 200px;
 	right: 200px;
 }
 
 #scatterplot {
-	/* 	height: 1000px;
-		width: 800px; */
-		top: 100px;
-		bottom: 100px;
 		left: 200px;
 		right: 200px;
 	}
 
 
 body {
-	font-family: 'Simplifica', sans-serif;
-	background-color: #E1E8ED;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1 {
