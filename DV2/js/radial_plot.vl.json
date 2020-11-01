@@ -10,6 +10,7 @@
       "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
     },{
       "mark": {"type": "text", "radiusOffset": 10, "align": "right", "baseline": "middle"},
+      "selection": {"highlight": {"type": "single"}},
       "encoding": {
         "text": {"field": "total_tweets", "type": "quantitative"}
       }
@@ -18,7 +19,23 @@
     "encoding": {
       "theta": {"field": "total_tweets", "type": "quantitative", "stack": true},
       "radius": {"field": "total_tweets", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
-      "color": {"field": "language", "type": "nominal", "title": "Language"},
+      "color": {"field": "language", "type": "nominal"},
+      "opacity": {
+        "condition": {"selection": "highlight", "value": 1},
+        "value": 0.2
+      },
+        "stroke": {
+        "condition": {
+          "test": {
+            "and": [
+              {"selection": "highlight"},
+              "length(data(\"highlight_store\"))"
+            ]
+          },
+          "value": "black"
+        },
+        "value": null
+      },
       "tooltip": [
         {"field": "language", "type": "nominal", "title": "Language"},
         {"field": "total_tweets", "type": "quantitative", "title": "Total Number of Tweets"}
