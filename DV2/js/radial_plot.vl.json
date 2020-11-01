@@ -18,7 +18,7 @@
     "encoding": {
       "theta": {"field": "total_tweets", "type": "quantitative", "stack": true},
       "radius": {"field": "total_tweets", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
-      "color": {"field": "language", "type": "nominal"},
+      "color": {"field": "language", "type": "nominal", "title": "Language"},
       "tooltip": [
         {"field": "language", "type": "nominal", "title": "Language"},
         {"field": "total_tweets", "type": "quantitative", "title": "Total Number of Tweets"}
