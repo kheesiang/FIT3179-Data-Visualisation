@@ -13,10 +13,10 @@
 
 
 
-/* #heatmap {
-	left: 100px;
-	right: 100px;
-} */
+#heatmap {
+	left: 250px;
+	right: 250px;
+}
 
 #choropleth_map {
 	left: 250px;
@@ -28,15 +28,15 @@
 		right: 250px;
 	}
 
-#radial_plot {
+/* #radial_plot {
 	left: 250px;
 	right: 250px;
-}
+} */
 
 
 /* #average_bar_chart {
-	left: 100px;
-	right: 100px;
+	left: 250px;
+	right: 250px;
 } */
 
 
