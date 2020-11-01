@@ -13,31 +13,31 @@
 
 
 
-#heatmap {
+/* #heatmap {
 	left: 100px;
 	right: 100px;
-}
+} */
 
 #choropleth_map {
-	left: 200px;
-	right: 200px;
+	left: 250px;
+	right: 250px;
 }
 
 #scatterplot {
-		left: 100px;
-		right: 100px;
+		left: 250px;
+		right: 250px;
 	}
 
 #radial_plot {
-	left: 100px;
-	right: 100px;
+	left: 250px;
+	right: 250px;
 }
 
 
-#average_bar_chart {
+/* #average_bar_chart {
 	left: 100px;
 	right: 100px;
-}
+} */
 
 
 body {
