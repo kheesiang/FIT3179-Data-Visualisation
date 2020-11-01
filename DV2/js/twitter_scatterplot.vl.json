@@ -3,6 +3,7 @@
     "data": {
       "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_tweets_by_hour.csv"
     },
+  
     "vconcat": [
       {
         "encoding": {
@@ -17,18 +18,33 @@
           },
           "tooltip": [
             {"field": "country", "type": "nominal", "title": "Country"},
+            {"field": "Continent_Name", "type": "nominal", "title": "Continent"},
             {"field": "status_id", "type": "quantitative", "title": "Number of Tweets"},
             {"field": "time", "type": "quantitative", "title": "Hour in the Day"}
           ],
           "size": {
-            "title": "Is Reply",
+            "title": "Is a Reply",
             "field": "reply_to_status_id",
             "type": "quantitative"
+          },
+          "opacity": {"value": 0.8},
+          "color": {
+            "condition": {
+              "selection": "brush",
+              "title": "Continent",
+              "field": "Continent_Name",
+              "type": "nominal",
+              "scale": {
+                "domain": ["Asia", "Africa", "Antarctica", "Oceania", "Europe", "North America", "South America"],
+                "range": ["#e63946", "#ffd500", "#001427", "#e5989b", "#3d85c6", "#f48c06","#2b9348"]
+              }
+            },
+            "value": "gray"
           }
         },
-        "width": 600,
-        "height": 300,
-        "mark": "point",
+        "width": 800,
+        "height": 500,
+        "mark": "circle",
         "selection": {"brush": {"encodings": ["x"], "type": "interval"}},
         "transform": [{"filter": {"selection": "click"}}]
       },
@@ -37,18 +53,21 @@
           "color": {
             "condition": {
               "selection": "click",
-              "field": "country",
+              "field": "Continent_Name",
               "scale": {
-                "domain": ["sun", "fog", "drizzle", "rain", "snow"],
-                "range": ["#e7ba52", "#a7a7a7", "#aec7e8", "#1f77b4", "#9467bd"]
+                "domain": ["Asia", "Africa", "Antarctica", "Oceania", "Europe", "North America", "South America"]
               }
             },
             "value": "lightgray"
           },
-          "x": {"aggregate": "count"},
-          "y": {"title": "Weather", "field": "weather"}
+          "x": {"aggregate":"count", "title": "Number of Tweets"},
+          "y": {"title": "Continent", "field": "Continent_Name"},
+          "tooltip": [
+            {"field": "Continent_Name", "type": "nominal", "title": "Continent"},
+            {"field": "grand_total", "type": "quantitative", "title": "Total Number of Tweets"}
+          ]
         },
-        "width": 600,
+        "width": 800,
         "mark": "bar",
         "selection": {"click": {"encodings": ["color"], "type": "multi"}},
         "transform": [{"filter": {"selection": "brush"}}]
