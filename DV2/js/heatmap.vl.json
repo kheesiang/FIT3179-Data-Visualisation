@@ -5,39 +5,53 @@
   "data": {
     "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_stats_by_date.csv"
   },
+  "selection": {
+  "highlight": {"type": "single"}
+  },
   "mark": "rect",
   "encoding": {
     "x": {
-      "bin": {"maxbins":30},
+      "bin": {"maxbins": 30},
       "field": "created_at",
       "type": "quantitative",
       "title": "Day of the Month",
       "axis": {"format": ""}
-      
     },
-    "y": {
-      "field": "country",
-      "type": "nominal",
-      "title": "Country"
-    },
+    "y": {"field": "country", "type": "nominal", "title": "Country"},
     "color": {
       "field": "total_tweets",
       "title": "Number of Tweets",
       "scale": {
         "type": "threshold",
         "domain": [300, 600, 1000, 2000, 3000, 6000, 9000],
-        "range": ["#e5f1fb", "#cfe2f3", "#9fc5e8", "#6fa8dc", "#3d85c6", "#0b5394", "#073763"]
+        "range": [
+          "#e5f1fb",
+          "#cfe2f3",
+          "#9fc5e8",
+          "#6fa8dc",
+          "#3d85c6",
+          "#0b5394",
+          "#073763"
+        ]
       }
+    },
+    "stroke": {
+      "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
+      "value": null
+    },
+    "opacity": {
+      "condition": {"selection": "highlight", "value": 1},
+      "value": 0.5
     },
     "tooltip": [
       {"field": "country", "type": "nominal", "title": "Country"},
       {"field": "created_at", "type": "quantitative", "title": "Day"},
-      {"field": "total_tweets", "type": "quantitative", "title": "Number of Tweets"}
+      {
+        "field": "total_tweets",
+        "type": "quantitative",
+        "title": "Number of Tweets"
+      }
     ]
   },
-  "config": {
-    "view": {
-      "stroke": "transparent"
-    }
-  }
+  "config": {"view": {"stroke": "transparent"}}
 }
