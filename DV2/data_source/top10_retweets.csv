@@ -1,9 +1,9 @@
-status_id,user_id,created_at,screen_name,text,source,reply_to_status_id,reply_to_user_id,reply_to_screen_name,is_quote,favourites_count,retweet_count,country_code,place_full_name,place_type,followers_count,friends_count,verified,lang,country
-1.25e+18,17537467.0,2020-04-01T20:05:02Z,TarekFatah,Indian Muslims welcoming #coronavirus to India as they flaunt their supposed invincibility to #CoronaVirus because they say ”Allah is protecting them” while he wipes out ’Kaafirs’ (none-Muslims) https://t.co/dTTSL8OA3b,Twitter for iPhone,,,,False,565.0,5505,CA,"Toronto, Ontario",city,627156.0,2015.0,True,en,Canada
-1.25e+18,231228627.0,2020-04-17T22:54:50Z,Cakeydoll,"Dear @MattHancock - this is my daughter - who I put to bed tonight sobbing and begging me not to work in A&amp;E - her words broke me ,               “ Mummy I’m only 8 and I need you - I don’t want you to die” #PPEnow #gowns #COVID19 https://t.co/JfI46HFfAE",Twitter for iPhone,,,,False,9193.0,5094,GB,"Southend-on-Sea, East",city,1178.0,1552.0,False,en,United Kingdom
-1.25e+18,17537467.0,2020-04-02T16:54:06Z,TarekFatah,"Muslim man wipes his nose and mucous on currency notes to spread #coronavirus pandemic. He claims there is no cure for #COVID19 because it is disease sent by Allah to destroy infidels. 
- https://t.co/g0TRlOgkIf",Twitter for iPhone,,,,False,565.0,4054,CA,"Toronto, Ontario",city,627516.0,2015.0,True,en,Canada
-1.25e+18,490095206.0,2020-04-03T18:32:56Z,Runjhunsharmas,"At Safdarjung Hospital: 500 faculty, 1700 resident docs, 2000 nursing staff are in shortage of protective gear
+﻿category,key,screen_name,text,value
+1,Retweets,TarekFatah,Indian Muslims welcoming #coronavirus to India as they flaunt their supposed invincibility to #CoronaVirus because they say ‚ÄùAllah is protecting them‚Äù while he wipes out ‚ÄôKaafirs‚Äô (none-Muslims) https://t.co/dTTSL8OA3b,5505
+2,Retweets,Cakeydoll,"Dear @MattHancock - this is my daughter - who I put to bed tonight sobbing and begging me not to work in A&amp;E - her words broke me ,               ‚Äú Mummy I‚Äôm only 8 and I need you - I don‚Äôt want you to die‚Äù #PPEnow #gowns #COVID19 https://t.co/JfI46HFfAE",5094
+3,Retweets,TarekFatah,"Muslim man wipes his nose and mucous on currency notes to spread #coronavirus pandemic. He claims there is no cure for #COVID19 because it is disease sent by Allah to destroy infidels. 
+ https://t.co/g0TRlOgkIf",4054
+4,Retweets,Runjhunsharmas,"At Safdarjung Hospital: 500 faculty, 1700 resident docs, 2000 nursing staff are in shortage of protective gear
 
 The staff is in dire need of
 1 PPE Kits (Hazmat Suits)- 50,000
@@ -11,25 +11,161 @@ The staff is in dire need of
 3 Triple Layer Masks- 3,00,000
 4 Hand Sanitizer (500ml bottles) -10,000
 
-#Covid_19",Twitter for Android,,,,False,109.0,3818,IN,"New Delhi, India",city,10308.0,182.0,True,en,India
-1.25e+18,216065430.0,2020-04-27T22:26:13Z,staceyabrams,"NY's decision to cancel its primary creates a false choice: asking voters to pick safety or participation in our democracy. This is wrong. Elections officials can hold safe, accessible elections, where voters cast ballots by mail or safely in person. #COVID19 is no excuse.",Twitter for iPhone,,,,False,6027.0,3613,US,"Atlanta, GA",city,686370.0,1676.0,True,en,United States
-1.25e+18,2207771359.0,2020-04-02T11:30:22Z,PhacharaC,"ถ้าไม่ติดว่ามี #COVID19 แล้วงดสงกรานต์ นะ 
- เจน นุ่น โบว์ คือได้เป็นนางสงกรานต์ปีนี้แล้วป้ะ  #เจนนุ่นโบว์ #ซุปเปอร์วาเลนไทน์ https://t.co/y4AKpVlCjv",Twitter for Android,,,,False,963.0,3526,TH,"Bang Kapi, Thailand",city,205.0,94.0,False,th,Thailand
-1.25e+18,2962822339.0,2020-04-26T03:33:39Z,gurjar_saurav,"पूरे भारतवर्ष को हमारा प्रणिपात 🙏
-वस्त्र और शस्त्र तो समय के साथ बदलें जा सकते हैं,
-परन्तु हमारी संस्कृति पूरे जीवनकाल में कभी नहीं बदली जा सकती 🇮🇳 जय हिंद  #StayHomeStaySafe #mahabhrat #namaste #sanatani #indianpride #bollywood https://t.co/y0YAuVLxVw",Twitter for iPhone,,,,False,277.0,3310,US,"Florida, USA",admin,76332.0,26.0,True,hi,United States
-1.25e+18,233455647.0,2020-04-04T21:15:01Z,adriandelmonte,"#COVID19 total cases update:
+#Covid_19",3818
+5,Retweets,staceyabrams,"NY's decision to cancel its primary creates a false choice: asking voters to pick safety or participation in our democracy. This is wrong. Elections officials can hold safe, accessible elections, where voters cast ballots by mail or safely in person. #COVID19 is no excuse.",3613
+6,Retweets,PhacharaC,"‡∏ñ‡πâ‡∏≤‡πÑ‡∏°‡πà‡∏ï‡∏¥‡∏î‡∏ß‡πà‡∏≤‡∏°‡∏µ #COVID19 ‡πÅ‡∏•‡πâ‡∏ß‡∏á‡∏î‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå ‡∏ô‡∏∞ 
+ ‡πÄ‡∏à‡∏ô ‡∏ô‡∏∏‡πà‡∏ô ‡πÇ‡∏ö‡∏ß‡πå ‡∏Ñ‡∏∑‡∏≠‡πÑ‡∏î‡πâ‡πÄ‡∏õ‡πá‡∏ô‡∏ô‡∏≤‡∏á‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå‡∏õ‡∏µ‡∏ô‡∏µ‡πâ‡πÅ‡∏•‡πâ‡∏ß‡∏õ‡πâ‡∏∞  #‡πÄ‡∏à‡∏ô‡∏ô‡∏∏‡πà‡∏ô‡πÇ‡∏ö‡∏ß‡πå #‡∏ã‡∏∏‡∏õ‡πÄ‡∏õ‡∏≠‡∏£‡πå‡∏ß‡∏≤‡πÄ‡∏•‡∏ô‡πÑ‡∏ó‡∏ô‡πå https://t.co/y4AKpVlCjv",3526
+7,Retweets,gurjar_saurav,"‡§™‡•Ç‡§∞‡•á ‡§≠‡§æ‡§∞‡§§‡§µ‡§∞‡•ç‡§∑ ‡§ï‡•ã ‡§π‡§Æ‡§æ‡§∞‡§æ ‡§™‡•ç‡§∞‡§£‡§ø‡§™‡§æ‡§§ üôè
+‡§µ‡§∏‡•ç‡§§‡•ç‡§∞ ‡§î‡§∞ ‡§∂‡§∏‡•ç‡§§‡•ç‡§∞ ‡§§‡•ã ‡§∏‡§Æ‡§Ø ‡§ï‡•á ‡§∏‡§æ‡§• ‡§¨‡§¶‡§≤‡•á‡§Ç ‡§ú‡§æ ‡§∏‡§ï‡§§‡•á ‡§π‡•à‡§Ç,
+‡§™‡§∞‡§®‡•ç‡§§‡•Å ‡§π‡§Æ‡§æ‡§∞‡•Ä ‡§∏‡§Ç‡§∏‡•ç‡§ï‡•É‡§§‡§ø ‡§™‡•Ç‡§∞‡•á ‡§ú‡•Ä‡§µ‡§®‡§ï‡§æ‡§≤ ‡§Æ‡•á‡§Ç ‡§ï‡§≠‡•Ä ‡§®‡§π‡•Ä‡§Ç ‡§¨‡§¶‡§≤‡•Ä ‡§ú‡§æ ‡§∏‡§ï‡§§‡•Ä üáÆüá≥ ‡§ú‡§Ø ‡§π‡§ø‡§Ç‡§¶  #StayHomeStaySafe #mahabhrat #namaste #sanatani #indianpride #bollywood https://t.co/y0YAuVLxVw",3310
+8,Retweets,adriandelmonte,"#COVID19 total cases update:
 
-🇺🇸 USA - 306,854
-🇪🇸 Spain - 124,870
-🇮🇹 Italy - 124,632
-🇺🇸 New York - 113,704
-🇩🇪 Germany - 95,614
-🇫🇷 France - 89,953
+üá∫üá∏ USA - 306,854
+üá™üá∏ Spain - 124,870
+üáÆüáπ Italy - 124,632
+üá∫üá∏ New York - 113,704
+üá©üá™ Germany - 95,614
+üá´üá∑ France - 89,953
 
 #COVID19US total cases spread:
 
-🇺🇸 1-150,000 - 10 weeks
-🇺🇸 150,000-300,000 - 5 days",Twitter for iPhone,,,,False,2017.0,3283,IT,"Milan, Lombardy",city,18487.0,315.0,True,en,Italy
-1.25e+18,17537467.0,2020-04-14T22:21:41Z,TarekFatah,BREAKING - President @realDonaldTrump cuts all U.S. fundins of the @WHO for permitting flights out of China when they parroted China's claim that #coronavirus could not be spread from person-to-person.,Twitter for iPhone,,,,False,568.0,3239,CA,"Toronto, Ontario",city,631805.0,2013.0,True,en,Canada
-1.25e+18,7.23e+17,2020-04-01T15:34:00Z,Pondmcss3,เดชะบุญ สมัครมาสเตอร์เชฟซีซั่น3ก่อน ไม่งั้นซีซั่น4คู่ต่อสู้อีกเป็นล้าน 😂 #MasterChefAllStarsThailand #masterchefthailandseason3 #COVID19,Twitter for iPhone,,,,False,1003.0,3113,TH,"Bang Kapi, Thailand",city,23613.0,16.0,False,th,Thailand
+üá∫üá∏ 1-150,000 - 10 weeks
+üá∫üá∏ 150,000-300,000 - 5 days",3283
+9,Retweets,TarekFatah,BREAKING - President @realDonaldTrump cuts all U.S. fundins of the @WHO for permitting flights out of China when they parroted China's claim that #coronavirus could not be spread from person-to-person.,3239
+10,Retweets,Pondmcss3,‡πÄ‡∏î‡∏ä‡∏∞‡∏ö‡∏∏‡∏ç ‡∏™‡∏°‡∏±‡∏Ñ‡∏£‡∏°‡∏≤‡∏™‡πÄ‡∏ï‡∏≠‡∏£‡πå‡πÄ‡∏ä‡∏ü‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô3‡∏Å‡πà‡∏≠‡∏ô ‡πÑ‡∏°‡πà‡∏á‡∏±‡πâ‡∏ô‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô4‡∏Ñ‡∏π‡πà‡∏ï‡πà‡∏≠‡∏™‡∏π‡πâ‡∏≠‡∏µ‡∏Å‡πÄ‡∏õ‡πá‡∏ô‡∏•‡πâ‡∏≤‡∏ô üòÇ #MasterChefAllStarsThailand #masterchefthailandseason3 #COVID19,3113
+1,Favorites,TarekFatah,Indian Muslims welcoming #coronavirus to India as they flaunt their supposed invincibility to #CoronaVirus because they say ‚ÄùAllah is protecting them‚Äù while he wipes out ‚ÄôKaafirs‚Äô (none-Muslims) https://t.co/dTTSL8OA3b,565
+2,Favorites,Cakeydoll,"Dear @MattHancock - this is my daughter - who I put to bed tonight sobbing and begging me not to work in A&amp;E - her words broke me ,               ‚Äú Mummy I‚Äôm only 8 and I need you - I don‚Äôt want you to die‚Äù #PPEnow #gowns #COVID19 https://t.co/JfI46HFfAE",9193
+3,Favorites,TarekFatah,"Muslim man wipes his nose and mucous on currency notes to spread #coronavirus pandemic. He claims there is no cure for #COVID19 because it is disease sent by Allah to destroy infidels. 
+ https://t.co/g0TRlOgkIf",565
+4,Favorites,Runjhunsharmas,"At Safdarjung Hospital: 500 faculty, 1700 resident docs, 2000 nursing staff are in shortage of protective gear
+
+The staff is in dire need of
+1 PPE Kits (Hazmat Suits)- 50,000
+2 N95 Masks- 50,000
+3 Triple Layer Masks- 3,00,000
+4 Hand Sanitizer (500ml bottles) -10,000
+
+#Covid_19",109
+5,Favorites,staceyabrams,"NY's decision to cancel its primary creates a false choice: asking voters to pick safety or participation in our democracy. This is wrong. Elections officials can hold safe, accessible elections, where voters cast ballots by mail or safely in person. #COVID19 is no excuse.",6027
+6,Favorites,PhacharaC,"‡∏ñ‡πâ‡∏≤‡πÑ‡∏°‡πà‡∏ï‡∏¥‡∏î‡∏ß‡πà‡∏≤‡∏°‡∏µ #COVID19 ‡πÅ‡∏•‡πâ‡∏ß‡∏á‡∏î‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå ‡∏ô‡∏∞ 
+ ‡πÄ‡∏à‡∏ô ‡∏ô‡∏∏‡πà‡∏ô ‡πÇ‡∏ö‡∏ß‡πå ‡∏Ñ‡∏∑‡∏≠‡πÑ‡∏î‡πâ‡πÄ‡∏õ‡πá‡∏ô‡∏ô‡∏≤‡∏á‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå‡∏õ‡∏µ‡∏ô‡∏µ‡πâ‡πÅ‡∏•‡πâ‡∏ß‡∏õ‡πâ‡∏∞  #‡πÄ‡∏à‡∏ô‡∏ô‡∏∏‡πà‡∏ô‡πÇ‡∏ö‡∏ß‡πå #‡∏ã‡∏∏‡∏õ‡πÄ‡∏õ‡∏≠‡∏£‡πå‡∏ß‡∏≤‡πÄ‡∏•‡∏ô‡πÑ‡∏ó‡∏ô‡πå https://t.co/y4AKpVlCjv",963
+7,Favorites,gurjar_saurav,"‡§™‡•Ç‡§∞‡•á ‡§≠‡§æ‡§∞‡§§‡§µ‡§∞‡•ç‡§∑ ‡§ï‡•ã ‡§π‡§Æ‡§æ‡§∞‡§æ ‡§™‡•ç‡§∞‡§£‡§ø‡§™‡§æ‡§§ üôè
+‡§µ‡§∏‡•ç‡§§‡•ç‡§∞ ‡§î‡§∞ ‡§∂‡§∏‡•ç‡§§‡•ç‡§∞ ‡§§‡•ã ‡§∏‡§Æ‡§Ø ‡§ï‡•á ‡§∏‡§æ‡§• ‡§¨‡§¶‡§≤‡•á‡§Ç ‡§ú‡§æ ‡§∏‡§ï‡§§‡•á ‡§π‡•à‡§Ç,
+‡§™‡§∞‡§®‡•ç‡§§‡•Å ‡§π‡§Æ‡§æ‡§∞‡•Ä ‡§∏‡§Ç‡§∏‡•ç‡§ï‡•É‡§§‡§ø ‡§™‡•Ç‡§∞‡•á ‡§ú‡•Ä‡§µ‡§®‡§ï‡§æ‡§≤ ‡§Æ‡•á‡§Ç ‡§ï‡§≠‡•Ä ‡§®‡§π‡•Ä‡§Ç ‡§¨‡§¶‡§≤‡•Ä ‡§ú‡§æ ‡§∏‡§ï‡§§‡•Ä üáÆüá≥ ‡§ú‡§Ø ‡§π‡§ø‡§Ç‡§¶  #StayHomeStaySafe #mahabhrat #namaste #sanatani #indianpride #bollywood https://t.co/y0YAuVLxVw",277
+8,Favorites,adriandelmonte,"#COVID19 total cases update:
+
+üá∫üá∏ USA - 306,854
+üá™üá∏ Spain - 124,870
+üáÆüáπ Italy - 124,632
+üá∫üá∏ New York - 113,704
+üá©üá™ Germany - 95,614
+üá´üá∑ France - 89,953
+
+#COVID19US total cases spread:
+
+üá∫üá∏ 1-150,000 - 10 weeks
+üá∫üá∏ 150,000-300,000 - 5 days",2017
+9,Favorites,TarekFatah,BREAKING - President @realDonaldTrump cuts all U.S. fundins of the @WHO for permitting flights out of China when they parroted China's claim that #coronavirus could not be spread from person-to-person.,568
+10,Favorites,Pondmcss3,‡πÄ‡∏î‡∏ä‡∏∞‡∏ö‡∏∏‡∏ç ‡∏™‡∏°‡∏±‡∏Ñ‡∏£‡∏°‡∏≤‡∏™‡πÄ‡∏ï‡∏≠‡∏£‡πå‡πÄ‡∏ä‡∏ü‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô3‡∏Å‡πà‡∏≠‡∏ô ‡πÑ‡∏°‡πà‡∏á‡∏±‡πâ‡∏ô‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô4‡∏Ñ‡∏π‡πà‡∏ï‡πà‡∏≠‡∏™‡∏π‡πâ‡∏≠‡∏µ‡∏Å‡πÄ‡∏õ‡πá‡∏ô‡∏•‡πâ‡∏≤‡∏ô üòÇ #MasterChefAllStarsThailand #masterchefthailandseason3 #COVID19,1003
+1,Followers,TarekFatah,Indian Muslims welcoming #coronavirus to India as they flaunt their supposed invincibility to #CoronaVirus because they say ‚ÄùAllah is protecting them‚Äù while he wipes out ‚ÄôKaafirs‚Äô (none-Muslims) https://t.co/dTTSL8OA3b,627156
+2,Followers,Cakeydoll,"Dear @MattHancock - this is my daughter - who I put to bed tonight sobbing and begging me not to work in A&amp;E - her words broke me ,               ‚Äú Mummy I‚Äôm only 8 and I need you - I don‚Äôt want you to die‚Äù #PPEnow #gowns #COVID19 https://t.co/JfI46HFfAE",1178
+3,Followers,TarekFatah,"Muslim man wipes his nose and mucous on currency notes to spread #coronavirus pandemic. He claims there is no cure for #COVID19 because it is disease sent by Allah to destroy infidels. 
+ https://t.co/g0TRlOgkIf",627516
+4,Followers,Runjhunsharmas,"At Safdarjung Hospital: 500 faculty, 1700 resident docs, 2000 nursing staff are in shortage of protective gear
+
+The staff is in dire need of
+1 PPE Kits (Hazmat Suits)- 50,000
+2 N95 Masks- 50,000
+3 Triple Layer Masks- 3,00,000
+4 Hand Sanitizer (500ml bottles) -10,000
+
+#Covid_19",10308
+5,Followers,staceyabrams,"NY's decision to cancel its primary creates a false choice: asking voters to pick safety or participation in our democracy. This is wrong. Elections officials can hold safe, accessible elections, where voters cast ballots by mail or safely in person. #COVID19 is no excuse.",686370
+6,Followers,PhacharaC,"‡∏ñ‡πâ‡∏≤‡πÑ‡∏°‡πà‡∏ï‡∏¥‡∏î‡∏ß‡πà‡∏≤‡∏°‡∏µ #COVID19 ‡πÅ‡∏•‡πâ‡∏ß‡∏á‡∏î‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå ‡∏ô‡∏∞ 
+ ‡πÄ‡∏à‡∏ô ‡∏ô‡∏∏‡πà‡∏ô ‡πÇ‡∏ö‡∏ß‡πå ‡∏Ñ‡∏∑‡∏≠‡πÑ‡∏î‡πâ‡πÄ‡∏õ‡πá‡∏ô‡∏ô‡∏≤‡∏á‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå‡∏õ‡∏µ‡∏ô‡∏µ‡πâ‡πÅ‡∏•‡πâ‡∏ß‡∏õ‡πâ‡∏∞  #‡πÄ‡∏à‡∏ô‡∏ô‡∏∏‡πà‡∏ô‡πÇ‡∏ö‡∏ß‡πå #‡∏ã‡∏∏‡∏õ‡πÄ‡∏õ‡∏≠‡∏£‡πå‡∏ß‡∏≤‡πÄ‡∏•‡∏ô‡πÑ‡∏ó‡∏ô‡πå https://t.co/y4AKpVlCjv",205
+7,Followers,gurjar_saurav,"‡§™‡•Ç‡§∞‡•á ‡§≠‡§æ‡§∞‡§§‡§µ‡§∞‡•ç‡§∑ ‡§ï‡•ã ‡§π‡§Æ‡§æ‡§∞‡§æ ‡§™‡•ç‡§∞‡§£‡§ø‡§™‡§æ‡§§ üôè
+‡§µ‡§∏‡•ç‡§§‡•ç‡§∞ ‡§î‡§∞ ‡§∂‡§∏‡•ç‡§§‡•ç‡§∞ ‡§§‡•ã ‡§∏‡§Æ‡§Ø ‡§ï‡•á ‡§∏‡§æ‡§• ‡§¨‡§¶‡§≤‡•á‡§Ç ‡§ú‡§æ ‡§∏‡§ï‡§§‡•á ‡§π‡•à‡§Ç,
+‡§™‡§∞‡§®‡•ç‡§§‡•Å ‡§π‡§Æ‡§æ‡§∞‡•Ä ‡§∏‡§Ç‡§∏‡•ç‡§ï‡•É‡§§‡§ø ‡§™‡•Ç‡§∞‡•á ‡§ú‡•Ä‡§µ‡§®‡§ï‡§æ‡§≤ ‡§Æ‡•á‡§Ç ‡§ï‡§≠‡•Ä ‡§®‡§π‡•Ä‡§Ç ‡§¨‡§¶‡§≤‡•Ä ‡§ú‡§æ ‡§∏‡§ï‡§§‡•Ä üáÆüá≥ ‡§ú‡§Ø ‡§π‡§ø‡§Ç‡§¶  #StayHomeStaySafe #mahabhrat #namaste #sanatani #indianpride #bollywood https://t.co/y0YAuVLxVw",76332
+8,Followers,adriandelmonte,"#COVID19 total cases update:
+
+üá∫üá∏ USA - 306,854
+üá™üá∏ Spain - 124,870
+üáÆüáπ Italy - 124,632
+üá∫üá∏ New York - 113,704
+üá©üá™ Germany - 95,614
+üá´üá∑ France - 89,953
+
+#COVID19US total cases spread:
+
+üá∫üá∏ 1-150,000 - 10 weeks
+üá∫üá∏ 150,000-300,000 - 5 days",18487
+9,Followers,TarekFatah,BREAKING - President @realDonaldTrump cuts all U.S. fundins of the @WHO for permitting flights out of China when they parroted China's claim that #coronavirus could not be spread from person-to-person.,631805
+10,Followers,Pondmcss3,‡πÄ‡∏î‡∏ä‡∏∞‡∏ö‡∏∏‡∏ç ‡∏™‡∏°‡∏±‡∏Ñ‡∏£‡∏°‡∏≤‡∏™‡πÄ‡∏ï‡∏≠‡∏£‡πå‡πÄ‡∏ä‡∏ü‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô3‡∏Å‡πà‡∏≠‡∏ô ‡πÑ‡∏°‡πà‡∏á‡∏±‡πâ‡∏ô‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô4‡∏Ñ‡∏π‡πà‡∏ï‡πà‡∏≠‡∏™‡∏π‡πâ‡∏≠‡∏µ‡∏Å‡πÄ‡∏õ‡πá‡∏ô‡∏•‡πâ‡∏≤‡∏ô üòÇ #MasterChefAllStarsThailand #masterchefthailandseason3 #COVID19,23613
+1,Following,TarekFatah,Indian Muslims welcoming #coronavirus to India as they flaunt their supposed invincibility to #CoronaVirus because they say ‚ÄùAllah is protecting them‚Äù while he wipes out ‚ÄôKaafirs‚Äô (none-Muslims) https://t.co/dTTSL8OA3b,2015
+2,Following,Cakeydoll,"Dear @MattHancock - this is my daughter - who I put to bed tonight sobbing and begging me not to work in A&amp;E - her words broke me ,               ‚Äú Mummy I‚Äôm only 8 and I need you - I don‚Äôt want you to die‚Äù #PPEnow #gowns #COVID19 https://t.co/JfI46HFfAE",1552
+3,Following,TarekFatah,"Muslim man wipes his nose and mucous on currency notes to spread #coronavirus pandemic. He claims there is no cure for #COVID19 because it is disease sent by Allah to destroy infidels. 
+ https://t.co/g0TRlOgkIf",2015
+4,Following,Runjhunsharmas,"At Safdarjung Hospital: 500 faculty, 1700 resident docs, 2000 nursing staff are in shortage of protective gear
+
+The staff is in dire need of
+1 PPE Kits (Hazmat Suits)- 50,000
+2 N95 Masks- 50,000
+3 Triple Layer Masks- 3,00,000
+4 Hand Sanitizer (500ml bottles) -10,000
+
+#Covid_19",182
+5,Following,staceyabrams,"NY's decision to cancel its primary creates a false choice: asking voters to pick safety or participation in our democracy. This is wrong. Elections officials can hold safe, accessible elections, where voters cast ballots by mail or safely in person. #COVID19 is no excuse.",1676
+6,Following,PhacharaC,"‡∏ñ‡πâ‡∏≤‡πÑ‡∏°‡πà‡∏ï‡∏¥‡∏î‡∏ß‡πà‡∏≤‡∏°‡∏µ #COVID19 ‡πÅ‡∏•‡πâ‡∏ß‡∏á‡∏î‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå ‡∏ô‡∏∞ 
+ ‡πÄ‡∏à‡∏ô ‡∏ô‡∏∏‡πà‡∏ô ‡πÇ‡∏ö‡∏ß‡πå ‡∏Ñ‡∏∑‡∏≠‡πÑ‡∏î‡πâ‡πÄ‡∏õ‡πá‡∏ô‡∏ô‡∏≤‡∏á‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå‡∏õ‡∏µ‡∏ô‡∏µ‡πâ‡πÅ‡∏•‡πâ‡∏ß‡∏õ‡πâ‡∏∞  #‡πÄ‡∏à‡∏ô‡∏ô‡∏∏‡πà‡∏ô‡πÇ‡∏ö‡∏ß‡πå #‡∏ã‡∏∏‡∏õ‡πÄ‡∏õ‡∏≠‡∏£‡πå‡∏ß‡∏≤‡πÄ‡∏•‡∏ô‡πÑ‡∏ó‡∏ô‡πå https://t.co/y4AKpVlCjv",94
+7,Following,gurjar_saurav,"‡§™‡•Ç‡§∞‡•á ‡§≠‡§æ‡§∞‡§§‡§µ‡§∞‡•ç‡§∑ ‡§ï‡•ã ‡§π‡§Æ‡§æ‡§∞‡§æ ‡§™‡•ç‡§∞‡§£‡§ø‡§™‡§æ‡§§ üôè
+‡§µ‡§∏‡•ç‡§§‡•ç‡§∞ ‡§î‡§∞ ‡§∂‡§∏‡•ç‡§§‡•ç‡§∞ ‡§§‡•ã ‡§∏‡§Æ‡§Ø ‡§ï‡•á ‡§∏‡§æ‡§• ‡§¨‡§¶‡§≤‡•á‡§Ç ‡§ú‡§æ ‡§∏‡§ï‡§§‡•á ‡§π‡•à‡§Ç,
+‡§™‡§∞‡§®‡•ç‡§§‡•Å ‡§π‡§Æ‡§æ‡§∞‡•Ä ‡§∏‡§Ç‡§∏‡•ç‡§ï‡•É‡§§‡§ø ‡§™‡•Ç‡§∞‡•á ‡§ú‡•Ä‡§µ‡§®‡§ï‡§æ‡§≤ ‡§Æ‡•á‡§Ç ‡§ï‡§≠‡•Ä ‡§®‡§π‡•Ä‡§Ç ‡§¨‡§¶‡§≤‡•Ä ‡§ú‡§æ ‡§∏‡§ï‡§§‡•Ä üáÆüá≥ ‡§ú‡§Ø ‡§π‡§ø‡§Ç‡§¶  #StayHomeStaySafe #mahabhrat #namaste #sanatani #indianpride #bollywood https://t.co/y0YAuVLxVw",26
+8,Following,adriandelmonte,"#COVID19 total cases update:
+
+üá∫üá∏ USA - 306,854
+üá™üá∏ Spain - 124,870
+üáÆüáπ Italy - 124,632
+üá∫üá∏ New York - 113,704
+üá©üá™ Germany - 95,614
+üá´üá∑ France - 89,953
+
+#COVID19US total cases spread:
+
+üá∫üá∏ 1-150,000 - 10 weeks
+üá∫üá∏ 150,000-300,000 - 5 days",315
+9,Following,TarekFatah,BREAKING - President @realDonaldTrump cuts all U.S. fundins of the @WHO for permitting flights out of China when they parroted China's claim that #coronavirus could not be spread from person-to-person.,2013
+10,Following,Pondmcss3,‡πÄ‡∏î‡∏ä‡∏∞‡∏ö‡∏∏‡∏ç ‡∏™‡∏°‡∏±‡∏Ñ‡∏£‡∏°‡∏≤‡∏™‡πÄ‡∏ï‡∏≠‡∏£‡πå‡πÄ‡∏ä‡∏ü‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô3‡∏Å‡πà‡∏≠‡∏ô ‡πÑ‡∏°‡πà‡∏á‡∏±‡πâ‡∏ô‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô4‡∏Ñ‡∏π‡πà‡∏ï‡πà‡∏≠‡∏™‡∏π‡πâ‡∏≠‡∏µ‡∏Å‡πÄ‡∏õ‡πá‡∏ô‡∏•‡πâ‡∏≤‡∏ô üòÇ #MasterChefAllStarsThailand #masterchefthailandseason3 #COVID19,16
+1,Verified,TarekFatah,Indian Muslims welcoming #coronavirus to India as they flaunt their supposed invincibility to #CoronaVirus because they say ‚ÄùAllah is protecting them‚Äù while he wipes out ‚ÄôKaafirs‚Äô (none-Muslims) https://t.co/dTTSL8OA3b,TRUE
+2,Verified,Cakeydoll,"Dear @MattHancock - this is my daughter - who I put to bed tonight sobbing and begging me not to work in A&amp;E - her words broke me ,               ‚Äú Mummy I‚Äôm only 8 and I need you - I don‚Äôt want you to die‚Äù #PPEnow #gowns #COVID19 https://t.co/JfI46HFfAE",FALSE
+3,Verified,TarekFatah,"Muslim man wipes his nose and mucous on currency notes to spread #coronavirus pandemic. He claims there is no cure for #COVID19 because it is disease sent by Allah to destroy infidels. 
+ https://t.co/g0TRlOgkIf",TRUE
+4,Verified,Runjhunsharmas,"At Safdarjung Hospital: 500 faculty, 1700 resident docs, 2000 nursing staff are in shortage of protective gear
+
+The staff is in dire need of
+1 PPE Kits (Hazmat Suits)- 50,000
+2 N95 Masks- 50,000
+3 Triple Layer Masks- 3,00,000
+4 Hand Sanitizer (500ml bottles) -10,000
+
+#Covid_19",TRUE
+5,Verified,staceyabrams,"NY's decision to cancel its primary creates a false choice: asking voters to pick safety or participation in our democracy. This is wrong. Elections officials can hold safe, accessible elections, where voters cast ballots by mail or safely in person. #COVID19 is no excuse.",TRUE
+6,Verified,PhacharaC,"‡∏ñ‡πâ‡∏≤‡πÑ‡∏°‡πà‡∏ï‡∏¥‡∏î‡∏ß‡πà‡∏≤‡∏°‡∏µ #COVID19 ‡πÅ‡∏•‡πâ‡∏ß‡∏á‡∏î‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå ‡∏ô‡∏∞ 
+ ‡πÄ‡∏à‡∏ô ‡∏ô‡∏∏‡πà‡∏ô ‡πÇ‡∏ö‡∏ß‡πå ‡∏Ñ‡∏∑‡∏≠‡πÑ‡∏î‡πâ‡πÄ‡∏õ‡πá‡∏ô‡∏ô‡∏≤‡∏á‡∏™‡∏á‡∏Å‡∏£‡∏≤‡∏ô‡∏ï‡πå‡∏õ‡∏µ‡∏ô‡∏µ‡πâ‡πÅ‡∏•‡πâ‡∏ß‡∏õ‡πâ‡∏∞  #‡πÄ‡∏à‡∏ô‡∏ô‡∏∏‡πà‡∏ô‡πÇ‡∏ö‡∏ß‡πå #‡∏ã‡∏∏‡∏õ‡πÄ‡∏õ‡∏≠‡∏£‡πå‡∏ß‡∏≤‡πÄ‡∏•‡∏ô‡πÑ‡∏ó‡∏ô‡πå https://t.co/y4AKpVlCjv",FALSE
+7,Verified,gurjar_saurav,"‡§™‡•Ç‡§∞‡•á ‡§≠‡§æ‡§∞‡§§‡§µ‡§∞‡•ç‡§∑ ‡§ï‡•ã ‡§π‡§Æ‡§æ‡§∞‡§æ ‡§™‡•ç‡§∞‡§£‡§ø‡§™‡§æ‡§§ üôè
+‡§µ‡§∏‡•ç‡§§‡•ç‡§∞ ‡§î‡§∞ ‡§∂‡§∏‡•ç‡§§‡•ç‡§∞ ‡§§‡•ã ‡§∏‡§Æ‡§Ø ‡§ï‡•á ‡§∏‡§æ‡§• ‡§¨‡§¶‡§≤‡•á‡§Ç ‡§ú‡§æ ‡§∏‡§ï‡§§‡•á ‡§π‡•à‡§Ç,
+‡§™‡§∞‡§®‡•ç‡§§‡•Å ‡§π‡§Æ‡§æ‡§∞‡•Ä ‡§∏‡§Ç‡§∏‡•ç‡§ï‡•É‡§§‡§ø ‡§™‡•Ç‡§∞‡•á ‡§ú‡•Ä‡§µ‡§®‡§ï‡§æ‡§≤ ‡§Æ‡•á‡§Ç ‡§ï‡§≠‡•Ä ‡§®‡§π‡•Ä‡§Ç ‡§¨‡§¶‡§≤‡•Ä ‡§ú‡§æ ‡§∏‡§ï‡§§‡•Ä üáÆüá≥ ‡§ú‡§Ø ‡§π‡§ø‡§Ç‡§¶  #StayHomeStaySafe #mahabhrat #namaste #sanatani #indianpride #bollywood https://t.co/y0YAuVLxVw",TRUE
+8,Verified,adriandelmonte,"#COVID19 total cases update:
+
+üá∫üá∏ USA - 306,854
+üá™üá∏ Spain - 124,870
+üáÆüáπ Italy - 124,632
+üá∫üá∏ New York - 113,704
+üá©üá™ Germany - 95,614
+üá´üá∑ France - 89,953
+
+#COVID19US total cases spread:
+
+üá∫üá∏ 1-150,000 - 10 weeks
+üá∫üá∏ 150,000-300,000 - 5 days",TRUE
+9,Verified,TarekFatah,BREAKING - President @realDonaldTrump cuts all U.S. fundins of the @WHO for permitting flights out of China when they parroted China's claim that #coronavirus could not be spread from person-to-person.,TRUE
+10,Verified,Pondmcss3,‡πÄ‡∏î‡∏ä‡∏∞‡∏ö‡∏∏‡∏ç ‡∏™‡∏°‡∏±‡∏Ñ‡∏£‡∏°‡∏≤‡∏™‡πÄ‡∏ï‡∏≠‡∏£‡πå‡πÄ‡∏ä‡∏ü‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô3‡∏Å‡πà‡∏≠‡∏ô ‡πÑ‡∏°‡πà‡∏á‡∏±‡πâ‡∏ô‡∏ã‡∏µ‡∏ã‡∏±‡πà‡∏ô4‡∏Ñ‡∏π‡πà‡∏ï‡πà‡∏≠‡∏™‡∏π‡πâ‡∏≠‡∏µ‡∏Å‡πÄ‡∏õ‡πá‡∏ô‡∏•‡πâ‡∏≤‡∏ô üòÇ #MasterChefAllStarsThailand #masterchefthailandseason3 #COVID19,FALSE
