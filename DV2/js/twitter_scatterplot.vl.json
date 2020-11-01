@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "data": {
-      "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_tweets_by_hour2.csv"
+      "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_tweets_by_hour.csv"
     },
     "vconcat": [
       {
