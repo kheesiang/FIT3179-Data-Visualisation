@@ -1,0 +1,223 @@
+country,time,status_id
+Afghanistan,20,189
+Aland Islands,20,1
+Albania,20,109
+Algeria,20,280
+American Samoa,20,3
+Andorra,20,197
+Angola,20,57
+Antarctica,20,2
+Antigua and Barbuda,20,10
+Argentina,20,9378
+Armenia,20,40
+Aruba,20,18
+Australia,20,6307
+Austria,20,927
+Azerbaijan,20,89
+Bahamas,20,47
+Bahrain,20,255
+Bangladesh,20,908
+Barbados,20,48
+Belgium,20,3681
+Belize,20,16
+Benin,20,120
+Bermuda,20,64
+Bhutan,20,29
+Bolivia,20,557
+"Bonaire, Sint Eustatius and Saba",20,5
+Bosnia and Herzegovina,20,116
+Botswana,20,262
+Brazil,20,17409
+British Virgin Islands,20,9
+Brunei,20,40
+Bulgaria,20,65
+Burkina Faso,20,88
+Burundi,20,34
+Cambodia,20,47
+Cameroon,20,434
+Canada,20,20572
+Cape Verde,20,11
+Cayman Islands,20,33
+Central African Republic,20,3
+Chad,20,89
+Chile,20,8480
+Colombia,20,8303
+Congo Brazzaville,20,110
+Costa Rica,20,387
+Cuba,20,576
+Curaçao,20,16
+Cyprus,20,303
+Czech Republic,20,334
+Democratic Republic of Congo,20,894
+Denmark,20,598
+Djibouti,20,159
+Dominica,20,8
+Dominican Republic,20,1823
+East Timor,20,11
+Ecuador,20,5902
+Egypt,20,378
+El Salvador,20,778
+Equatorial Guinea,20,13
+Estonia,20,32
+Ethiopia,20,304
+Falkland Islands (Malvinas),20,3
+Faroe Islands,20,11
+Fiji,20,339
+Finland,20,548
+Former Yugoslav Republic of Macedonia,20,47
+France,20,16393
+French Guiana,20,51
+French Polynesia,20,8
+Gabon,20,99
+Gambia,20,111
+Georgia,20,196
+Germany,20,7086
+Ghana,20,2153
+Gibraltar,20,100
+Greece,20,677
+Greenland,20,11
+Grenada,20,2
+Guadeloupe,20,117
+Guam,20,12
+Guatemala,20,773
+Guernsey,20,11
+Guinea,20,235
+Guinea Bissau,20,18
+Guyana,20,11
+Haiti,20,314
+Hashemite Kingdom of Jordan,20,311
+Honduras,20,686
+Hong Kong,20,463
+Hungary,20,160
+Iceland,20,91
+India,20,63445
+Indonesia,20,5513
+Iraq,20,425
+Ireland,20,6274
+Islamic Republic of Iran,20,286
+Isle of Man,20,49
+Israel,20,635
+Italy,20,13584
+Ivory Coast,20,340
+Jamaica,20,473
+Japan,20,3771
+Jersey,20,4
+Kazakhstan,20,89
+Kenya,20,4614
+Kingdom of Saudi Arabia,20,2087
+Kosovo,20,206
+Kuwait,20,539
+Kyrgyzstan,20,55
+La Réunion,20,113
+Lao People's Democratic Republic,20,13
+Latvia,20,67
+Lebanon,20,710
+Lesotho,20,72
+Liberia,20,49
+Libya,20,54
+Liechtenstein,20,42
+Lithuania,20,73
+Luxembourg,20,109
+Macau,20,14
+Madagascar,20,25
+Malawi,20,109
+Malaysia,20,3768
+Maldives,20,1107
+Mali,20,202
+Malta,20,114
+Marshall Islands,20,1
+Martinique,20,172
+Mauritania,20,21
+Mayotte,20,6
+Mexico,20,15720
+Moldova,20,16
+Monaco,20,89
+Mongolia,20,70
+Montenegro,20,115
+Morocco,20,325
+Myanmar,20,75
+Nepal,20,767
+New Caledonia,20,22
+New Zealand,20,1603
+Nicaragua,20,472
+Niger,20,67
+Nigeria,20,13887
+North Korea,20,3
+Northern Mariana Islands,20,5
+Norway,20,320
+Oman,20,386
+Pakistan,20,6522
+Palau,20,7
+Panama,20,2047
+Papua New Guinea,20,37
+Paraguay,20,1214
+People's Republic of China,20,1567
+Peru,20,3033
+Poland,20,1131
+Portugal,20,847
+Puerto Rico,20,23
+Qatar,20,719
+Republic of Belarus,20,50
+Republic of Croatia,20,188
+Republic of Korea,20,283
+Republic of Mauritius,20,62
+Republic of Mozambique,20,64
+Republic of Serbia,20,527
+Republic of Slovenia,20,157
+Republic of the Philippines,20,2989
+Romania,20,169
+Russia,20,826
+Rwanda,20,623
+Saint Barthélemy,20,1
+Saint Kitts and Nevis,20,8
+Saint Lucia,20,13
+Saint Martin,20,7
+Saint Pierre and Miquelon,20,3
+Saint Vincent and the Grenadines,20,5
+Samoa,20,2
+San Marino,20,2
+Senegal,20,556
+Seychelles,20,20
+Sierra Leone,20,281
+Singapore,20,973
+Sint Maarten,20,13
+Slovak Republic,20,79
+Solomon Islands,20,13
+Somalia,20,424
+South Africa,20,8260
+Spain,20,27770
+Sri Lanka,20,1796
+Sudan,20,2
+Suriname,20,12
+Swaziland,20,66
+Sweden,20,809
+Switzerland,20,1755
+Syria,20,56
+Taiwan,20,365
+Tajikistan,20,10
+Tanzania,20,960
+Thailand,20,3943
+The Netherlands,20,4027
+Togo,20,105
+Tonga,20,1
+Trinidad and Tobago,20,182
+Tunisia,20,150
+Turkey,20,11866
+Turkmenistan,20,3
+Turks and Caicos Islands,20,8
+Uganda,20,2073
+Ukraine,20,177
+United Arab Emirates,20,2123
+United Kingdom,20,51181
+United States,20,153654
+United States Minor Outlying Islands,20,8
+Uruguay,20,739
+Uzbekistan,20,20
+Vanuatu,20,14
+Vatican City,20,25
+Venezuela,20,2881
+Vietnam,20,267
+"Virgin Islands, U.S.",20,10
+Yemen,20,23
+Zambia,20,240
+Zimbabwe,20,508
