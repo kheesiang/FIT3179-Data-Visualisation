@@ -27,13 +27,17 @@
 <script type="text/javascript">
   
   var spec1 = "js/chloropleth_map.vl.json";
-  
   vegaEmbed('#choropleth_map', spec1).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
   var spec2 = "js/heatmap.vl.json";
   vegaEmbed('#heatmap', spec2).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec3 = "js/twitter_scatterplot.vl.json";
+  vegaEmbed('#scatterplot', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>

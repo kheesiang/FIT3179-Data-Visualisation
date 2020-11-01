@@ -1,0 +1,59 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_tweets_by_hour.csv"
+    },
+    "vconcat": [
+      {
+        "encoding": {
+          "x": {
+            "field": "time",
+            "title": "Hour in the Day"
+          },
+          "y": {
+            "title": "Number of Tweets",
+            "field": "status_id",
+            "type": "quantitative"
+          },
+          "tooltip": [
+            {"field": "country", "type": "nominal", "title": "Country"},
+            {"field": "status_id", "type": "quantitative", "title": "Number of Tweets"},
+            {"field": "time", "type": "quantitative", "title": "Hour in the Day"}
+          ],
+          "size": {
+            "title": "Is Reply",
+            "field": "reply_to_status_id",
+            "type": "quantitative"
+          }
+        },
+        "width": 600,
+        "height": 300,
+        "mark": "point",
+        "selection": {"brush": {"encodings": ["x"], "type": "interval"}},
+        "transform": [{"filter": {"selection": "click"}}]
+      },
+      {
+        "encoding": {
+          "color": {
+            "condition": {
+              "selection": "click",
+              "field": "country",
+              "scale": {
+                "domain": ["sun", "fog", "drizzle", "rain", "snow"],
+                "range": ["#e7ba52", "#a7a7a7", "#aec7e8", "#1f77b4", "#9467bd"]
+              }
+            },
+            "value": "lightgray"
+          },
+          "x": {"aggregate": "count"},
+          "y": {"title": "Weather", "field": "weather"}
+        },
+        "width": 600,
+        "mark": "bar",
+        "selection": {"click": {"encodings": ["color"], "type": "multi"}},
+        "transform": [{"filter": {"selection": "brush"}}]
+      }
+    ]
+  }
+  
+  
