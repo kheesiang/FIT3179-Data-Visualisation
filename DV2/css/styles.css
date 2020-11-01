@@ -54,10 +54,10 @@ h1 {
 
 
 .title {
-	background-color: #1DA1F2;
-	padding: 30px;
+	background-color: #00509d;
 	text-align: center;
-	font-size: 35px;
+	font-size: 2em;
+    margin-bottom: 0.2em;
 }
   
 .column.right {
