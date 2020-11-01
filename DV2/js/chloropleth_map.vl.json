@@ -2,6 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 800,
   "height": 450,
+  "title": "Total Number of Tweets and Unique Users of Each Country",
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/js/ne_110m_admin_0_countries.topojson",
@@ -36,7 +37,7 @@
       "encoding": {
         "color": {
           "field": "total_tweets",
-          "title": "Total Number of Tweets",
+          "title": ["Total Number of Tweets", "Total Number of Unique Users"],
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -76,7 +77,7 @@
       "encoding": {
         "color": {
           "field": "total_unique_user_ids",
-          "title": "Total Number of Unique Users",
+          "title": ["Total Number of Tweets", "Total Number of Unique Users"],
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -112,6 +113,5 @@
       }
     }
   ],
-  "config": {
-  }
+  "config": {}
 }

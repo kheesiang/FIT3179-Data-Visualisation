@@ -1,0 +1,71 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "data": {"url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_stats_by_date.csv"},
+    "width": 400,
+    "height": 500,
+    "title": {
+      "text": "Average Tweets per Day", 
+      "subtitle": "(Top 10 Countries based on Total Number of Tweets)"
+    }, 
+    "transform": [
+        {
+        "aggregate": [{
+         "op": "sum",
+         "field": "total_tweets",
+         "as": "sum_of_tweets"
+        }],
+        "groupby": ["country"]
+      },
+      {
+        "calculate": "datum.sum_of_tweets/30",
+        "as": "Average Tweets per Day"
+      }
+    ],
+    "layer": [{
+      "selection": {
+        "multi": {
+          "type": "multi",
+          "encodings": ["x"]
+        }
+      },
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "country",
+          "type": "nominal",
+          "title": "Country"
+        },
+        "y": {
+          "field": "Average Tweets per Day",
+          "type": "quantitative",
+          "title": "Average Tweets per Day"
+        },
+        "tooltip": [
+          {"field": "country", "type": "nominal", "title": "Country"},
+          {"field": "Average Tweets per Day", "type": "quantitative", "format": ".2f"}
+        ],
+        "color": {"value": "#3d85c6"},
+        "opacity": {
+          "condition": {
+            "selection": "multi", "value": 1
+          },
+          "value": 0.7
+        }
+      }
+    }, {
+      "transform": [{
+        "filter": {"selection": "multi"}
+      }],
+      "mark": "rule",
+      "encoding": {
+        "y": {
+          "aggregate": "mean",
+          "field": "Average Tweets per Day",
+          "type": "quantitative"
+        },
+        "color": {"value": "firebrick"},
+        "size": {"value": 3}
+      }
+    }]
+  }
+  

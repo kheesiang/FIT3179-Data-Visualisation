@@ -3,6 +3,8 @@
     "data": {
       "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/country_tweets_by_hour.csv"
     },
+    "title": {
+      "text": "Number of Tweets by the Hour", "anchor": "middle"},
     "vconcat": [
       {
         "encoding": {
@@ -20,7 +22,11 @@
               "type": "quantitative",
               "title": "Number of Tweets"
             },
-            {"field": "reply_to_status_id", "type": "quantitative", "title": "Is a Reply"},
+            {
+              "field": "reply_to_status_id",
+              "type": "quantitative",
+              "title": "Is a Reply"
+            },
             {"field": "time", "type": "quantitative", "title": "Hour in the Day"}
           ],
           "size": {
@@ -65,7 +71,7 @@
         "selection": {"brush": {"encodings": ["x"], "type": "interval"}},
         "transform": [{"filter": {"selection": "click"}}]
       },
-      {
+      {"title": "Total Number of Tweets by Continent",
         "encoding": {
           "color": {
             "condition": {

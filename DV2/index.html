@@ -24,7 +24,6 @@
     </section>
     <div>
         <section>
-            <h2>Total Number of Tweets and Unique Users of Each Country</h2>
             <p>description</p>
             <center>
                 <div id="choropleth_map"></div><br><br>
@@ -32,22 +31,26 @@
         </section>
 
         <section>
-            <h2>Number of Tweets per Day</h2>
-            <h3>(Top 10 Countries based on Total Number of Tweets)</h3>
             <p>description</p>
-            <center>
+            <!-- <center>
                 <div id="heatmap"></div><br><br>
-            </center>
+            </center> -->
+            <div id="row">
+              <div id="column">
+                  <div id="heatmap"></div>
+              </div>
+              <div id="column">
+                  <div id="average_bar_chart"></div>
+              </div>
+            </div>
         </section>
         <section>
-            <h2>Number of Tweets by the Hour</h2>
             <p>description</p>
             <center>
                 <div id="scatterplot"></div><br><br>
             </center>
         </section>
         <section>
-          <h2>Top 10 Languages</h2>
           <p>description</p>
           <center>
               <div id="radial_plot"></div><br><br>
@@ -65,6 +68,11 @@
   
     var spec2 = "js/heatmap.vl.json";
     vegaEmbed('#heatmap', spec2).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var spec5 = "js/average_bar_chart.vl.json";
+    vegaEmbed('#average_bar_chart', spec5).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
   

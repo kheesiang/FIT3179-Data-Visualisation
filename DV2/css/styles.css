@@ -34,6 +34,12 @@
 }
 
 
+#average_bar_chart {
+	left: 200px;
+	right: 200px;
+}
+
+
 body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
@@ -57,3 +63,14 @@ p {
 	text-align: center;
 }
 
+
+#card {
+	float: left;
+	padding: 5px;
+	width: 50%;
+  }
+  
+#card_content::after {
+	display: table;
+	clear: both;
+  }
