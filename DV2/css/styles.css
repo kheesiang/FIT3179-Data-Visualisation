@@ -28,16 +28,16 @@
 		right: 210px;
 	}
 
-/* #radial_plot {
-	left: 250px;
-	right: 250px;
-} */
+#radial_plot {
+	left: 100px;
+	right: 100px;
+}
 
 
-/* #average_bar_chart {
-	left: 250px;
-	right: 250px;
-} */
+#average_bar_chart {
+	left: 100px;
+	right: 100px;
+}
 
 
 body {
