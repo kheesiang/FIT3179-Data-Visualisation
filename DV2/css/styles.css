@@ -62,6 +62,10 @@ h1 {
 	font-weight: bold;
 }
 
+.bolded {
+	font-weight: 900;
+}
+
 .sub_title {
 	padding-bottom: 10px;
 	font-size: 2em;
