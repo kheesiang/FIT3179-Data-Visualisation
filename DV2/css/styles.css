@@ -54,6 +54,7 @@
 
 p {
 	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
 }
 
 h1 {
@@ -68,17 +69,13 @@ h1 {
 }
 
 
-.bolded {
-	font-weight: 400;
-}
-
 .title {
+	font-family: 'Raleway', sans-serif;
 	background-color: #E1E8ED;
 	padding: 30px;
 	text-align: center;
 	font-size: 2em;
 	margin-bottom: 0.2em;
-	font-family: 'Raleway', sans-serif;
 }
 
 .column {
