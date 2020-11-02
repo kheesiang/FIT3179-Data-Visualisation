@@ -14,8 +14,8 @@
 
 
 #heatmap {
-	left: 250px;
-	right: 250px;
+	left: 200px;
+	right: 200px;
 }
 
 #choropleth_map {
@@ -24,8 +24,8 @@
 }
 
 #scatterplot {
-		left: 250px;
-		right: 250px;
+		left: 210px;
+		right: 210px;
 	}
 
 /* #radial_plot {
@@ -59,13 +59,9 @@ h1 {
 	font-size: 2em;
     margin-bottom: 0.2em;
 }
+
   
-.column.right {
-	float: right;
-	width: 50.00%;
-}
-  
-.column.left {
+.column {
 	float: left;
 	width: 50.00%;
 }
