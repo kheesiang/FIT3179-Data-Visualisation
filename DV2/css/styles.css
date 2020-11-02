@@ -19,21 +19,21 @@
 	/* left: 250px;
 	right: 250px; */
 	padding-left: 20%;
-	padding-right: 20%;
+	/* padding-right: 20%; */
 }
 
 #heatmap {
 	/* left: 200px;
 	right: 200px; */
-	padding-left: 15%;
-	padding-right: 20%;
+	padding-left: 12%;
+	/* padding-right: 20%; */
 }
 
 #scatterplot {
 	/* left: 210px;
 	right: 210px; */
 	padding-left: 15%;
-	padding-right: 20%;
+	/* padding-right: 20%; */
 }
 
 #radial_plot {

@@ -1,46 +1,58 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "title": "Top 10 Languages Used in Tweets",
-    "data": {
-      "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/top10_languages.csv"
-    },
-    "width": 400,
-    "height": 600,
-    "layer": [{
-      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
-    },{
-      "mark": {"type": "text", "radiusOffset": 10, "align": "right", "baseline": "middle"},
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": {
+    "text": "Top 10 Languages Used in Tweets",
+    "subtitle": "(Excluding English)"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/beeee-ks/FIT3179/main/DV2/data_source/top10_languages.csv"
+  },
+  "width": 400,
+  "height": 600,
+  "layer": [
+    {"mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}},
+    {
+      "mark": {
+        "type": "text",
+        "radiusOffset": 10,
+        "align": "right",
+        "baseline": "middle"
+      },
       "selection": {"highlight": {"type": "single"}},
-      "encoding": {
-        "text": {"field": "total_tweets", "type": "quantitative"}
-      }
+      "encoding": {"text": {"field": "total_tweets", "type": "quantitative"}}
     }
-    ],
-    "encoding": {
-      "theta": {"field": "total_tweets", "type": "quantitative", "stack": true},
-      "radius": {"field": "total_tweets", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
-      "color": {"field": "language", "type": "nominal", "title": "Language"},
-      "opacity": {
-        "condition": {"selection": "highlight", "value": 1},
-        "value": 0.2
-      },
-        "stroke": {
-        "condition": {
-          "test": {
-            "and": [
-              {"selection": "highlight"},
-              "length(data(\"highlight_store\"))"
-            ]
-          },
-          "value": "black"
-        },
-        "value": null
-      },
-      "tooltip": [
-        {"field": "language", "type": "nominal", "title": "Language"},
-        {"field": "total_tweets", "type": "quantitative", "title": "Number of Tweets"}
-      ]
+  ],
+  "encoding": {
+    "theta": {"field": "total_tweets", "type": "quantitative", "stack": true},
+    "radius": {
+      "field": "total_tweets",
+      "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}
     },
-    "view": {"stroke": null}
-  }
-  
+    "color": {"field": "language", "type": "nominal", "title": "Language"},
+    "opacity": {
+      "condition": {"selection": "highlight", "value": 1},
+      "value": 0.2
+    },
+    "stroke": {
+      "condition": {
+        "test": {
+          "and": [
+            {"selection": "highlight"},
+            "length(data(\"highlight_store\"))"
+          ]
+        },
+        "value": "black"
+      },
+      "value": null
+    },
+    "tooltip": [
+      {"field": "language", "type": "nominal", "title": "Language"},
+      {
+        "field": "total_tweets",
+        "type": "quantitative",
+        "title": "Number of Tweets"
+      }
+    ]
+  },
+  "view": {"stroke": null}
+}
