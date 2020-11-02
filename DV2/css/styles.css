@@ -61,11 +61,13 @@ h1 {
 }
   
 .column.right {
-	width: 50%;
+	float: right;
+	width: 50.00%;
 }
   
 .column.left {
-	width: 50%;
+	float: left;
+	width: 50.00%;
 }
 
 .column.middle {
