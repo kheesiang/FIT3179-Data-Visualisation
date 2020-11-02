@@ -77,9 +77,9 @@
         "width": 50,
         "title": {
           "text":"Sum of Tweets",
-          "fontSize": 25
+          "fontSize": 15
         },
-        "mark": {"type": "text", "fontSize": 20},
+        "mark": {"type": "text", "fontSize": 15},
         "encoding": {
           "text": {"field": "select_sum", "type": "quantitative"}
         }
