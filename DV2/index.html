@@ -15,76 +15,81 @@
 <body>
 
 <div>
-    <section>
-        <header class="title">
-          <h2>STATISTICS OF #COVID-19 TWEETS IN APRIL 2020</h2>
-        </header>
-          <p>
-            Towards the end of the first quarter of 2020, many countries had seen a surge in COVID-19 cases. However, by April 2020, most people would have been educated about the virus.
-            Nevertheless, it remains as a hot topic on social media platforms such as Twitter.
-          </p> 
-          <br>
-          <hr>      
-    </section>
-    <section>
-      <h2 class="sub_title">Tweets are International!</h2>
-      <p>
-        The following chloropleth map has been normalized by the respective country's population. By using the filter, we will be able to switch between the <b>number of tweets per 100,000 population</b>
-         and the <b>number of users per 100,000 population</b>.<br><br>Based on the map, we can see that <i>Ireland</i>, <i>United Kingdom</i> and <i>Canada</i> are among the top few countries with the 
-         most tweets. We can make an <b>assumption</b> that the COVID-19 cases are relatively higher for these countries in April.<br>
-      </p>
-      <div class="row">
-        <div id="choropleth_map"></div>
-      </div>
-    </section>
-    <br>
-    <hr>
-    <section>
-      <h2 class="sub_title">Tweets Over Time</h2>
-        <div class="row">
-          <div id="heatmap"></div>
-        </div>
-        <br>
+  <section>
+      <header class="title">
+        <h2>STATISTICS OF #COVID-19 TWEETS IN APRIL 2020</h2>
+      </header>
         <p>
-          As the days go by, the trends of tweets may change. One possible reason is that there may have either been an increase or decrease in COVID-19 cases or developments.<br><br>
-          The heatmap above shows the <b>number of tweets per day in April</b>, for the the top 10 countries with the most tweets. By brush-selecting regions in the chart, you will be able to calculate 
-          the sum of tweets for the highlighted bins. From this heatmap, we can not only tell that the <i>United States of America</i> has the most tweets, but its numbers were also rather consistent throughout 
-          the month compared to the other countries. 
-        </p>
-    </section>
-    <br>
-    <section>
-        <div class="row">
-          <div id="scatterplot"></div>
-        </div>
+          Towards the end of the first quarter of 2020, many countries had seen a surge in COVID-19 cases. However, by April 2020, most people would have been educated about the virus.
+          Nevertheless, it remains as a hot topic on social media platforms such as Twitter.
+        </p> 
         <br>
-        <p>
-          Now that we've seen the trends of tweets by the day, one might wonder if there are any trends in what time the tweets were tweeted. Or were they just random?<br><br>
-          The scatterplot above shows the <b>number of tweets by the hour</b>. The colour of the circles represents the continent, while the size shows how many of the tweets were actually a reply to another tweet. 
-          Meanwhile, the bar chart below it shows the <b>total number of tweets by continent</b>. To filter the scatterplot by continent, just click on the bars in the bar chart. 
-        </p>
-        <br>
-        <hr> 
-    </section>
-    <section>
-      <h2 class="sub_title">Something</h2>
-      <p>
-        The bar chart on the left shows the <b>average tweets per day</b> of the top 10 countries. The red line in the chart inidicates the total average of the these 10 countries. 
-        We are also able to select specific bars to see the total average of those countries selected. Once again, we can see that the <i>United States of America</i> has the highest average, with 
-        <i>India</i> coming in second.<br><br>
-        Moving on, many different languages were used in these tweets. Naturally, English was the most used language with a whopping <b>328213</b> tweets. 
-        The radial chart on the right shows the <b>top 10 languages used in tweets</b> after removing English from the list. It can be seen that <i>Spanish</i> is the most used language after English. 
-        It is also almost equivalent to the sum of the other 9 languages.<br>
-      </p>
+        <hr>      
+  </section>
+  <section>
+    <h2 class="sub_title">Tweets are International!</h2>
+    <p>
+      The following chloropleth map has been normalized by the respective country's population. By using the filter, we will be able to switch between the <b>number of tweets per 100,000 population</b>
+        and the <b>number of users per 100,000 population</b>.<br><br>Based on the map, we can see that <i>Ireland</i>, <i>United Kingdom</i> and <i>Canada</i> are among the top few countries with the 
+        most tweets. We can make an <b>assumption</b> that the COVID-19 cases are relatively higher for these countries in April.<br><br>
+    </p>
+    <div class="row">
+      <div id="choropleth_map"></div>
+    </div>
+  </section>
+  <br>
+  <hr>
+  <section>
+    <h2 class="sub_title">Tweets Over Time</h2>
       <div class="row">
-        <div class="column">
-            <div id="average_bar_chart"></div>
-        </div>
-        <div class="column">
-            <div id="radial_plot"></div>
-        </div>
+        <div id="heatmap"></div>
       </div>
-    </section>
+      <br>
+      <p>
+        As the days go by, the trends of tweets may change. One possible reason is that there may have either been an increase or decrease in COVID-19 cases or developments.<br><br>
+        The heatmap above shows the <b>number of tweets per day in April</b>, for the the top 10 countries with the most tweets. By brush-selecting regions in the chart, you will be able to calculate 
+        the sum of tweets for the highlighted bins. From this heatmap, we can not only tell that the <i>United States of America</i> has the most tweets, but its numbers were also rather consistent throughout 
+        the month compared to the other countries. 
+      </p>
+  </section>
+  <br>
+  <section>
+      <div class="row">
+        <div id="scatterplot"></div>
+      </div>
+      <br>
+      <p>
+        Now that we've seen the trends of tweets by the day, one might wonder if there are any trends in what time the tweets were tweeted. Or were they just random?<br><br>
+        The scatterplot above shows the <b>number of tweets by the hour</b>. The colour of the circles represents the continent, while the size shows how many of the tweets were actually a reply to another tweet. 
+        Meanwhile, the bar chart below it shows the <b>total number of tweets by continent</b>. To filter the scatterplot by continent, just click on the bars in the bar chart. 
+      </p>
+      <br>
+      <hr> 
+  </section>
+  <section>
+    <h2 class="sub_title">Something</h2>
+    <p>
+      The bar chart on the left shows the <b>average tweets per day</b> of the top 10 countries. The red line in the chart inidicates the total average of the these 10 countries. 
+      We are also able to select specific bars to see the total average of those countries selected. Once again, we can see that the <i>United States of America</i> has the highest average, with 
+      <i>India</i> coming in second.<br><br>
+      Moving on, many different languages were used in these tweets. Naturally, English was the most used language with a whopping <b>328213</b> tweets. 
+      The radial chart on the right shows the <b>top 10 languages used in tweets</b> after removing English from the list. It can be seen that <i>Spanish</i> is the most used language after English. 
+      It is also almost equivalent to the sum of the other 9 languages.<br><br>
+    </p>
+    <div class="row">
+      <div class="column">
+          <div id="average_bar_chart"></div>
+      </div>
+      <div class="column">
+          <div id="radial_plot"></div>
+      </div>
+    </div>
+  </section>
+  <br>
+  <hr> 
+  <section>
+
+  </section>
 </div>
 
 <script type="text/javascript">
