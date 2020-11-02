@@ -16,17 +16,23 @@
 #heatmap {
 	left: 200px;
 	right: 200px;
+	padding-left: 20%;
+	padding-right: 20%;
 }
 
 #choropleth_map {
 	left: 250px;
 	right: 250px;
+	padding-left: 20%;
+	padding-right: 20%;
 }
 
 #scatterplot {
-		left: 210px;
-		right: 210px;
-	}
+	left: 210px;
+	right: 210px;
+	padding-left: 20%;
+	padding-right: 20%;
+}
 
 #radial_plot {
 	left: 100px;
