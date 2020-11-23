@@ -12,3 +12,5 @@ Tableau Public Visualisations:
  
 Vega-Lite Visualisations:
 - 
+- STATISTICS OF #COVID-19 TWEETS IN APRIL 2020 - https://kheesiang.github.io/FIT3179-Data-Visualisation/DV2/
+- Player Statistics for Top 5 Teams (EPL 19-20) - https://kheesiang.github.io/FIT3179-Data-Visualisation/Week_10_Homework/
